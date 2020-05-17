@@ -10,3 +10,12 @@ Hi！同学你好，
 支持我们完成这个很难但很有价值的项目！
 
 先让我们了解一些你的基本信息吧：
+
+---
+
+在面临搬家时，最让你头疼的问题是？（选择并排序前三大问题）
+What are the most painful parts when moving home? (choose the top 3 problems)
+
+在处理“家具“过程中，哪些问题是你最常遇见的？
+（点击“选项“排序前三大问题）
+What is the most frequently problem for you? (Click "Options" to sort it)
