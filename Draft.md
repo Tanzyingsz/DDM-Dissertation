@@ -10,7 +10,7 @@ General area
 Technique
 
 - SASS
-- vue.js
+- vue.js/react.js
 - webpack
 - npm
 - css/js animation
