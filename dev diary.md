@@ -1,0 +1,43 @@
+Overview of everyday progress.
+
+**30 MAY**
+Found article support on motion design.
+
+**29 MAY**
+Read and note"Building a storybrand"
+
+**28 MAY**
+Day off
+
+**27 MAY**
+Build the first prototype in Adobe XD.
+
+**26 MAY**
+Read part of the "The Design of Everyday Things".
+
+**25 MAY**
+Go through more previous student works and spread the searching area to environment protecting related websites.
+
+**24 MAY**
+Sketch the abstract model of a shopping webiste. Still not decided how much should I built yet.
+
+**23 MAY**
+Case study on second-hand shopping websites.
+
+**22 MAY**
+Case study on second-hand shopping websites.
+
+**21 MAY**
+Online meeting with Andrew. Rest of the day off.
+
+**20 MAY**
+Anaysis user needs through mind map.
+
+**19 MAY**
+Interview with students who had experience in moving home, try to figure out their needs.
+
+**18 MAY**
+Analysis "Course description and Guidance Notes"
+
+**17 MAY**
+SASS learning on [freecodecamp](https://www.freecodecamp.org/ "freecodecamp")
