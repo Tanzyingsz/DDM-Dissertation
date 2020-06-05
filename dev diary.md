@@ -1,5 +1,20 @@
 Overview of everyday progress.
 
+**5 JUNE**
+Relisten the feedback on 3June, take down more notes. Looked for 10 storytelling websites.
+
+**4 JUNE**
+Collect materials for the science behind storytelling. Draft the overall framework of the thesis.
+
+**3 JUNE**
+Talked to Andrew, get feed back on current literature review. Get workflow working. Follow up the progress of other students.
+
+**2 JUNE**
+Settle the website theme. Literature review snippets.
+
+**1 JUNE**
+Day off
+
 **30 MAY**
 Found article support on motion design.
 
