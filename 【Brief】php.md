@@ -1,6 +1,5 @@
 **Project summary:**
 
-
 **Project schedule:**
 
 【5.11-5.31】Research on user needs and competitors，nail the function and position of the website.
@@ -15,5 +14,17 @@
 
 【Research】 Discovered, Sci-hub 【Technology】（Blender）HTML/CSS,SVG animation, React.js,webpack,JavaScript 【Blog】Wordpress
 
-
 **Project outcomes:**
+
+---
+
+**Keywords:**
+e-commerce, interactive,
+
+environmental awareness, sustainbility
+reuse, redesign
+
+**Calculate:**
+business value
+
+注意：除了找某一个领域的意见，还要找谁 argue 了他，怎么说的

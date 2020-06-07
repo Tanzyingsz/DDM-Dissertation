@@ -1,5 +1,11 @@
 Overview of everyday progress.
 
+**7 JUNE**
+Stroytelling website questionnaire collection 3/10. Analysis the 10storytelling websites. Sketch the logo. Prepare for filling the proejct list. Begin to answer the question list sent by John 1/22.
+
+**6 JUNE**
+Went through 100+ websites, picked the storytelling ones, prepared questionnaires to test the target audience taste on modern storytelling websites.
+
 **5 JUNE**
 Relisten the feedback on 3June, take down more notes. Looked for 10 storytelling websites.
 
