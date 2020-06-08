@@ -12,9 +12,10 @@
 
 **Project resources:**
 
-【Research】 Discovered, Sci-hub 【Technology】（Blender）HTML/CSS,SVG animation, React.js,webpack,JavaScript 【Blog】Wordpress
+【Research】 Discovered, Sci-hub 【Technology】HTML/CSS,SVG animation,webpack,JavaScript,webflow 【Blog】Wordpress
 
 **Project outcomes:**
+An interactive web app that includes: an immersive storytelling page that aims raise environment-awareness to the customers, an entrance to donate second hand household items and a shop page to buy reused and redesigned items.
 
 ---
 
