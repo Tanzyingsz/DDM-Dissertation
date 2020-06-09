@@ -1,3 +1,18 @@
+## Ins Mockup
+
+Re-Touch
+
+Redesigned Furniture Store
+Product/Service
+
+The selection of Designer-remade furniture that everyone can afford.
+
+♻️Sell & Rent the stylish pre-loved furniture for our planet. Doorstep collect and delivery.
+
+Tell us what you have
+
+## 调查问卷
+
 Hi！同学你好，
 这是一个关于家具旧物的 Circular Economy 的项目。
 其实 Circular Economy（循环经济）在上世纪九十年代就已经被提出了，
@@ -22,7 +37,8 @@ What is the most frequently problem for you? (Click "Options" to sort it)
 
 ---
 
-**6.8 宣传语**
+## 6.8 宣传语
+
 1.0
 我们毕设在尝试做一个帮助留学生减少地球资源浪费的项目！现在就在试验回收毕业生的所有物品[Concerned]要不要成为我们的超天使用户！！我们可以订搬家服务去收你的东西。一部分会用在 workshop 做 redesign，另一部分会被出售然后希望能做个基金，[Hey][hey]
 

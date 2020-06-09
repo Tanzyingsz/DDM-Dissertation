@@ -1,4 +1,6 @@
 Overview of everyday progress.
+**7 JUNE**
+Organize the questionnaire result. Draft the project brief.
 
 **7 JUNE**
 Stroytelling website questionnaire collection 3/10. Analysis the 10storytelling websites. Sketch the logo. Prepare for filling the proejct list. Begin to answer the question list sent by John 1/22.
