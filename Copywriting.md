@@ -101,5 +101,7 @@ RE:source 荣誉成员
 
 感谢信/捐赠证书
 最棒的 xxx，
-在你的帮助下，xxx 件家具将摆脱进入垃圾场的命运，重获新生！
+在你的帮助下，xxx 件家具将摆脱进入垃圾场的命运，重获新生！You support means a lot to us!
 欢迎加入 RE:source 环保大家庭:P
+
+你的唯一 ID 如下：
