@@ -5,11 +5,15 @@ RE:source is an educational sustainable second-hand marketplace that aims to bri
 ---
 
 _思路_
-_#STROYBRAND 市场销售状况->形势很严峻->要靠 story brand 突出重围->环保越来越被重视，而且也是 brandstroy 七要素之一，所以要强调 sustainbility lifestyle_
+_#STROYBRAND 市场销售状况->形势很严峻->要靠 story brand 突出重围(概念，重点提出 long-lasting story 特点)->环保越来越被重视，而且也是 brandstroy 七要素之一，所以要强调 sustainbility lifestyle_
 
-_#INTERACTIVE STROY TELLING 通过 interacitve storytelLing 可以更好地 educate sustainbility->调查研究了十个网站，它们是怎么 storytelling_
+_#INTERACTIVE STROY TELLING 通过 interacitve storytelLing 可以更好地 educate sustainbility->调查研究了十个网站，它们是怎么 storytelling，从而 hook 了用户_
 
-_#DESIGN BRIEF 从上面总结出来三个 design principle_
+_##UI,UX_
+
+_#PROJECT BRIEF 从上面总结出来三个 design principle_
+
+---
 
 ### Storybrand
 
@@ -25,7 +29,7 @@ the important components for building a good brand story
 
 _分析别人的网站里面故事是怎么讲的_
 _有哪些元素让这些故事更生动: interactive story 有什么形式，它们有什么好处，什么坏处_
-10 educational websites that express brand stories well are being analysised first. The focus of this stage is to dig out the advantage and disadvantage they have in common.
+10 educational websites that express brand stories well are being analysised first. The focus of this stage is to dig out common features of a good storytelling websites.
 
 Intstructive animations exists in 90% of the websites. Although the concept of multimedia is becoming more famous these days, videos and images are not necessarily the compulsory part of every website. Only 2 websites embedded them all, while the rest goes for one of the two media or simply use illustrations to depict its content. Loading aniamtion is another component that is commonly used (8 of 10). Almost all (9 of 10) websites used parallax effect in their pages, whether subtle or obvious. The paragrah and illustrations on several layers whose moving rate follows the rule or "the nearer the faster", create a sense of depth of the virtual environment. Even though the visual effect has been attached much attention, the sound effect is less concerned.
 
@@ -44,7 +48,7 @@ There are some details that needs to be noticed: 3 out of 12 mentioned their "CP
 
 ---
 
-### The importance of interactive storytelling
+### Interactive storytelling
 
 Storytelling paves the way to get insight into users and build emotional connections with them.
 
@@ -75,22 +79,19 @@ Definition of a good story in online business: establish a good branding figure,
 Principles
 from “Building a StoryBrand Clarify Your Message So Customers Will Listen by Donald Miller”
 
-The common features of a good storytelling websites
 case study of 10 websites that tells a good story
 
 ---
 
-### DESIGN BRIEF
-
 #### UX(User experience)
 
-##### What is interaction design
+##### Interaction design
 
 By definition, the word “interaction” means “an occasion when two or more people or things communicate with or react to each other”(INTERACTION | meaning in the Cambridge English Dictionary, 2020). When it comes to the concept of a website, the designer is actually creating a conversation and building a relationship between the platform and its customers through interaction(Nichols, 2017). It is crucial to make this “conversation” as natural as possible.
 
-When a user comes across a good interaction system, it should be like “... interactions with a polite, considerate human. ” (Cooper, Reimann and Cronin, 2007)The reason behind is buried in the human instinct - if an object performs a certain level of interactivity, the instinct of behaving like another sentient being is activated. (Reeves and Nass, 1996) Thus people are able to build emotional connections with websites embedded fine interactions.
+As pointed out in “Don’t make me think!” (Krug, 2006), user tend to “scan” the web pages instead of reading words by words and only stop by the fraction that interests them. Therefore catching user attention with interaction design become extremely important.
 
-Therefore, tell the story in an interactive way is more efficient than static.
+When a user comes across a good interaction system, it should be like “... interactions with a polite, considerate human. ” (Cooper, Reimann and Cronin, 2007)The reason behind is buried in the human instinct - if an object performs a certain level of interactivity, the instinct of behaving like another sentient being is activated. (Reeves and Nass, 1996) Thus people are able to build emotional connections with websites embedded fine interactions. Therefore, tell a story in an interactive way is more efficient than static approach.
 
 ##### Motion, the salt of interaction design.
 
@@ -105,10 +106,6 @@ In the scenarios where the user has to wait for feedback when submitting forms o
 _TBC: effects on emotion and environment_
 
 Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas. Just like salt: overuse them will ruin the flavour; leave them out will leave recipe tastes bland.
-
-#### Why interaction design is important in user experience?
-
-As pointed out in “Don’t make me think!” (Krug, 2006), user tend to “scan” the web pages instead of reading words by words and only stop by the fraction that interests them. Therefore catching user attention with … become extremely important.
 
 #### UI(User interface)
 
@@ -132,6 +129,27 @@ Although making the website 100% accessible is not possible within the limited a
 This is a set of regulations aiming to control how companies manage their user data.(Guide to the General Data Protection Regulation (DGPR), 2018) To comply with the GDPR, ...https://medium.com/@ageitgey/understand-the-gdpr-in-10-minutes-407f4b54111f
 
 _#### experience on mobile_
+
+---
+
+### PROJECT BRIEF
+
+#### Design Pinciples
+
+- Work hard, make it simple
+  Reuduce the noise that distract users,
+
+#### Budget
+
+Based on the market price of website builders and servers, the budget is limited to no more than ￡ 100.
+
+#### Deliverables
+
+1. A Low-fidelity wireframe prepared for the development process.
+2. A high fidelity wireframe for gaining early stage feedback.
+3. The fully functional website.
+
+Core consideration would be: how persuasive the setting of the story is, how fluent the pages are, how easy to navigate the shopping function and the overall performance. The efficiency of this website will be tested through user interview and assessed by some important website metrics, namely bounce rate and time spent on pages.
 
 ## Methodology
 
