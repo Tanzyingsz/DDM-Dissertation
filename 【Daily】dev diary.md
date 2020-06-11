@@ -1,9 +1,15 @@
 Overview of everyday progress.
-**7 JUNE**
+**10 JUNE**
+Build site map. Collect background information for literature review. Test on webflow.
+
+**9 JUNE**
+Literature review.
+
+**8 JUNE**
 Organize the questionnaire result. Draft the project brief.
 
 **7 JUNE**
-Stroytelling website questionnaire collection 3/10. Analysis the 10storytelling websites. Sketch the logo. Prepare for filling the proejct list. Begin to answer the question list sent by John 1/22.
+Stroytelling website questionnaire collection 3/10. Analysis the 10storytelling websites. Sketch the logo. Prlogoepare for filling the proejct list. Begin to answer the question list sent by John 1/22.
 
 **6 JUNE**
 Went through 100+ websites, picked the storytelling ones, prepared questionnaires to test the target audience taste on modern storytelling websites.
