@@ -13,13 +13,13 @@ Running a marketplace is actually building a brand. Storytelling is a powerful w
 ---
 
 _思路_
-_#STROYBRAND 市场销售状况->形势很严峻->要靠 story brand 突出重围(概念，重点提出 long-lasting story 有什么特点)->环保越来越被重视，而且也是 brandstroy 七要素之一，所以要强调 sustainbility lifestyle_
+_【Storybrand】 二手市场销售状况->形势很严峻->要靠 story brand 突出重围 (storybrand 七个步骤，还要提出 long-lasting story 有什么特点)->环保越来越被重视，而且也是 brandstroy 七要素之一，所以要强调 sustainbility lifestyle_
 
-_#INTERACTIVE STROY TELLING 通过 interacitve storytelLing 可以更好地 educate sustainbility->调查研究了十个网站，它们是怎么 storytelling，从而 hook 了用户_
+_【Interacitve Stroytelling And User Experience】 通过 interacitve storytelLing 可以更好地 educate sustainbility->调查研究了十个网站，它们是怎么 storytelling，从而 hook 了用户_
 
-_#UI,UX_
+_【PROJECT BRIEF】_
 
-_#PROJECT BRIEF 从上面总结出来三个 design principle_
+_暂时不知道放哪里的关键词：UI, UX, user-centered experience, customer behaviour_
 
 ---
 
@@ -35,13 +35,20 @@ _#PROJECT BRIEF 从上面总结出来三个 design principle_
 
 10 interactive educational websites that express brand stories well are being analysised. The focus of this stage is to find out common features of a good storytelling websites.
 
-The variables that contributes to an impressive educational websites are instructive animations
+(正)
+The variables that contributes to an impressive educational websites are instructive animations, () and ().Intstructive animations exists in 90% of the websites. Especially in Cytora (https://cytora.com/ai-guide/) , the whole experience is completed through watching the animated story scene. These animations serve to simplified the efforts of understanding complex content.
 
----
+（反）
+Meanwhile,the absence or misuse of some function leads to negative impressions.
+
+（中立）
+Nearly every participant mentioned the colour scheme of the websites. However, the taste of colour is relatively subjective. Therefore, the individual colour palette of RE:source will be decieded accroding to colour theory（文献：色彩理论）. Although the concept of multimedia is becoming more famous these days, videos and images are not necessarily the compulsory part of every website. Only 2 websites embedded them all, while the rest goes for one of the two media or simply use illustrations to depict its content. Loading aniamtion is another component that is commonly used (8 of 10). Almost all (9 of 10) websites used parallax effect in their pages, whether subtle or obvious. The paragrah and illustrations on several layers whose moving rate follows the rule or "the nearer the faster", create a sense of depth of the virtual environment. Even though the visual effect has been attached much attention, the sound effect is less concerned.
 
 ---
 
 ### Project Brief
+
+#### Overview Of RE:source
 
 #### Design Pinciples
 
