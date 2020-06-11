@@ -4,9 +4,17 @@ RE:source is an educational sustainable second-hand marketplace that aims to bri
 
 ---
 
+_思路_
+_#STROYBRAND 市场销售状况->形势很严峻->要靠 story brand 突出重围->环保越来越被重视，而且也是 brandstroy 七要素之一，所以要强调 sustainbility lifestyle_
+
+_#INTERACTIVE STROY TELLING 通过 interacitve storytelLing 可以更好地 educate sustainbility->调查研究了十个网站，它们是怎么 storytelling_
+
+_#DESIGN BRIEF 从上面总结出来三个 design principle_
+
 ### Storybrand
 
-_二手平台的市场状况 uncertainy_, _storybrand 的销售数据_ thus building a brand with story might be a potentional persuasion strategy.
+_二手平台的市场状况 uncertainy_, _storybrand 的销售数据_
+Thus building a brand with story might be a potentional persuasion strategy.
 
 Academic researchs have already emphasized the importance of storytelling in mutipule brands._说明 storytelling 在 branding 种作用的文章_
 
@@ -15,6 +23,8 @@ the important components for building a good brand story
 
 #### WEBSITE ANALYSIS
 
+_分析别人的网站里面故事是怎么讲的_
+_有哪些元素让这些故事更生动: interactive story 有什么形式，它们有什么好处，什么坏处_
 10 educational websites that express brand stories well are being analysised first. The focus of this stage is to dig out the advantage and disadvantage they have in common.
 
 Intstructive animations exists in 90% of the websites. Although the concept of multimedia is becoming more famous these days, videos and images are not necessarily the compulsory part of every website. Only 2 websites embedded them all, while the rest goes for one of the two media or simply use illustrations to depict its content. Loading aniamtion is another component that is commonly used (8 of 10). Almost all (9 of 10) websites used parallax effect in their pages, whether subtle or obvious. The paragrah and illustrations on several layers whose moving rate follows the rule or "the nearer the faster", create a sense of depth of the virtual environment. Even though the visual effect has been attached much attention, the sound effect is less concerned.
