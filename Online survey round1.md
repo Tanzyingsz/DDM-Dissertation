@@ -31,6 +31,33 @@ DISADVANTAGE:
 - More interaction rather than simply scroll might build a better emotion connection.(2/5)
 - No call to action button! I can't do anything despite connecting with the brand!(2/5)
 
+**2. Swab The World**
+https://swabtheworld.com/
+
+**3. SOS Ciolence Conjugale**
+https://itsnotviolent.com/
+
+**4. Artificial intelligence in commercial underwriting**
+https://cytora.com/ai-guide/
+
+**5. KUA Coffee**
+https://kuacoffee.co/
+
+**6. Adventure Awaits...**
+https://www.defeatboco.com/
+
+**7. Zenly**
+https://zen.ly/
+
+**8. The Bottle Is The Message**
+https://dopper.com/our-mission
+
+**9. WWF Finprint Game**
+https://www.wwf-finprint.org/en
+
+**10. Build Securely**
+https://safe.page/buildsecurely/
+
 #### CONCLUSION
 
 **UX**
