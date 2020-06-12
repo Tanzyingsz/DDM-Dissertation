@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**11 JUNE**
+Attended "effective research" class in the morning. Prepare for the second round of questionnaire. Switch the main question from "storytelling" to "design elements".
+
 **10 JUNE**
 Build site map. Collect background information for literature review. Test on webflow.
 
