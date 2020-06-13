@@ -11,18 +11,18 @@ Why these 10 websites are selected out of over 200 award winning canidates and t
 **1.Madies**
 https://madies.mx/
 
-REASON FOR SELECTION
+**REASON FOR SELECTION**
 
 This animated one-page website perfectly illustrate the irresistible features of its product through the description that stimulate imagination on both visual and taste. A typical product selling page.
 
-ADVANTAGE:
+**ADVANTAGE:**
 
 - Bold and modern colour scheme (4/5)
 - Clear and vivid description (3/5)
 - Interesting instructive animation (2/5)
 - Comfortable typefaces(1/5)
 
-DISADVANTAGE:
+**DISADVANTAGE:**
 
 - Parts of the website is too wordy, only scan through the larger title.(3/5)
 - Some slides are the lake of guidance, waste some lovely content.(2/5)
@@ -67,6 +67,7 @@ The effect of the colour changing part conflicts. Although some find it interest
 https://itsnotviolent.com/
 
 **REASON FOR SELECTION:**
+
 A creative educational website. Not only contains knowledge but also the entrance to help. Provides a mobile-like experience on laptop. Gamified user experience ensures the user can learn more about judging violence in daily life, even if the scenario does not look like one. Interestingly, when open this website on mobile, the frame of phone mockup will disappear. Therefore the whole conversation feels like live on phone.
 
 **ADVANTAGE:**
@@ -95,6 +96,7 @@ The usage of memes is questionable.
 https://cytora.com/ai-guide/
 
 **REASON FOR SELECTION:**
+
 A classic "scroll-down-for-more" e-book like storytelling experience.
 
 **ADVANTAGE:**
@@ -111,14 +113,61 @@ A classic "scroll-down-for-more" e-book like storytelling experience.
 - Heavy on CPU (2/5)
 - Limit in 'scroll speed'which result in a slow experience in each section（2/5）
 
+---
+
 **5. KUA Coffee**
 https://kuacoffee.co/
 
+**REASON FOR SELECTION:**
+
+Retelling the heart-warming real life story brought by the brand. Not a website with fancy animations, but the simple interaction that affects the statistcs is persuasive.(Slide the bar of"How many coffees do you have a day?" result in the change on the land you save) Could be regarded as a control group example compared to the rest of the candidates rich in animations.
+
+**ADVANTAGE:**
+
+- landing page question is attractive (3/5)
+- The interaction makes me think (2/5)
+- adequate amount of images (2/5)
+- Visual design is amazing (1/5)
+- "The story in this page really burn the image of the happy farmer in my mind. Instantly trust the brand and want to try its product.“(1/5)
+
+**DISADVANTAGE:**
+
+- The coffee image at the beginning is not suitable for the overall style (3/5)
+- The text on the menu bar can be smaller(1/5)
+- Can skip process on mobile version and directly land on the main description page. Must be a bug.(1/5)
+- Interaction is mot fluent enough(1/5)
+
 **6. Adventure Awaits...**
 https://www.defeatboco.com/
+**REASON FOR SELECTION:**
+**ADVANTAGE:**
+**DISADVANTAGE:**
 
 **7. Zenly**
 https://zen.ly/
+
+**REASON FOR SELECTION:**
+A product propaganda page with well-designed 3D environemnts.Overall still a scorlling experience, with several extra click involved. Specifically, the website uses sound effect and continous hover effect to help building a cheerful brand image.
+
+**ADVANTAGE:**
+
+- Colorful and fashion (4/5)
+- The stories are connected and based on real social scenarios, like interacting with friends (3/5)
+- BGM and sound effect make the environemnt immersive (2/5)
+- Nice bubbly interactions (2/5)
+- Call to action is clear (2/5)
+
+**DISADVANTAGE:**
+
+- Worry about the safety of privacy (3/5)
+- Don't know what to do at the beginning, need some guide that tells me to scroll (2/5)
+- Colour is not well-picked (1/5)
+- Download message is annoying (1/5)
+
+**REMARK:**
+When there is a huge question mark in consumer's head - in this case, about the privacy security, provide the solution in page and make it easy to be seen. At the end of scrolling the story, there is a link says "Zenly is good for you" with the security guarantee inside. But the slogan did not made its goal crystal clear. Directly says "Zenly is safe for you, want to know why?" might be a better choice.
+
+The judge on colour is rather subjective and change according to the personal emotion of users. Therefore a scientific colour scheme that express the right brand emotion is necessary.
 
 **8. The Bottle Is The Message**
 https://dopper.com/our-mission
@@ -148,6 +197,7 @@ Here are the takeaways of the 10 websites under surveyed:
 1. Adequate amount of gamification like multiple choice might engage the audience.
 2. The length and the number of stories inside a page has to be reasonable. Too less, user might find the website too boring to browse through. Too much, user will have no patient going through all of the content.
 3. Always give user the choice to skip unless it is absolutely necessary to stay in a certain page. User might leave because they cannot immediately jump to the section they want.
+4. The proformance of a page matters. When a website burn the laptop hard or not interact fluently, user will get negative impression.
 
 **UI**
 
