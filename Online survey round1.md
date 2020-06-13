@@ -281,36 +281,28 @@ This is a gamified experience to help customer know the carbon footprint of eati
 https://safe.page/buildsecurely/
 
 **REASON FOR SELECTION:**
-A product selling page that has a distinct control from the usual "scroll-down" experience - the navigation bar is triggered when scrolling up.
+A product selling page that has a distinct control from the usual "scroll-down" experience - the navigation bar is triggered when scrolling up. And it build up two character for comparison.
 
 **ADVANTAGE**
 
-- the interactions makes the meaning of the paragraphs clear. +1
-- functional, persuasive for taking action.
-- the story setting in universive is fresh and nteresting +1
-- visual design appealing, design style continous +1
+- The animations makes the meaning of the paragraphs clear(3/5)
+- The story setting in universive is fresh and nteresting (3/5)
+- Visual design appealing, design style continous with calm and clear colour(3/5)
+- Functional, persuasive for taking action (2/5)
 - comparison between 2 characters persuasive（2/5）
 
-- Colour calm and comfortable"
-
 **DISADVANTAGE**
-"- arrow on the top and the dots on the right serves the same function, not necessary to have them both
 
-- navigation bars are hidden during the storytelling, which is not convenient.
-- too many aniamtion without description, they are just connection animation
-- Main page to complicated
-- actually lack of interaction, and the experience is linear, no skippable. Takes too much effort to the call to action page. User might leave way before the end.
-- does not react to mouse wheel scrolling +1
-- play and pause button too small and confusing
-- would be better to control the animation speed out of own will
-- Add caption to the video embedded
-- begin at the bottom is really confusing, clicked to the top dot out of instinct and get confused
-- ""learn more"" page cannot be seen as a video at first. Need some play/pause icon."
-
-"- The instruction on how to use this page is unclear. Although the logic of scrolling from bottom to top, as the background is launching a rocket, make sense. But it is actually against the user instinct. Extra hint is needed. What is more disappointing - the user have to click the side point to trigger animations, or wait for a section of animation end, and click the top button to continue. Scrolling does not even work in this page...
-
-- The caption in autoplay animation is changing too fast. The play and pause button on the right bottom is WAY TOO SMALL to see.
-- It is annoying that every section of the story has to play from its beginning. Feels like looking a video without control bar. Replace the autoplay function with scolling to a certain area trigger a short anmiation might be more reasonable."
+- Begin at the bottom is really confusing, clicked to the top dot out of instinct and get confused (4/5)
+- Arrow on the top and the dots on the right serves the same function, not necessary to have them both (2/5)
+- Navigation bars are hidden during the storytelling, which is not convenient (2/5)
+- Too many aniamtion without description, they are just connecting the plot and their speed cannot be adjuste.Would be better to control the animation speed out of own will. (2/5)
+- Landing page too complicated
+- Actually lack of efficient interaction, and the experience is linear, no skippable. Takes too much effort to the call to action page. User might leave way before the end. Replace the autoplay function with scolling to a certain area trigger a short anmiation might be more reasonable.(2/5)
+- Does not react to mouse wheel scrolling (3/5)
+- Play and pause button on the bottom right too small and confusing (3/5)
+- Add captions to the video embedded (1/5)
+- "learn more"" page cannot is not recognizable as a video at first. Need some play/pause icon."
 
 ---
 
@@ -345,10 +337,4 @@ Here are the takeaways of the 10 websites under surveyed:
 2. The accessibility of the font should be considered.
 3. The style of buttons in the same website should be consistent.
 
----
-
-#### Round 2: Criteria on the 5 websites
-
-**Story**
-Retell the story of a true experience (KUA coffee)
-Make up story with hypothetical character for the explaination (Cytora，Build Securely)
+_More content will directly be added to the Literature Review_
