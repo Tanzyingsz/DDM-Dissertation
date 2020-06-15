@@ -41,10 +41,10 @@ How often should the call to action message appears？
 
 # INTRODUCTION
 
-As there is not much precedent studies on... as a means to sustainable sencond-hand brand, this study explores...
+As there are not many precedent studies on... as a means to sustainable second-hand brand, this study explores...
 
 **Research question**
-By identifying and analysising the various elements that makes up interactive web design, the aim of this study is to investigate and uncover how these elements affects the consumer trust towards a sustainable brand.
+By identifying and analysing the various elements that make up interactive web design, the aim of this study is to investigate and uncover how these elements affect consumer trust towards a sustainable brand.
 
 • What are the main design attributes in interactive web design?
 • Which design attribute made the most impact on a sustainable brand?
@@ -52,17 +52,17 @@ By identifying and analysising the various elements that makes up interactive we
 
 # LITERATURE REVIEW
 
-This study assesses the relationships between design attributes and the user experience in second-hand sustainiable marketplace RE:source and evaluates the levels of brand trust to RE:source among (?) UK Chinese students.
+This study assesses the relationships between design attributes and the user experience in second-hand sustainable marketplace RE: source and evaluates the levels of brand trust to RE: source among (?) UK Chinese students.
 
-A well-designed website should be able to produce satisfying user experience which includes: illustrate the necessay information of the product, build appropiate process that help and retain user to access the desired information with ease and finally earn the user trust. Specifically, design attributes play a key role in raising the standard of trust between user and brand (Cheung, Chan, & Limayen, 2005) Therefore, developing a organized and user-friendly webiste is crucial for accumulating online customers with higher trust standard.
+A well-designed website should be able to produce satisfying user experience which includes: illustrate the necessary information of the product, build appropriate process that helps and retain user to access the desired information with ease and finally earn the user trust. Specifically, design attributes play a key role in raising the standard of trust between user and brand (Cheung, Chan, & Limayen, 2005) Therefore, developing an organized and user-friendly website is crucial for accumulating online customers with higher trust standard.
 
-Within the domain of well-produced web design, there are five attributes proposed by previous design communities(Palmer and Jonathan,2002; Wang and Sylvain, 2007). Hereby list them as followed: Colour, typography, content quality, navigation and interacitivity. While colour and typography are in the scope of visual design (Hasan, 2016);content quality, naviagtion and interactivity belongs to performance metrics (Palmer and Jonathan,2002).
+Within the domain of well-produced web design, there are five attributes proposed by previous design communities(Palmer and Jonathan,2002; Wang and Sylvain, 2007). Hereby list them as followed: Colour, typography, content quality, navigation and interactivity. While colour and typography are in the scope of visual design (Hasan, 2016); content quality, navigation and interactivity belongs to performance metrics (Palmer and Jonathan,2002).
 
 ## 1.1. Colour
 
-First of all, as the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to the interacting with a brand, people carry out approximately 62‐90 percent of their snap assessment based on colors alone(Singh,2016). Secondly, many studies have proved that colour has effect on emotions states(Singh,2016;Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, user might generate the feelings of irritation(Lim & Ting, 2012). Vice versa, harmounious colour scheme that fits genetic psychology will please the public. Moreover,colour helps to communicates Brand Image since it represent the personality of a brand(Kumar, 2017). Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.
+First of all, as the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). Secondly, many studies have proved that colour has an effect on emotions states(Singh,2016; Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim & Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public. Moreover, colour helps to communicate Brand Image since it represents the personality of a brand(Kumar, 2017). Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.
 
-However, It is worth mentioning that the effects of colour has individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impariment (Lányi, 2017).One of the most efficient solution is to aviod colour-only information. Use other elements like word description or pattern to enfore the message as well.
+However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.
 
 ## 1.2. Typography
 
@@ -70,7 +70,7 @@ It is the elements closely connected to appearance and readability(Faisal, 2016)
 
 ## 1.3. Content Quality
 
-Since the beginning of human history, storytelling has been used as the most natural way to communicate.(Patterson and Brown, 2005) Nowadays, storytelling has already been used as a powerful means for marketing strategy worldwide.(Pulizzi,2012)It is said that a strong brand story will emotionally bond with the customer more tightly and creates a longer span of brand image in customer's mind(Herskovitz, S. and Crystal, M., 2010). Therefore, marketers today tend to compelle stories into websites in order to persuade, entertain, and raise audience interest.
+Since the beginning of human history, storytelling has been used as the most natural way to communicate. (Patterson and Brown, 2005) Nowadays, storytelling has already been used as a powerful means for marketing strategy worldwide. (Pulizzi,2012)It is said that a strong brand story will emotionally bond with the customer more tightly and creates a longer span of brand image in customer's mind(Herskovitz, S. and Crystal, M., 2010). Therefore, marketers today tend to compelled stories into websites in order to persuade, entertain, and raise audience interest.
 
 ## 1.4. Navigation
 
@@ -104,8 +104,8 @@ Since the beginning of human history, storytelling has been used as the most nat
 
 ## 2.1 What is trust?
 
-Trust, in general, in the belief that other people will react to a certain circumstances following the prediction of the creator(Luhmann, 1979). If there is no enough trust towards a brand, there is a high possibility the customer's action goes beyond managerial control.
-It has been recognized and researched that buildig trust is curcial to e-commerce. Because the trust on a band will later build up the customer confidence and ensure the two utilities build up a longer relationship.(Doney and Cannon, 1997).
+Trust, in general, in the belief that other people will react to certain circumstances following the prediction of the creator(Luhmann, 1979). If there is no enough trust towards a brand, there is a high possibility the customer's action goes beyond managerial control.
+It has been recognized and researched that building trust is crucial to e-commerce. Because the trust on a band will later build up the customer confidence and ensure the two utilities build up a long relationship. (Doney and Cannon, 1997).
 
 ## 2.2 Why is trust important to a brand?
 
@@ -123,15 +123,15 @@ It has been recognized and researched that buildig trust is curcial to e-commerc
 
 _sustainability， sustainability principles_
 
-The number of online second hand shopper increased exponentially worldwide in recent years. It is said that online second-hand markets had already became a curcial part of circular economy (Hamari et al., 2016).
+The number of online second-hand shopper increased exponentially worldwide in recent years. It is said that online second-hand markets had already become a crucial part of the circular economy (Hamari et al., 2016).
 
-Sustainability is distinctive way of building a brand.
+Sustainability is a distinctive way of building a brand.
 
 ## 3.2. Examples of sustainable branding
 
-## 3.3. Sustainable project - RE:source(The project brief)
+## 3.3. Sustainable project - RE: source(The project brief)
 
-According to market research, the brand is appeal to trendy UK chinese students who only stay a period of time in the UK.
+According to market research, the brand is an appeal to trendy UK Chinese students who only stay a period of time in the UK.
 
 > Hamari, J., Sjöklint, M. and Ukkonen, A., 2016, The sharing economy: why people participate in collaborative consumption. Journal of the Association for Information Science and Technology, Vol. 67 No. 9, pp. 2047-2059.
 
