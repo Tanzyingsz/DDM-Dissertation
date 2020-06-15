@@ -1,5 +1,4 @@
 **Which web design attributes are best for instilling trust in sustainable brands?**
-\*or ethical brand? brand loyalty?
 
 # MENU
 
@@ -47,34 +46,53 @@ As there is not much precedent studies on... as a means to sustainable sencond-h
 **Research question**
 By identifying and analysising the various elements that makes up interactive web design, the aim of this study is to investigate and uncover how these elements affects the consumer trust towards a sustainable brand.
 
-• What are the main design variables in interactive web design?
-• Which design element made the most impact on a sustainable brand?
-• How can the interactive web design elements improve user trust?
+• What are the main design attributes in interactive web design?
+• Which design attribute made the most impact on a sustainable brand?
+• How can the web design attributes improve user trust?
 
-## LITERATURE REVIEW
+# LITERATURE REVIEW
 
-**1. Design Elements that affect branding**
-online market 很大 影响 branding 的设计元素
-This study assesses the relationships between design variables and the user experience in second-hand marketplace RE:source and evaluates the levels of brand trust to RE:source in ? UK Chinese students.
+This study assesses the relationships between design attributes and the user experience in second-hand sustainiable marketplace RE:source and evaluates the levels of brand trust to RE:source among (?) UK Chinese students.
 
-**1.1. Colour**
-As the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to the interacting with a brand, people carry out approximately 62‐90 percent of their snap assessment based on colors alone. Also the effect (Singh,2016). Therefore, carefully pick the colour
+A well-designed website should be able to produce satisfying user experience which includes: illustrate the necessay information of the product, build appropiate process that help and retain user to access the desired information with ease and finally earn the user trust. Specifically, design attributes play a key role in raising the standard of trust between user and brand (Cheung, Chan, & Limayen, 2005) Therefore, developing a organized and user-friendly webiste is crucial for accumulating online customers with higher trust standard.
 
-**1.2. Typography**
-1.3. Duration of experience
+Within the domain of well-produced web design, there are five attributes proposed by previous design communities(Palmer and Jonathan,2002; Wang and Sylvain, 2007). Hereby list them as followed: Colour, typography, content quality, navigation and interacitivity. While colour and typography are in the scope of visual design (Hasan, 2016);content quality, naviagtion and interactivity belongs to performance metrics (Palmer and Jonathan,2002).
 
-1.4. Responsiveness
+## 1.1. Colour
 
-**1.5. Story-elements/storytelling**
+First of all, as the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to the interacting with a brand, people carry out approximately 62‐90 percent of their snap assessment based on colors alone(Singh,2016). Secondly, many studies have proved that colour has effect on emotions states(Singh,2016;Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, user might generate the feelings of irritation(Lim & Ting, 2012). Vice versa, harmounious colour scheme that fits genetic psychology will please the public. Moreover,colour helps to communicates Brand Image since it represent the personality of a brand(Kumar, 2017). Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.
+
+However, It is worth mentioning that the effects of colour has individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impariment (Lányi, 2017).One of the most efficient solution is to aviod colour-only information. Use other elements like word description or pattern to enfore the message as well.
+
+## 1.2. Typography
+
+It is the elements closely connected to appearance and readability(Faisal, 2016).
+
+## 1.3. Content Quality
+
 Since the beginning of human history, storytelling has been used as the most natural way to communicate.(Patterson and Brown, 2005) Nowadays, storytelling has already been used as a powerful means for marketing strategy worldwide.(Pulizzi,2012)It is said that a strong brand story will emotionally bond with the customer more tightly and creates a longer span of brand image in customer's mind(Herskovitz, S. and Crystal, M., 2010). Therefore, marketers today tend to compelle stories into websites in order to persuade, entertain, and raise audience interest.
 
-1.6. Animations
-1.7. Music
-1.8. Readability/legibility
-\*sentence length(the amount of text)
-1.9. Accesibility
+## 1.4. Navigation
+
+## 1.5. Interactivity
+
+> Journal of Electronic Commerce in Organization, 3 (4) (2005), pp. 1-19
+
+> Palmer, Jonathan W., 2002. Web site usability, design, and performance metrics. Information Systems Research 13(2), pp.151-151.
+
+> Wang J., and Sylvain S., 2007. Measuring perceived website usability. Journal of Internet Commerce 6(4), pp.97-112.
+
+> Hasan, B., 2016. Perceived irritation in online shopping: The impact of website design characteristics.Computers in Human Behavior 54, pp.224-230.
 
 > Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
+
+> Lim, W.M. and Ting, D.H., 2012. E-shopping: An analysis of the uses and gratifications theory. Modern Applied Science, 6(5), pp.48.
+
+> Kumar, J.S., 2017. The psychology of colour influences consumers’ buying behaviour–a diagnostic study. Ushus-Journal of Business Management, 16(4), pp.1-13.
+
+> Lányi, C.S., 2017. Choosing effective colours for websites. In Colour Design (pp. 619-640). Woodhead Publishing.
+
+> Faisal, CM N., et al, 2016. "Web design attributes in building user trust, satisfaction, and loyalty for a high uncetainty avoidance culture." IEEE Transactions on Human-Machine Systems 47(6) pp.847-859.
 
 > Patterson, A. and Brown, S., 2005. No tale, no sale: a novel approach to marketing communication. The Marketing Review, 5(4), pp.315-328.
 
@@ -82,39 +100,42 @@ Since the beginning of human history, storytelling has been used as the most nat
 
 > Herskovitz, S. and Crystal, M., 2010. The essential brand persona: storytelling and branding. Journal of business strategy, 31(3), pp.21-28.
 
-1. Sustainable branding
-   **2.1. What is a sustainable brand and why RE:source has to be sustainable.**
-   定义， sustainability principles
+## 2. Trust in brands
 
-   二手市场竞争很激烈，只有 sustainable 才能脱颖而出。
-   The number of online second hand shopper increased exponentially worldwide in recent years. It is said that online second-hand markets had already became a curcial part of circular economy (Hamari et al., 2016).
+## 2.1 What is trust?
 
-   Sustainability is distinctive way of building a brand.
-
-   **2.3. Why trust is important to sustainable brand**
-   用户 trust 对一个 brand 的意义。
-
-   **2.4. Examples of sustainable branding**
-   已经成功的环保 brand 案例
-
-   **2.5. Sustainable project - RE:source(The project brief)**
-   According to market research, the brand is appeal to trendy UK chinese students who only stay a period of time in the UK.
-
-> Hamari, J., Sjöklint, M. and Ukkonen, A., 2016, The sharing economy: why people participate in collaborative consumption. Journal of the Association for Information Science and Technology, Vol. 67 No. 9, pp. 2047-2059.
-
-> Javed, M.K., Degong, M. and Qadeer, T., 2019. Relation between Chinese consumers’ ethical perceptions and purchase intentions. Asia Pacific Journal of Marketing and Logistics.
-
-**3. Trust in brands (methodology)**
-**3.1 What is trust?**
+Trust, in general, in the belief that other people will react to a certain circumstances following the prediction of the creator(Luhmann, 1979). If there is no enough trust towards a brand, there is a high possibility the customer's action goes beyond managerial control.
 It has been recognized and researched that buildig trust is curcial to e-commerce. Because the trust on a band will later build up the customer confidence and ensure the two utilities build up a longer relationship.(Doney and Cannon, 1997).
 
-**3.2 Why is trust important to brands?**
+## 2.2 Why is trust important to a brand?
 
-**What is the relationship between design factors and user trust?**
+## 2.3 What is the relationship between design factors and user trust?
+
+> Luhmann, N., 2018. Trust and power. John Wiley & Sons.
 
 > Doney, Patricia M., and Joseph P. Cannon. "An examination of the nature of trust in buyer–seller relationships." Journal of marketing 61.2 (1997): 35-51.
 
 > Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
+
+## 3. Sustainable branding
+
+## 3.1. What is a sustainable brand
+
+_sustainability， sustainability principles_
+
+The number of online second hand shopper increased exponentially worldwide in recent years. It is said that online second-hand markets had already became a curcial part of circular economy (Hamari et al., 2016).
+
+Sustainability is distinctive way of building a brand.
+
+## 3.2. Examples of sustainable branding
+
+## 3.3. Sustainable project - RE:source(The project brief)
+
+According to market research, the brand is appeal to trendy UK chinese students who only stay a period of time in the UK.
+
+> Hamari, J., Sjöklint, M. and Ukkonen, A., 2016, The sharing economy: why people participate in collaborative consumption. Journal of the Association for Information Science and Technology, Vol. 67 No. 9, pp. 2047-2059.
+
+> Javed, M.K., Degong, M. and Qadeer, T., 2019. Relation between Chinese consumers’ ethical perceptions and purchase intentions. Asia Pacific Journal of Marketing and Logistics.
 
 # Methodology
 
