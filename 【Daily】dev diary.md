@@ -1,4 +1,16 @@
 Overview of everyday progress.
+**15 JUNE**
+Writting the literature review.
+
+**14 JUNE**
+Writting the literature review.
+
+**13 JUNE**
+Searching for more references in "Design elements". Fishined the Integration of gerenal questionnaire result.
+
+**12 JUNE**
+Afteroon off. Rest of the day drafting the outline of Literature Reivew 2.0.
+
 **11 JUNE**
 Attended "effective research" class in the morning. Prepare for the second round of questionnaire. Switch the main question from "storytelling" to "design elements".
 
