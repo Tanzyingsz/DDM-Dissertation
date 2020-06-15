@@ -1,4 +1,4 @@
-**Which web design attributes are best for instilling trust in sustainable brands?**
+**Which web design attributes are best for instilling trust in online sustainable brands?**
 
 # MENU
 
@@ -54,29 +54,13 @@ By identifying and analysing the various elements that make up interactive web d
 
 This study assesses the relationships between design attributes and the user experience in second-hand sustainable marketplace RE: source and evaluates the levels of brand trust to RE: source among (?) UK Chinese students.
 
-A well-designed website should be able to produce satisfying user experience which includes: illustrate the necessary information of the product, build appropriate process that helps and retain user to access the desired information with ease and finally earn the user trust. Specifically, design attributes play a key role in raising the standard of trust between user and brand (Cheung, Chan, & Limayen, 2005) Therefore, developing an organized and user-friendly website is crucial for accumulating online customers with higher trust standard.
+A well-designed website should be able to produce satisfying user experience which includes: illustrate the necessary information of the product, build appropriate process that helps and retain user to access the desired information with ease and finally earn the user trust. Specifically, design attributes play a key role in raising the standard of trust between user and brand (Cheung, Chan, and Limayen, 2005) Therefore, developing an organized and user-friendly website is crucial for accumulating online customers with higher trust standard.
 
-Within the domain of well-produced web design, there are five attributes proposed by previous design communities(Palmer and Jonathan,2002; Wang and Sylvain, 2007). Hereby list them as followed: Colour, typography, content quality, navigation and interactivity. While colour and typography are in the scope of visual design (Hasan, 2016); content quality, navigation and interactivity belongs to performance metrics (Palmer and Jonathan,2002).
+> Cheung, C.M., Chan, G.W. and Limayem, M., 2005. A critical review of online consumer behavior: Empirical research. Journal of electronic commerce in organizations (JECO), 3(4), pp.1-19.
 
-## 1.1. Colour
+# 1. Introduction to five important attributes
 
-First of all, as the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). Secondly, many studies have proved that colour has an effect on emotions states(Singh,2016; Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim & Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public. Moreover, colour helps to communicate Brand Image since it represents the personality of a brand(Kumar, 2017). Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.
-
-However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.
-
-## 1.2. Typography
-
-It is the elements closely connected to appearance and readability(Faisal, 2016).
-
-## 1.3. Content Quality
-
-Since the beginning of human history, storytelling has been used as the most natural way to communicate. (Patterson and Brown, 2005) Nowadays, storytelling has already been used as a powerful means for marketing strategy worldwide. (Pulizzi,2012)It is said that a strong brand story will emotionally bond with the customer more tightly and creates a longer span of brand image in customer's mind(Herskovitz, S. and Crystal, M., 2010). Therefore, marketers today tend to compelled stories into websites in order to persuade, entertain, and raise audience interest.
-
-## 1.4. Navigation
-
-## 1.5. Interactivity
-
-> Journal of Electronic Commerce in Organization, 3 (4) (2005), pp. 1-19
+Within the domain of well-produced web design, there are five attributes proposed by previous design communities(Palmer and Jonathan,2002; Wang and Sylvain, 2007). Hereby list them as followed: Colour, typography, content quality, navigation and interactivity. While colour and typography are under the heading of visual design (Hasan, 2016) or aesthetic aspects(Faisal et al., 2016); content quality, navigation and interactivity belongs to performance metrics (Palmer and Jonathan,2002).
 
 > Palmer, Jonathan W., 2002. Web site usability, design, and performance metrics. Information Systems Research 13(2), pp.151-151.
 
@@ -84,15 +68,39 @@ Since the beginning of human history, storytelling has been used as the most nat
 
 > Hasan, B., 2016. Perceived irritation in online shopping: The impact of website design characteristics.Computers in Human Behavior 54, pp.224-230.
 
-> Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
+> Faisal, CM N., et al, 2016. "Web design attributes in building user trust, satisfaction, and loyalty for a high uncetainty avoidance culture." IEEE Transactions on Human-Machine Systems 47(6) pp.847-859.
+
+## 1.1. Colour
+
+First of all, as the basic component of the physical world, colour provides humankind with an incredible amount of information. When it comes to interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). Secondly, many studies have proved that colour has an effect on emotions states(Singh, 2016; Wu, Cheng, and Yen, 2008.), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim and Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public. Moreover, colour helps to communicate Brand Image since it represents the personality of a brand(Kumar, 2017). Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.
+
+However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.
 
 > Lim, W.M. and Ting, D.H., 2012. E-shopping: An analysis of the uses and gratifications theory. Modern Applied Science, 6(5), pp.48.
+
+> Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
+
+> Wu, C.S., Cheng, F.F. and Yen, D.C., 2008. The atmospheric factors of online storefront environment design: An empirical experiment in Taiwan. Information & Management, 45(7), pp.493-498.
 
 > Kumar, J.S., 2017. The psychology of colour influences consumers’ buying behaviour–a diagnostic study. Ushus-Journal of Business Management, 16(4), pp.1-13.
 
 > Lányi, C.S., 2017. Choosing effective colours for websites. In Colour Design (pp. 619-640). Woodhead Publishing.
 
-> Faisal, CM N., et al, 2016. "Web design attributes in building user trust, satisfaction, and loyalty for a high uncetainty avoidance culture." IEEE Transactions on Human-Machine Systems 47(6) pp.847-859.
+## 1.2. Typography
+
+Typography is the carrier of content. It communicate information in the form of text. This element is closely connected to appearance and readability(Faisal, 2016). Through different combinations of typeface, font size, line-spacing and the space in between letters, typographical elements are able to present content in various format(Faisal, 2018). According to a study in MIT, these combinations have considerable effects on user's comprehension performance, mental workload and emotion state.(Larson, Kevin, et al, 2007) They prove that forming memorable association with a brand not only relate to content but also the way it is presented with apporiate typography. High-quality typography enhances the charactor of a brand because it reinforce the meaning of content in percived by consumers(Walker, 2020). Other study indicates that a clear and understandable typography format will ultimately affect the usability and recognition towards a brand(Pušnik, N., Podlesek, A. and Možina,2016). However, poorly-designed typography leads to negative feeling when user get visually confuse and unrelated to the brand (Walker, 2020).
+
+> Larson, Kevin, et al. 2007. Measuring the aesthetics of reading." People and Computers XX—Engage. Springer, London, pp.41-56.
+
+> Faisal, CM Nadeem, et al.2018. Impact of web design features on irritation for E-commerce websites. Proceedings of the 33rd Annual ACM Symposium on Applied Computing. pp. 656-663
+
+> Pušnik, N., Podlesek, A. and Možina, K., 2016. Typeface comparison− Does the x-height of lower-case letters increased to the size of upper-case letters speed up recognition?. International Journal of Industrial Ergonomics, 54, pp.164-169.
+
+> Walker, T., 2020. The Effect Of Typography On User Experience And Conversions. [online] CXL. Available at: <https://cxl.com/blog/the-effects-of-typography-on-user-experience-conversions/> [Accessed 15 June 2020].
+
+## 1.3. Content Quality
+
+Since the beginning of human history, storytelling has been used as the most natural way to communicate. (Patterson and Brown, 2005) Nowadays, storytelling has already been used as a powerful means for marketing strategy worldwide. (Pulizzi,2012) It is said that a strong brand story will emotionally bond with the customer more tightly and creates a longer span of brand image in customer's mind (Herskovitz and Crystal，2010). Therefore, marketers today tend to compelled stories into websites in order to persuade, entertain, and raise audience interest.
 
 > Patterson, A. and Brown, S., 2005. No tale, no sale: a novel approach to marketing communication. The Marketing Review, 5(4), pp.315-328.
 
@@ -100,24 +108,74 @@ Since the beginning of human history, storytelling has been used as the most nat
 
 > Herskovitz, S. and Crystal, M., 2010. The essential brand persona: storytelling and branding. Journal of business strategy, 31(3), pp.21-28.
 
+## 1.4. Navigation
+
+Navigation includes layouts, images, paths design and clicks sequence (Bart, Yakov, et al, 2005). It refers to the ease of use: how easy it is for the user to find desierd information and to move in around pages without getting lost. The ease of use then drives trustworthiness. As Roy et al. (2001) pointed out: “ease of navigation, interface design, and user guidance affect customer establishment for trust.” The reason behind is rather simple - when user encounter a webstie with optimized navigation where they could reach the desired destination with a mininum number of click, they tend to believe the brand's capability of caring its user and finally lead to a rise a trust.Therefore the development of a website should not ignore the requirements of building easy-to-understand navigation.
+
+> Bart, Yakov, et al, 2005. Are the drivers and role of online trust the same for all web sites and consumers? A large-scale exploratory empirical study.Journal of marketing 69.4, pp. 133-152.
+
+> Roy, M.C., Dewit, O. and Aubert, B.A., 2001. The impact of interface usability on trust in web retailers. Internet research.
+
+## 1.5. Interactivity
+
+Interactivity affects how the pre-set information is interpretated and processed by users. Firstly, interactivity partly decide the amount of content on page, for example, comment on products and discussion board threads. Secondly, interactivity brings more customized feature to life, like the personal feed on a shopping
+website (Jensen et al., 2014). Thirdly, interactivity helps to pass the message of a brand. In several studies (Lee, 2005; Sundar, Kalyanaraman and Brown, 2003)the researchers emphasized that the higher level of interactivity the website have, the higher trust the brand earns.
+
+Although many evidence touted the interacitivity as a beneficial component, some researchers argue that under certain circumstances, rich interactivity might not be preferable. For exmaple, rich interactivity brings more benefits on a entertainment website rather than a information-focus website (Liu and Shrum, 2002) and people prefer a less interacitve website when facing time limit (Amichai-Hamburger,Fine and Goldstein, 2004). In conclusion, the setting of interacitivity should be decided according to the own background of a brand.
+
+Generally the evaluation of interactivity could be divided into 3 diverse categories: two-way communication, active control, and media synchronicity (Liu, 2003). The so-called two-way communication is the communication between consumer and the group memeber of the webiste. Usually this is done through email, chat, or feedback form. Social media facilitates are performed in the link or recommendations to a third party social media. Active control contains internal and external links, search function and language choice. Since active control provide a customized way for user to browse the website, it should be aware that there is the user's trust might potentially be affected in a negative way (Jensen et al, 2014).
+
+> Jensen, M.L., et al, 2014. Organizational balancing of website interactivity and control: An examination of ideological groups and the duality of goals. Computers in Human Behavior, 38, pp.43-54.
+
+> Sundar, S.S., Kalyanaraman, S. and Brown, J., 2003. Explicating web site interactivity: Impression formation effects in political campaign sites. Communication research, 30(1), pp.30-59.
+
+> Lee, T., 2005. The impact of perceptions of interactivity on customer trust and transaction intentions in mobile commerce. Journal of Electronic Commerce Research, 6(3), p.165.
+
+> Rafaeli, S., et al., 2007. Assessing interactivity in computer-mediated. In Oxford handbook of Internet psychology (pp. 71-88). Oxford University Press.
+
+> Liu, Y. and Shrum, L.J., 2002. What is interactivity and is it always such a good thing? Implications of definition, person, and situation for the influence of interactivity on advertising effectiveness. Journal of advertising, 31(4), pp.53-64.
+
+> Amichai-Hamburger, Y., Fine, A. and Goldstein, A., 2004. The impact of Internet interactivity and need for closure on consumer preference. Computers in Human Behavior, 20(1), pp.103-117.
+
+> Liu, Y., 2003. Developing a scale to measure the interactivity of websites. Journal of advertising research, 43(2), pp.207-216.
+
 ## 2. Trust in brands
 
 ## 2.1 What is trust?
 
-Trust, in general, in the belief that other people will react to certain circumstances following the prediction of the creator(Luhmann, 1979). If there is no enough trust towards a brand, there is a high possibility the customer's action goes beyond managerial control.
-It has been recognized and researched that building trust is crucial to e-commerce. Because the trust on a band will later build up the customer confidence and ensure the two utilities build up a long relationship. (Doney and Cannon, 1997).
+Trust, in general, is the belief that one could collect what he desired from another. The basic trust between a consumer and a brand indicates the consumer hold a certain level of confidence in a brand. A deeper level of trust means a brand could produce value beyond the consumer's expectation(Ha, 2004).
 
-## 2.2 Why is trust important to a brand?
+Delgado et al. (2003) propsed trust can be divided into two dimensions: reliability and intensions. While reliability invovles the ability of a brand to fulfill the needs of customers, intensions represents a brand taking care of customer welfare, for example, the promise of refund within 7 days or guarantee on dealing with unexpected problems. In conclusion, these two distinct dimensions define the trustworthyness of a brand.
 
-## 2.3 What is the relationship between design factors and user trust?
+> Ha, H.Y., 2004. Factors influencing consumer perceptions of brand trust online. Journal of product & brand management.
+
+> Delgado, E., Munuera, J.L. and Yagüe, M.J., 2003, Development and validation of a brand trust scale, International Journal of Market Research, 45(1), pp.35‐54
+
+## 2.2 Why trust is important to a brand?
+
+It has been recognized and researched that building trust is crucial to e-commerce. Because the trust on a band will later build up the customer confidence and ensure the two utilities build up a long term relationship. (Doney and Cannon, 1997).
+
+First, this firm relationship will substantially leads to a competitive brand with more economic advantage (Delgado‐Ballester and Munuera‐Alemán). The secret to maintain the trust is to deliver value to customers as promised. Meets consumer expectations consistently will gradually strengthen the bond. Eventually, the bond will become hard to break. This is the time when customers stick to one brand instead of its competitors. But be aware of not to satisfy everyone. Afterall, the capabilities of a brand is limited. The welfare of target audience is the main concern.
+
+Second, trust is built on positive satisfying customer experience. Those customers who had a favorable experience on the website are likely to develop positive attitudes towards a brand. Alone with a growing evaluation of trust, is the possibility of revisit a brand page(Salam, 2005).
+
+Third, according to previous cases, customers might give the brand they trust a second chance. In 2007, Coco-Cola company was lawsuited for allowing benzene in their product((Mercer, 2007). After Coco-Cola reformulated two of its soft drinks, its selling in that year dropped a bit but still maintain a considerable amount (UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549FORM 10-K, 2008). That is to say, although encounter an unexpected product‐harm crises, the brand survived thanks to the large number of customers and their trust.
 
 > Luhmann, N., 2018. Trust and power. John Wiley & Sons.
 
-> Doney, Patricia M., and Joseph P. Cannon. "An examination of the nature of trust in buyer–seller relationships." Journal of marketing 61.2 (1997): 35-51.
+> Doney P. M. and Cannon J. P., 1997. An examination of the nature of trust in buyer–seller relationships. Journal of marketing, 61(2), pp.35-51.
 
-> Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
+> Delgado‐Ballester, E.and Munuera‐Alemán, J. L., 2005. Does brand trust matter to brand equity?. Journal of product & brand management.
 
-## 3. Sustainable branding
+> Singh, S.,2006,Impact of color on marketing, Management Decision, 44(6), pp.783-789.
+
+> Salam, A.F., Iyer, L., Palvia, P. and Singh, R., 2005. Trust in e-commerce. Communications of the ACM, 48(2), pp.72-77.
+
+> Mercer, C., 2007. Coca-Cola Settles In Benzene Lawsuit. [online] beveragedaily.com. Available at: <https://www.beveragedaily.com/Article/2007/05/15/Coca-Cola-settles-in-benzene-lawsuit> [Accessed 15 June 2020].
+
+> 2008. UNITED STATESSECURITIES AND EXCHANGE Commissionwashington, D.C. 20549FORM 10-K. The Coco Cola Company.
+
+## 3. Sustainable brand
 
 ## 3.1. What is a sustainable brand
 
@@ -141,7 +199,7 @@ According to market research, the brand is an appeal to trendy UK Chinese studen
 
 **1. How to define the design elements that user cares most? (Qualitative research)**
 
-A small range of open-ended survey online that involved 12 anonymous Chinese student studying in the UK is conducted. The aim of this survey is to find out what factors do Chinese student care most about a website that explains its brand well. 10 websites are selected out of over 200 award-winning candidates nominated by awwwards.com. No matter which area these websites target in, they have to convey the user it is a trustworthy website. The whole dataset mananged to contain as many affective website elements as possible. Additionally, the chosen websites have to be updated in the last 1 year. This specific critieria helps to make sure all websites are not behind the current website-design trend.
+A small range of open-ended survey online that involved 12 anonymous Chinese student studying in the UK is conducted. The aim of this survey is to find out what factors do Chinese student care most about a website that explains its brand well. 10 websites are selected out of over 200 award-winning candidates nominated by awwwards.com. No matter which area these websites target in, they have to convey the user it is a trustworthy brand. The whole dataset mananged to contain as many affective website elements as possible. Famous brand like Nike are not selected since the familiarity of big brand would have biased the evaluation on a brand. Additionally, the chosen websites have to be updated in the last 1 year. This specific critieria helps to make sure all websites are not behind the current website-design trend.
 
 Each student got 4 random websites from the 10 website lists to test. Additionally, 2 students among the 12 were asked to comment on one more website. In the end, every website got 5 feedbacks.
 
