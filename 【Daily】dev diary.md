@@ -1,4 +1,10 @@
 Overview of everyday progress.
+**17 JUNE**
+Get feedback from Andrew in the morning. Prepare illustrations for the website.
+
+**16 JUNE**
+Literature review in the morning. Rest of the day deal with logo.
+
 **15 JUNE**
 Writting the literature review.
 
