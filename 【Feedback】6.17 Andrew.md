@@ -7,6 +7,8 @@ Is it because they have problem with buying and using the second hand goods.
 Only talk about Wecaht is not enough.
 Have to analysis WHY the other platforms are not commonly used. What are the reasons? Why does the Chinese UK student think those platforms are not good enough for them to use?
 
+**Have to prove there is interest among Chinese UK student in this project to begin with.**
+
 free cycle, amazon marketplace, meadow share -- People are doing second hand exchange all the time already.
 
 The risk of talking about "trust"
