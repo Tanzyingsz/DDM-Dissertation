@@ -1,4 +1,13 @@
 Overview of everyday progress.
+**20 JUNE**
+Searching new resouces to update literature review.
+
+**19 JUNE**
+Retouch the test poster for the chinese audience.
+
+**18 JUNE**
+Attended practice research workshoop in the morning. Working on the logo and illustrations of the story.
+
 **17 JUNE**
 Get feedback from Andrew in the morning. Prepare illustrations for the website.
 
