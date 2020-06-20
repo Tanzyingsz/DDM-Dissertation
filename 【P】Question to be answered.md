@@ -4,8 +4,7 @@
 
 [main focus]
 
-2.  **What motivates and inspires you to carry out this research?
-    What are your ambitions - what do you want the project to do? Why?**
+2. **What motivates and inspires you to carry out this research?What are your ambitions - what do you want the project to do? Why?**
 
 The problem I discoverd in really life that inspires me. It is a substantial, environmentally-damaging, and unavoidable problem that Chinese students must face in having to waste hundreds of pounds worth of living items that they bought on arrival when they leave the UK.
 
@@ -21,9 +20,12 @@ This project will shape the oversea chinese student's mindset of environmental a
 
 3. **What are your influences & inspirations?(Specifically, list a few projects, papers, theories)**
 
+**Projects**
 https://dopper.com/our-mission
 
-[paper]
+**Paper**
+Cebi, Selcuk. "Determining importance degrees of website design parameters based on interactions and types of websites." Decision Support Systems 54.2 (2013): 1030-1043.
+https://www.sciencedirect.com/science/article/pii/S0167923612002916?via%3Dihub#bb0150
 
 [theory]
 
