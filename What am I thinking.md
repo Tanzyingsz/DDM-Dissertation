@@ -33,9 +33,9 @@ My main focus is on examining the design alternavies that builds up a better use
 
 ---
 
-论文的路径：
+# 论文的路径：
 
-# 故事 e-book 项目：
+## 故事 e-book 项目：
 
 Remediation of picture books
 Making ‘real’ stories for digital natives
@@ -43,10 +43,37 @@ Making ‘real’ stories for digital natives
 
 转化：分析 10 个 storytelling 网站然后做一个自己的。
 
-# 美术馆 app 项目：
+## 美术馆 app 项目：
 
 Art Stumble: Reimagining an Alternative Art Museum
 Experience Through the Design of a Mobile App for School
 Children Aged 9-12 Visiting The Scottish National Gallery
 
-RE: source: Reformatting an alternative online shopping experience through the design of interactive web app for UK Chinese student
+## RE: source: Reformatting an alternative online shopping experience through the design of interactive web app for UK Chinese student
+
+---
+
+# Topics
+
+**KEYWORDS**
+storytelling, brand, user expereince, emotional connection
+
+Designing for better user experience in storytelling e-commerce web app
+
+A study on interactive storytelling web app
+
+Interacitve storytelling in e-commerce: observations and best practices (讨论重点是 e-commerce 里面 story telling 的案例并且总结出最好的几点)
+
+The impact of storytelling on the consumer brand experience: a case on seocond-hand platform (重点是这个 platform 在加故事前后用户的反馈)
+
+Interactive story telling - A tool to optimize user experience on a second hand brand
+
+Interactive story telling - A tool to build emotional brand attatchment
+The study on a B2C second hand platform
+
+---
+
+**Storytelling 的作用**
+deliver message with both impact and longevity
+engage audience effectively
+emotional connections
