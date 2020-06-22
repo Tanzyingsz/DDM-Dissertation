@@ -1,5 +1,5 @@
 **Title**
-How online interavtive storytelling optimize the user experience in e-commerce
+How online interavtive storytelling optimize the user experience in second-hand brand
 
 - The case of RE: source the sustainable B2C second hand platform
 
@@ -15,6 +15,8 @@ The following research questions are formulated:
 
 ## 2 Storytelling
 
+Story contains series of information that makes up plots. A commonly seen story generally works like this: a character encounter some problem before he can reach his goal. At the moment of despair, a guide appears with a thorough plan, encourage him to take action, and finally help him get through multiple failures and achieved sucess.
+
 ## 2.1 What is storytelling?
 
 The voice of the public support the importance of storytelling. In an 2017 report, storytelling was rated the most effective marketing tatics among 62% of B2B marketers. The number of B2C storytelling supporter was even higher (The Science of Storytelling (Infographic), 2017).
@@ -23,23 +25,47 @@ Telling story online can pose more impact on users. It is said that people are 2
 
 The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton,the world-famous film director once said in TED: "Don't give them 4, give them 2+2."
 
-Combine data and stories together, a brand will be able to touch its audience both intellectually and emotionnally.
-
-‌
+By Combining data and stories together, a brand will be able to touch its audience emotionnally. Research have proved that emotionally connected customers are 52% more valuable than its higly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products.
 
 > OneSpot. 2016. The Science Of Storytelling (Infographic). [online] Available at: <https://www.onespot.com/resources/the-science-of-storytelling-infographic/> [Accessed 21 June 2020].
 
-## 2.2 Storytelling in e-commerce
+> Harvard Business Review. (2015). The New Science of Customer Emotions. [online] Available at: https://hbr.org/2015/11/the-new-science-of-customer-emotions [Accessed 21 Jun. 2020].
 
-In the modern world, people are facing so many noise that distract them from being able to read continuously.
+## 2.2 Storytelling in barnd
 
-Research have proved that emotionally connected customers are 52% more valuable than its higly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products.
+In the modern world, the information explosion feed people with way too much noise. Storytelling is a powerful way to create music out of noise. A well-choreographed music piece act like a map that lead the customer all the way through the product and services provided. In this case, customer do not have to waste extra calories of their overloaded mind and can make a connection with a brand easily.
+
+Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about customer makes the customer care more (Miller, 2017). While Braging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definately is.
+
+Some framework helps to strucutre a story that provide a better user experience, previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010),the Hero’s Journey story framwork (Campbell, 2008), storyBrand 7-Part framework (SB7 framework)(Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. Therefore this project plan to adapt Miller's work into practice. The SB7 framework propose a 7-plot-points genuine story formula: (1) _A character_, specially refers to a hero acted by the customer (2) _A poblem to solve_. If the character stays in forever peace, the story cannot move on. Therefore a villain -(?)- In order to find out the villain of the story, three levels of problems, namely external, interanal and philosophical are discussed here. (3) _A guide_. The one who helps the hero to conqure all promblems and win - the brand itself. (4) _A plan_ that takes away consumer's confusion. (5) _Call to action_, challenge the character to take actual step that brings them from challenge back to a peaceful life. (6) _A tragic ending_ that warns the customer what might happen if they do not follow the lead of this brand. (7) _The glorious success_.
+
+When put into practice, the RE:souce project adopted the mentioned framework like this:
+_For donator:_
+"Help the environmentalists to donte within 3 minutes.Save your time for something you enjoy."
+The external problem of customer is to deal with a large amount of second hand load within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalists or
+Therefore the character or conversation in the page will explain the idea "we hate taking heavy furnitures downstairs and dump them as much as you do."
+
+_For buyer:_
+"Best bargain on the reliable used items in town. Your friend will be jealous."
+
+Problem: scard to be scammed.
+To ease customer's doubt, RE: source have an agreement plan with customers that every goods
+
+"We know a bus trip to IKEA with tons of household items back is a hassal. Why not enjoy the bargain online? All stuff here are still good as new and directly delivered to your doorstep. "
+
+> Miller, D., 2017. Building a StoryBrand: Clarify your message so customers will listen. HarperCollins Leadership.
+
+> Herskovitz, S. and Crystal, M., 2010. The essential brand persona: storytelling and branding. Journal of business strategy.
 
 > McSpadden, K. (2015). You Now Have a Shorter Attention Span Than a Goldfish. [online] Time. Available at: https://time.com/3858309/attention-spans-goldfish/ [Accessed 21 Jun. 2020].
 
-> Harvard Business Review. (2015). The New Science of Customer Emotions. [online] Available at: https://hbr.org/2015/11/the-new-science-of-customer-emotions [Accessed 21 Jun. 2020].
+> Campbell, J., 2008. The hero with a thousand faces (Vol. 17). New World Library.
 
 ## 2.3 Interactive storytelling
+
+Storytelling itself is interactive by defination - in the words of National Storytelling Network (2020): "...storytelling emerges from the interaction and cooperative, coordinated efforts of teller and audience." Therefore storytelling is always a bidirectional communication.
+
+> National Storytelling Network. (2020). What Is Storytelling? [online] Available at: https://storynet.org/what-is-storytelling/ [Accessed 22 Jun. 2020].
 
 ## 3. RE: source Project Brief
 
