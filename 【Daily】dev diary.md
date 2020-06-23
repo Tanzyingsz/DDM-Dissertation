@@ -1,4 +1,11 @@
 Overview of everyday progress.
+
+**22 JUNE**
+Learned the design system in Figma, fill in the storytelling part content of literature review.
+
+**21 JUNE**
+Working on literautere review 3.0, draft a new structure.
+
 **20 JUNE**
 Searching new resouces to update literature review.
 
