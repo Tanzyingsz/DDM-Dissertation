@@ -77,3 +77,25 @@ The study on a B2C second hand platform
 deliver message with both impact and longevity
 engage audience effectively
 emotional connections
+
+**二手数据**
+The secondhand market in China is at its nascent but growing dramastically. Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However compared to the large secondhand market in the western world which can counts up to 10% of its total GDP(Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in the great Britian is second-hand economy is thriving, with a 42% of citizens selling pre-loved items in 2017 (Johnson, 2018). Therefore, the RE:source platform target at Chinese UK student who has a huge potential to change embrace the sustainable lifestyle than their western counterparts.
+
+> Wang Xueqiao (2019). Second-hand market comes in from the cold in China. [online] @FinancialTimes. Available at: https://www.ft.com/content/a5701798-ad1f-11e9-8030-530adfa879c2 [Accessed 24 Jun. 2020].
+
+> Johnson, J. (2018). Business Advice. [online] Business Advice. Available at: https://businessadvice.co.uk/business-development/sales-marketing/uk-consumers-stockpiling-17-7-billion-unwanted-goods/ [Accessed 24 Jun. 2020].
+
+‌
+**二手公司**
+Companies Mentioned
+
+Inter IKEA
+Beveraly Hills Chairs
+Steelcase
+London Aerons
+Rework by ROE
+Ebay
+Craiglist
+Etsy
+Amazon
+Yelp
