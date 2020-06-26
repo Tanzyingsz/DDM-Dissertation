@@ -26,21 +26,11 @@ _More user experience related content_
 
 ## 1.2 Aarron Walter's Hierarchy of User Needs
 
-Based on the famous Abraham Maslow's theory (Maslow and Lewis, 1987) which indicates a unidirectional linear relationship between the basic human needs and a higher level of motivation, Aarron Walter proposed a mirror hierarchy of user needs focus in the area of the interface. In this version of user needs pyramid, after the fulfilment of fundamental needs including functionality, reliability and usability comes the most superior needs, pleasure.
+Based on the Abraham Maslow's theory (Maslow and Lewis, 1987) which indicates a unidirectional linear relationship between the basic human needs and a higher level of motivation, Aarron Walter proposed a mirror hierarchy of user needs focus in the area of the interface. In this version of user needs pyramid, after the fulfilment of fundamental needs including functionality, reliability and usability comes the most superior needs, pleasure.
 
 [Figure https://media.nngroup.com/media/editor/2017/02/07/aarron-walter-user-needs.png]
 
 In other words, for the basic level, no matter how aesthetically perfect an application is, it will not be appreciated by users because of its lack in function. The reason why functionality matters is that, according to negativity bias, the user affected by the bad more than the good. (Ito et al., 1998) That is to say, a single function flaw will ruin the impression formed by many positive features. On the next level, if a fully functional interface acts unreliable, for example, breaking down all the time or does not provide trustworthy safety protection, it can hardly satisfy the target user. Moving upwards, an interface have to be easy to understand and navigate to be usable. Finally, the delightful interface features can be pursued. Specifically, animations, proper interactivity, well-presented microcontent like short and powerful titles, summaries, hints and tips that embed the characteristics of a brand(Loranger and Nielsen,2017), all contribute to delight.
-
-RE: source is designed to achieve delight. The ideal performance requires to meet Aaron's user needs.
-
-(1) Functional: RE: source help donators to fill in the form as quick and easy as possible and provides the buyer with the list and filter for second-hand products.
-
-(3) Reliable: RE: source responds consistently and is effective in finding the desired stuff and helping user finish the tasks.
-
-(2) Usable: The web app contains enough brief status information of products and clear instructions. Advanced information only is shown when needed to reduce distractions. The pages work seamlessly.
-
-(4) Pleasurable: RE: source embed clean and aesthetic illustrations, subtle animations, an adequate amount of tiny gamified elements and gives timely encouraging feedback to reassure user knows what is going on.
 
 > Maslow, A. and Lewis, K.J., 1987. Maslow's hierarchy of needs. Salenger Incorporated, 14, p.987.
 
@@ -125,15 +115,15 @@ RE: source is a second-hand, sustainability-driven online marketplace serving se
 
 The sustainable component is adopted as a supporting marketing strategy. The previous case shows the "sustainable" movement potentially brings benefits. In 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).
 
+**THE TARGET USERS**
+The secondhand market in China is at its nascent but growing dramatically. Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However, compared to the large secondhand market in the western world which can count up to 10% of its total GDP(Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018). Therefore, the RE: source platform target at Chinese UK student who has a huge potential to change embrace the sustainable lifestyle than their western counterparts.
+
 **THE OFFERING**
 
 According to the brief questionnaire among 75 Chinese second-hand buyers, WeChat, the largest social media in China, turns out to be the No.1 channel Chinese students use for idle goods transaction. As a messaging app, WeChat provides a clunky, unorganised, and an uninformative shopping experience that requires users to tediously scroll through the group’s chat history, not knowing whether they will ﬁnd their desired item or whether the item is available. eBay and Gumtree are also mentioned as commonly used second-hand web applications. According to online feedbacks, These two platforms got many complaints about "the low quality of products, being scammed and the lake of customer service" (https://uk.trustpilot.com/). To find out more pain points, another research target at previous eBay and Gumtree users were carried out. _Research result goes here_
 
 As a business-to-consumer(B2C) second-hand e-commerce platform, RE: source will provide an optimized second-hand donating and shopping experience through storytelling.
 First of all, the brand story will be told to persuade the donator and buyer to agree with our value. Then the website will try to provide a highly usable platform where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized. In order to solve the most commonly seen trust and scam problem on second-hand platform, timely advisory service through live chatting box and the traditional email communication are both available on the page.
-
-**THE TARGET USERS**
-The secondhand market in China is at its nascent but growing dramatically. Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However, compared to the large secondhand market in the western world which can count up to 10% of its total GDP(Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018). Therefore, the RE: source platform target at Chinese UK student who has a huge potential to change embrace the sustainable lifestyle than their western counterparts.
 
 **THE VALUE**
 First of all, the project helps to save natural resource and prevent unnecessary pollution by selling second-hand furniture to those in need. The value of used items is maximized in a new life. Secondly, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who can upcycle the second-hand goods through in the future. Moreover, to deliver sustainable ideas to a larger audience, the brand also provide workshop which invites the public to participate in the redesign process.
@@ -149,6 +139,20 @@ First of all, the project helps to save natural resource and prevent unnecessary
 > Wang Xueqiao (2019). Second-hand market comes in from the cold in China. [online] @FinancialTimes. Available at: https://www.ft.com/content/a5701798-ad1f-11e9-8030-530adfa879c2 [Accessed 24 Jun. 2020].
 
 > Johnson, J. (2018). Business Advice. [online] Business Advice. Available at: https://businessadvice.co.uk/business-development/sales-marketing/uk-consumers-stockpiling-17-7-billion-unwanted-goods/ [Accessed 24 Jun. 2020].
+
+# Methodology
+
+## User needs
+
+RE: source is designed to achieve delight. The ideal performance requires to meet Aaron's user needs.
+
+(1) Functional: RE: source help donators to fill in the form as quick and easy as possible and provides the buyer with the list and filter for second-hand products.
+
+(3) Reliable: RE: source responds consistently and is effective in finding the desired stuff and helping user finish the tasks.
+
+(2) Usable: The web app contains enough brief status information of products and clear instructions. Advanced information only is shown when needed to reduce distractions. The pages work seamlessly.
+
+(4) Pleasurable: RE: source embed clean and aesthetic illustrations, subtle animations, an adequate amount of tiny gamified elements and gives timely encouraging feedback to reassure user knows what is going on.
 
 # Question
 
