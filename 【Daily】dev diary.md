@@ -1,4 +1,15 @@
 Overview of everyday progress.
+**26 JUNE**
+Figma low fidelity prototype.
+
+**25 JUNE**
+Figma low fidelity prototype, test on illustrations and font pair.
+
+**24 JUNE**
+Literature review 3.0
+
+**23 JUNE**
+Literature review 3.0
 
 **22 JUNE**
 Learned the design system in Figma, fill in the storytelling part content of literature review.
