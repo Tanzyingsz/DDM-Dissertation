@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**27 JUNE**
+Add content into prototype. Optimize literature review according to feedback.
+
 **26 JUNE**
 Figma low fidelity prototype.
 
