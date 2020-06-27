@@ -116,7 +116,15 @@ RE: source is a second-hand, sustainability-driven online marketplace serving se
 The sustainable component is adopted as a supporting marketing strategy. The previous case shows the "sustainable" movement potentially brings benefits. In 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).
 
 **THE TARGET USERS**
-The secondhand market in China is at its nascent but growing dramatically. Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However, compared to the large secondhand market in the western world which can count up to 10% of its total GDP(Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018). Therefore, the RE: source platform target at Chinese UK student who has a huge potential to change embrace the sustainable lifestyle than their western counterparts.
+The secondhand market in China is at its nascent but growing dramatically. Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However, compared to the large secondhand market in the western world which can count up to 10% of its total GDP (Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018).
+
+There are several reasons why Chinese secondhand market is limited.
+
+The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remain unknown. For example, a car could be resold because it had went through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. From a cognative aspect, most charity shops are ran by the government who seldom promote these charity services. The shortage of systematic marketing plan also cause trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products are close to the market price, which is hardly attractive to the public. The most bizarre situation is that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. From a infrastructure perspective, the broken service chain has to take responsibility of the recycling dilemma. Recently there are more recycle box installed within the community. However when the box are filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.
+
+As for the online second hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the quesitonable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible to the images shown online (CBNData, 2019). In conclusion, a higher quality of product and the avoidance of scammer leads to a better second hand shopping experience.
+
+The UK Chinese student secondhand market might have a brigher future. The number of Chinese interantional student rank first (106,530 students) in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.
 
 **THE OFFERING**
 
@@ -139,6 +147,10 @@ First of all, the project helps to save natural resource and prevent unnecessary
 > Wang Xueqiao (2019). Second-hand market comes in from the cold in China. [online] @FinancialTimes. Available at: https://www.ft.com/content/a5701798-ad1f-11e9-8030-530adfa879c2 [Accessed 24 Jun. 2020].
 
 > Johnson, J. (2018). Business Advice. [online] Business Advice. Available at: https://businessadvice.co.uk/business-development/sales-marketing/uk-consumers-stockpiling-17-7-billion-unwanted-goods/ [Accessed 24 Jun. 2020].
+
+> UKCISA (2019). International student advice and guidance - International student statistics: UK higher education. [online] Ukcisa.org.uk. Available at: https://www.ukcisa.org.uk/Research--Policy/Statistics/International-student-statistics-UK-higher-education [Accessed 27 Jun. 2020].
+
+> CBNData (2019). 2018 National "Light Life" Report [online] CBNData. Available at: https://www.cbndata.com/report/1306/detail?isReading=report [Accessed 27 Jun. 2020].
 
 # Methodology
 
