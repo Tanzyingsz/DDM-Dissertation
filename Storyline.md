@@ -83,13 +83,59 @@ Ready? [Find your form here]
 
 ---
 
+# Workshop
+
+Rather than wasting your money in the shops, look no further for inspiring ways to create a fresh look from the things you already have.
+
+By altering, accessorising and combining clothes in new ways, you can revamp your home and look amazing.
+
+Join our army of refashionistas, creating new lifestyle with the help of our professional redesigner.
+
+---
+
 A T-shirt can use up to 120 liters of water per wear,
 1kg cotton = 20,000 litres of water
 there are over 1,000,000,000 earthlings who still lack access to clean water.
 
-**Meet RE:source**
+Even harmless book does not go easy on the environment. 7.5 kilograms of carbon dioxide each book, heavier than your cat.
 
-Every piece of item matters.
-(image of chemistry elements)
+Recyle one wooden desk means you save 40000 gallons of water - enough to support you for over a year.
 
-Easy peazy lemon squeezy
+Make your home a saving haven. Reduce how much energy you use and save from the comfort of your couch.
+
+A fabulous way to have a fashion home for a fraction of designer household prices
+
+---
+
+Spacious and clean surroundings, abundant space to run and party
+
+That’s what we all want, right?
+
+Bad news, the discarded belongings you throw away is stealing your space.
+
+27 million tonnes of household waste produced by the UK every year.
+
+Equivalent to 409 kg per person - roughly the weight of 4 adult giant pandas.
+
+Every hour, the waste we produce would fill an Albert Hall in London.
+
+Scary, uh?
+
+Nothing we can do? Not really, we decided to take action.
+
+Meet RE:source who breathe new life into your new home without producing new waste.
+
+1
+2
+
+Every adoption of pre-loved belongings equals impact
+The molecular can tell.
+
+Our collections are hand-picked by experienced product designers. No matter your taste, there is always a choice for you!
+
+So what do we do?
+
+**We educate others**
+We throw upcycle workshops every now and then, all are welcome to join our redesign process of pre-owned items.
+
+**We raise social awareness**
