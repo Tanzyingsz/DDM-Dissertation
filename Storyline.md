@@ -87,7 +87,7 @@ Ready? [Find your form here]
 
 Rather than wasting your money in the shops, look no further for inspiring ways to create a fresh look from the things you already have.
 
-By altering, accessorising and combining clothes in new ways, you can revamp your home and look amazing.
+By altering, accessorising and combining discarded belongings in new ways, we can revamp your home and look amazing together!
 
 Join our army of refashionistas, creating new lifestyle with the help of our professional redesigner.
 
@@ -107,7 +107,7 @@ A fabulous way to have a fashion home for a fraction of designer household price
 
 ---
 
-Spacious and clean surroundings, abundant space to run and party
+Spacious and clean surroundings, abundant space to run and party.
 
 That’s what we all want, right?
 
@@ -125,17 +125,30 @@ Nothing we can do? Not really, we decided to take action.
 
 Meet RE:source who breathe new life into your new home without producing new waste.
 
-1
-2
+**Best bargain, reliable products.**
+We do our research beforehand. Everything here are under 80% of the market price. Usability all checked. Your friend will be jealous.
+
+**Exhausting IKEA trip no more**
+Even the bulk items, we deliver right to your doorstep, Hoo-ray! Carefully planned delivery route brings less carbon footprint.
+
+**Clear clue on how much you helped**
+Every bill you pay, we calculate the resource and energy you saved. Backed up with professional environmental knowledge, no kidding.
+
+[slider]
+Slide to see what you can save.
 
 Every adoption of pre-loved belongings equals impact
 The molecular can tell.
 
 Our collections are hand-picked by experienced product designers. No matter your taste, there is always a choice for you!
 
-So what do we do?
+What else do we do?
 
 **We educate others**
 We throw upcycle workshops every now and then, all are welcome to join our redesign process of pre-owned items.
 
-**We raise social awareness**
+2,000kg
+And the result? So far we’ve saved this amount of waste from entering landfills.
+
+Ready to grab the lost space back? Join us! You are so cool fighting for humankind!
+[I want to help!]
