@@ -33,6 +33,6 @@ http://www.uh.cu/static/documents/RDA/Web%202.0%20Storytelling%20c.pdf
 提问方式用 on a scale of 1 to 10, how would you rate...更好量化
 target user 常用的重要平台都要覆盖到
 
-解释为什么国内的二手平台使用率这么低（数据出现的原因）
+_解释为什么国内的二手平台使用率这么低（数据出现的原因）_
 
 之前的调查结果仅在跟当前主题相关的前提下才能使用
