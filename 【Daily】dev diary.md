@@ -1,4 +1,8 @@
 Overview of everyday progress.
+
+**28 JUNE**
+Create the content for "our-mission" storyline. Finish the first edition of low fidelity prototype except for the "our-mission" page and "After payment" page. Layout for the some pages to be updated.
+
 **27 JUNE**
 Add content into prototype. Optimize literature review according to feedback.
 
