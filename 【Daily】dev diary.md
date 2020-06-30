@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**29 JUNE**
+Codepen exercies:"circle follow cursor". Composition of the storyline.Literature review "Color" part.
+
 **28 JUNE**
 Create the content for "our-mission" storyline. Finish the first edition of low fidelity prototype except for the "our-mission" page and "After payment" page. Layout for the some pages to be updated.
 
