@@ -91,8 +91,6 @@ Under the heading of user experience design, the main goal of a system is to imp
 
 > Norman, D. and Nielsen, J. (2020). The Definition of User Experience (UX). [online] Nielsen Norman Group. Available at: https://www.nngroup.com/articles/definition-user-experience/ [Accessed 23 Jun. 2020].
 
-_More user experience related content_
-
 ## 1.2 Aarron Walter's Hierarchy of User Needs
 
 Based on the Abraham Maslow's theory (Maslow and Lewis, 1987) which indicates a unidirectional linear relationship between the basic human needs and a higher level of motivation, Aarron Walter proposed a mirror hierarchy of user needs focus in the area of the interface. In this version of user needs pyramid, after the fulfilment of fundamental needs including functionality, reliability and usability comes the most superior needs, pleasure.
@@ -110,6 +108,41 @@ In other words, for the basic level, no matter how aesthetically perfect an appl
 > Loranger, H. and Nielsen, J. (2017). Microcontent: How to Write Headlines, Page Titles, and Subject Lines. [online] Nielsen Norman Group. Available at: https://www.nngroup.com/articles/microcontent-how-to-write-headlines-page-titles-and-subject-lines/ [Accessed 23 Jun. 2020].
 
 > Figure: Aarron Walter’s Hierarchy of User Needs. [online] Nielsen Norman Group. Available at: https://media.nngroup.com/media/editor/2017/02/07/aarron-walter-user-needs.png [Accessed 23 Jun. 2020].
+
+## 1.3 Usability and user interface
+
+_Typography_
+Typography act as a core building block for a brand. After all, whenever a brand tries to convey a message or interface with customers through textual form, they have to rely on the support of typographic design. A proper text treatment will measurably affect user productivity and increase satisfaction in user experience.
+
+Typography mainly servers two functions: establish the character of a brand and provide typographical hierarchy (Boulton, 2009). The features of a typeface reflect the intent of a brand. The whitespace in between letters, the various stress and weight all contribute to the changing "feeling" of a brand. Generally, the typographical hierarchy is dealing with contrast. It highlights the content that matters to the user most. Designers commonly create contrast between headings and body text through the adjustment of font size, weight and typeface. Since contrast contains the meaning of "difference", it is crucial to set distinct roles to fonts and their variants. And the role should be consistent within a website for a united brand feeling.
+
+Based on the above discussion, Re: source adopted two typefaces: Merriweather and Helvetica Neue as its type scale. These two fonts are distinct from each other in design yet does not conflict. Merriweather is a serif font which is designed to be "pleasant to read on screens"(Google Fonts, 2020). Besides the slight offset of numbers in font produce a cheerful mood. Therefore RE: source use it as a body and price tag typeface. Helvetica Neue belongs to the most widely used sans serif font face family, Helvetica. Compared to its relatives, Helvetica Neue has a more unified set of heights and widths and abundant variants. The most copy within RE:source website is set to Helvetica Neue. Together, these two fonts form a harmonious combination.
+
+Moreover, considering the different interpretation of font size on a different system, like Mac OS and Windows systems, and browsers, RE:source website use scalable measurement "em" in CSS to define font size.
+
+> Boulton, M., 2009. A practical guide to designing for the web. Mark Boulton Design Limited.
+
+> Google Fonts. (2020). Google Fonts. [online] Available at: https://fonts.google.com/specimen/Merriweather#about [Accessed 28 Jun. 2020].
+
+_Color_
+
+Colour helps to express the essence of a brand. When people see a rectangle yellow border, they will immediately recognize it as the "frame" sign for National Geographic.
+
+Colours are capable to create an emotional reaction on user.
+https://www.alterspark.com/wp-content/uploads/emotion-hue-wavelength.png
+(Figure: Hue in wavelength)(Brian, 2019)
+The visual colour map indicate that pleasue and control emotions peek in the blue zone. But blue is also the least arousing colour. In general, blue is associated with key word safety and comfort.
+
+Most importantly, colour contributes to visual hierarchy which means the combination of colour guides user attention. Once user get to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy developing is not aesthetic but functional. Salience, the word that describe how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally perform more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.
+
+https://www.alterspark.com/wp-content/uploads/visual-salience.png
+(Figure: Visual salience of colors)
+
+In order to show the various status of information and express a clear hierarchy, RE:source chose the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.
+
+> Brian, C. (2019). Color Psychology. [online] AlterSpark. Available at: https://www.alterspark.com/color-psychology [Accessed 29 Jun. 2020].
+
+> Camgöz, N.(2000). Effects of hue, saturation, and brightness on attention and preference. Diss. Bilkent University.
 
 ## 2 Storytelling
 
@@ -147,7 +180,7 @@ _Hero2: Buyer:_
 In general, the buyer is mainly made up of freshers who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.
 
 "Best bargain on the reliable used furniture in town. Your friend will be jealous."
-Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. As for the internal problem, the buyer is looking for brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.
+Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.
 
 > Miller, D., 2017. Building a StoryBrand: Clarify your message so customers will listen. HarperCollins Leadership.
 
@@ -189,11 +222,11 @@ The secondhand market in China is at its nascent but growing dramatically. Resea
 
 There are several reasons why Chinese secondhand market is limited.
 
-The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remain unknown. For example, a car could be resold because it had went through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. From a cognative aspect, most charity shops are ran by the government who seldom promote these charity services. The shortage of systematic marketing plan also cause trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products are close to the market price, which is hardly attractive to the public. The most bizarre situation is that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. From a infrastructure perspective, the broken service chain has to take responsibility of the recycling dilemma. Recently there are more recycle box installed within the community. However when the box are filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.
+The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remains unknown. For example, a car could be resold because it had gone through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. From a cognitive aspect, most charity shops are run by the government who seldom promote these charity services. The shortage of systematic marketing plan also causes trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products is close to the market price, which is hardly attractive to the public. The most bizarre situation is that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. From an infrastructure perspective, the broken service chain has to take responsibility for the recycling dilemma. Recently there are more recycle box installed within the community. However, when the box is filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.
 
-As for the online second hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the quesitonable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible to the images shown online (CBNData, 2019). In conclusion, a higher quality of product and the avoidance of scammer leads to a better second hand shopping experience.
+As for the online second-hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the questionable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible to the images shown online (CBNData, 2019). In conclusion, a higher quality of product and the avoidance of scammer leads to a better second-hand shopping experience.
 
-The UK Chinese student secondhand market might have a brigher future. The number of Chinese interantional student rank first (106,530 students) in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.
+The UK Chinese student secondhand market might have a brighter future. The number of Chinese international student rank first in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of a circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.
 
 **THE OFFERING**
 
