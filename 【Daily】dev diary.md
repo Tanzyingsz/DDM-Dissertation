@@ -1,4 +1,9 @@
 Overview of everyday progress.
+**1 JULY**
+Update the business structure in prototype. Built site map. Chat with external examier.
+
+**30 JUNE**
+Found the estimation of user experience - User experience questionnarie (UEQ)
 
 **29 JUNE**
 Codepen exercies:"circle follow cursor". Composition of the storyline.Literature review "Color" part.
