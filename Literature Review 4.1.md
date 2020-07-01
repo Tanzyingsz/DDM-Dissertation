@@ -1,75 +1,14 @@
-**Answer to last time feedback:**
-
-1. No the topic right now does not relate to trust
-2. The reference will be moved to bibliography later. Right now I list them right after each sections in order to track them easier.
-
-**Practical work progress**
-I am working on the prototype on Figma. https://www.figma.com/file/zXYrbEk50mHkd8sve990pG/Low-fidelity-model?node-id=0%3A1 It is a live preview, feel free to check at anytime.
-
-According to plan, by Wednesday, I will be able to at least present a static low fidelity model, with as much illustrations as possible. I will try to build some motion graphic snippets on Codepen before the mid-term preview.
-
-The transition between pages and detailed interaction on Figma will not be my priority. Might keep the current prototype static. I think as long as the logic is clear, build and debug the interaction on the real website is more important, do not have much time left since the user testing date is set to July 20th.
-
----
-
-Here is the current version of storyline in case the "our-mission" page is not complete when you browse through the prototype:
-
-Spacious and clean surroundings, abundant space to run and party.
-
-That’s what we all want, right?
-
-Bad news, the discarded belongings you throw away is stealing your space.
-(Background illustration: A garbage vehicle dumping waste)
-
-**27 million** tonnes of household waste produced by the UK every year.
-
-Equivalent to **409 kg per person** - roughly the weight of 4 adult giant pandas.
-
-**Every hour**, the waste we produce would fill an Albert Hall in London.
-
-Scary, uh?
-
-Nothing we can do? Not really, we decided to take action.
-
-Meet RE:source, the platform who breathe new life into your new home without producing new waste.
-
-**Best bargain, reliable products.**
-We do our research beforehand. Everything here are under 80% of the market price. Usability all checked. Your friend will be jealous.
-
-**No more exhausting IKEA trip**
-Even the bulk items, we deliver right to your doorstep, Hoo-ray! Carefully planned delivery route brings less carbon footprint.
-
-**Clear clue on how much you helped**
-Every bill you pay, we calculate the resource and energy you saved. Backed up with professional environmental knowledge, no kidding.
-
-[interactive slider]
-Slide to see what you can save.
-(When user slides, different size of pre-owned items pop up, e.g. book,cloth,table etc. along with the resource they save when being reused e.g. landfill size, water, carbon dioxide)
-
-Every adoption of pre-loved belongings equals impact
-The molecular can tell.
-(Image of chemistry elements, along with the carbon footprint per kg they produce)
-
-Our collections are hand-picked by experienced product designers. No matter your taste, there is always a choice for you!
-
-What else do we do?
-
-**We educate others**
-We throw upcycle workshops every now and then, all are welcome to join our redesign process of pre-owned items.
-
-**2,000kg**
-And the result? So far we’ve saved this amount of waste from entering landfills.
-
-Ready to grab the lost space back? Join us! You are so cool fighting for humankind!
-[Button "I want a RE:source item now!"]
-
----
-
 # Title
 
 How to optimize the user experience in an e-commerce brand with online interactive storytelling
 
 - The case of RE: source, a sustainable B2C second-hand platform
+
+**GLOSSARY**
+CSS - Cascading Style Sheets
+e-commerce - electronic commerce
+UI - User Interface
+UX - User Experience
 
 # Introduction
 
@@ -126,23 +65,39 @@ Moreover, considering the different interpretation of font size on a different s
 
 _Color_
 
-Colour helps to express the essence of a brand. When people see a rectangle yellow border, they will immediately recognize it as the "frame" sign for National Geographic.
+Overall, colour contributes to the user interface in three dimensions: pass information through visual hierarchy, arouse emotional responses from users and shape the brand image.
 
-Colours are capable to create an emotional reaction on user.
-https://www.alterspark.com/wp-content/uploads/emotion-hue-wavelength.png
-(Figure: Hue in wavelength)(Brian, 2019)
-The visual colour map indicate that pleasue and control emotions peek in the blue zone. But blue is also the least arousing colour. In general, blue is associated with key word safety and comfort.
-
-Most importantly, colour contributes to visual hierarchy which means the combination of colour guides user attention. Once user get to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy developing is not aesthetic but functional. Salience, the word that describe how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally perform more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.
+Firstly, as the basic component of the physical world, colour provides humankind with an incredible amount of information. Studies shows that when interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). To communicate the information clearly, one can use colour to build an visual hierarchy. Visual hierarchy can show help the user to understand website structure eaiser and guide user attention. Once user get to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy development is not aesthetic but functional. Salience, the description of how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally perform more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.
 
 https://www.alterspark.com/wp-content/uploads/visual-salience.png
 (Figure: Visual salience of colors)
 
-In order to show the various status of information and express a clear hierarchy, RE:source chose the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.
+Secondly, many studies have proved that colour has an effect on emotions states(Singh,2016; Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim & Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public.
+
+ttps://www.alterspark.com/wp-content/uploads/emotion-hue-wavelength.png
+(Figure: Hue in wavelength)
+
+The visual colour map indicate that pleasue and control emotions peek in the blue zone. Blue is also said to be associated with key word safety and comfort.(Brian, 2019)
+
+Thirdly, colour helps to communicate brand image since it represents the personality of a brand(Kumar, 2017).For instances, when people see a rectangle yellow border, they will immediately recognize it as the "frame" sign for National Geographic. Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.As Seo (2010) pointed out, the colour green in a sustainable brand gets more positive responsive on environmental messages, RE:source used green as the brand logo colour.
+
+In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.
+
+However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.
+
+> Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
 
 > Brian, C. (2019). Color Psychology. [online] AlterSpark. Available at: https://www.alterspark.com/color-psychology [Accessed 29 Jun. 2020].
 
 > Camgöz, N.(2000). Effects of hue, saturation, and brightness on attention and preference. Diss. Bilkent University.
+
+> Lim, W.M. and Ting, D.H., 2012. E-shopping: An analysis of the uses and gratifications theory. Modern Applied Science, 6(5), pp.48.
+
+> Kumar, J.S., 2017. The psychology of colour influences consumers’ buying behaviour–a diagnostic study. Ushus-Journal of Business Management, 16(4), pp.1-13.
+
+> Seo, J.Y., 2010. The Role of Color in Environmental Messages and Claims: Green Can be Both Beneficial and Misleading. Diss. David Eccles School of Business, University of Utah.
+
+> Lányi, C.S., 2017. Choosing effective colours for websites. In Colour Design (pp. 619-640). Woodhead Publishing.
 
 ## 2 Storytelling
 
@@ -268,8 +223,12 @@ RE: source is designed to achieve delight. The ideal performance requires to mee
 
 (4) Pleasurable: RE: source embed clean and aesthetic illustrations, subtle animations, an adequate amount of tiny gamified elements and gives timely encouraging feedback to reassure user knows what is going on.
 
-# Backup
+## User Experience Evaluation
 
-# Conversational Storytelling
+In order to find out the the effect of storytelling on the e-commerce brand, the research used user experience questionnaire (UEQ) to evaluate the impression of user experience. The 26 items are grouped into six scales: Attractiveness, perspicuity, efficiency, dependability, stimulation and novelty.(Schrepp et al., 2017)
 
-Conversational storytelling referes to a nonlinear, highly-visual, and narrative-based approach of presenting content. Escape from the traditional "momonologue" storytelling model, the conversation floating between two or more entities leads to a more immersive experience.
+> Schrepp, M., Hinderks, A., & Thomaschewski, J., Construction of a Benchmark for the User Experience Questionnaire (UEQ). IJIMAI 4.4 , pp. 40-44.
+
+## Function
+
+Since the target audience are not native English speaker, language selector is added to help them navigate with the website easier.
