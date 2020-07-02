@@ -1,4 +1,8 @@
 Overview of everyday progress.
+
+**2 JULY**
+Feedback from Andrew. Tweak the section of dissertation. Starting to use shimo.io for tranforming .md markdown document to .doc.
+
 **1 JULY**
 Update the business structure in prototype. Built site map. Chat with external examier.
 
