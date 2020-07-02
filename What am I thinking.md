@@ -71,6 +71,8 @@ Interactive story telling - A tool to optimize user experience on a second hand 
 Interactive story telling - A tool to build emotional brand attatchment
 The study on a B2C second hand platform
 
+Designing interactive storytelling for e-commerce brand: The case of the RE:source second-hand B2C platform
+
 ---
 
 **Storytelling 的作用**
@@ -99,3 +101,78 @@ Craiglist
 Etsy
 Amazon
 Yelp
+
+# Defination of words
+
+## Story
+
+A story has a beginning, a middle, and a cleanly wrapped-up ending
+
+> Alexander, B., & Levine, A. (2008). Web 2.0 storytelling: Emergence of a new genre. EDUCAUSE review, 43(6), 40-56.
+
+## Storytelling 让信息变得容易理解和记忆
+
+Storytelling refers to framing information so that it is understandable, meaningful, and memorable.
+
+## Interactive story 事件，现象和讨论主题都会实时变化
+
+**Interactivity** is a live experience. In an **interactive story**, occurrences, phenomena, and topics of discussion are subject to change in real time, depending on the interactions of at least one person—a user.
+
+> Spierling, U., Grasbon, D., Braun, N., & Iurgel, I. (2002). Setting the scene: playing digital director in interactive storytelling and creation. Computers & Graphics, 26(1), 31-44.
+
+## Interactive storytelling 叙述者通过肢体语言，多种媒介进行解说，悬念和娱乐性（跟 VR 联系更紧密）
+
+**Interactive storytelling** instead relies on a predefined story, a specific plot concerning facts and occurrences. Only the telling of the story is done interactively. The telling of a story involves presentation means, such as speech and body language of the narrator (poses, gestures, facial expressions), as well as mediated representations of narration, such as theater, film, graphics, comics, and the like. An interactive storyteller is an artist that reacts to the audience, while maintaining suspense and entertainment value. In order to accomplish this in an algorithmic way, we would have to implement not only anthropomorphic human behavior to a high degree, such as speech and gesture synthesis, but also a talent that not all humans share.
+
+> McLellan, H. (2006). Corporate storytelling perspectives. The Journal for Quality and Participation, 29(1), 17.
+
+## Web2.0
+
+Including microcontent and social media
+
+**Microcontent**: 定义 authors create small chunks of content, with each chunk conveying a primary idea or concept. 举例 e.g. blog posts, wiki edits, YouTube comments, and Picasa images, audio (podcasts), video (for web platforms, such as YouTube) 特点（人人都能上手，内容至上）： Creating Web 2.0 content requires only making a fewselections from menus, choosing from a variety of well-designed templates, or adding a page name to another,already-established wiki page. One outcome of this authoring approach is a drastically lower bar for participation andpublishing.
+
+**Social media**:举例 Web 2.0 tools are built to combine microcontent from different users with a shared interest: a blog post and a comment; a Delicious page for a URL with many different users having bookmarked the same URL; a group of Flickr photos from different peopleconnected by the common use of a descriptive tag; or multiple authors in a single wiki page. 内容是由很多人共同创造的 If readers closely examine a Web 2.0 project, they will find that it is often touched by multiple people, whether in the content creationor via associated comments or discussion areas. If they participate actively, by contributing content, we have whatmany call social media.
+
+# Web2.0 storytelling (web-based storytelling)
+
+Story can refer to either fiction or nonfiction. But Web 2.0 stories are often broader: they can represent history, fantasy, a presentation, a puzzle, a message, or something that blurs the boundaries of reality and fiction.
+
+Not all Web 2.0 stories are distributed across multiple sites, but the combination of social media andm icrocontent makes it likely that many can be. （web2.0 倾向于让用户创造内容，用 hyperlink 连接不同网站的内容 PDF downlaods, blog posts）
+
+the boundaries of Web 2.0 stories are not necessarily clear
+
+\*Traditional storytelling has a limited ability on communicating content that trigger multiple psychological reactions.
+
+---
+
+# Self-ask question
+
+**Why RE:source?**
+There is user need out there. And students are not that aware of the value of second-hand items[prove this].
+
+**What does RE:source do?**
+Provide a platform to recycle second-hand goods between UK Chinese student, educate them about the importance of sustainalbe/circular economy as well as the wider public(through workshop)
+
+**Why storytelling**
+Good storytelling leave its listener a deeper impression. Bring user joy.
+
+**Why do you want to impress your customer?**
+So that they knows us, and look for us when they need help...
+
+**Why digital storytelling?**
+Make use of Web2.0. Raise user interest through a playful,entertaining user experience, long-term memory and a good impression on the brand.
+
+**What is web2.0 storytelling about?**
+Microcontent and social media.
+
+**Why user experience matters?**
+UX is a key quality of interactive products on today’s competitive mass markets.
+
+**What is the relationship between user experience and storytelling?**
+A good user experience enhance the brand identity, and storytelling can make this impression on the brand last longer, deeper.
+
+Title:
+a. Designing and implementing a storytelling website for second-hand e-commerce user experience
+
+b. Designing user experience with digital storytelling for e-commerce brand: The case of the RE:source second-hand B2C platform
