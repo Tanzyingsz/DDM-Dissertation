@@ -2,17 +2,7 @@
 
 1. **What is your main focus/concept/direction?**
 
-[main focus]
-
-2. **What motivates and inspires you to carry out this research?What are your ambitions - what do you want the project to do? Why?**
-
-The problem I discoverd in really life that inspires me. It is a substantial, environmentally-damaging, and unavoidable problem that Chinese students must face in having to waste hundreds of pounds worth of living items that they bought on arrival when they leave the UK.
-
-At the begging of the new life in UK, Chinese freshers already spent great effort and paid a fortune buying large amount of brand new household items from IKEA. But at the end of the academic year, when the students hurrying to get rid of the dozens of second-hand items before contract expires, they find they barely have the time to manage the logistics of conducting a sale and fulfilling an order, due to the immense pressure from exams and deadlines. The choices left are either dump the still-usable stuff or try their luck in the 2nd-hand groups on WeChat which, being a messaging app, provides a clunky, unorganised, and uninformative shopping experience. Wechat requires users to tedious scroll through the group’s chat history, not knowing whether they will find their desired item or whether the item is still for sale.
-
-Therefore, my amibitions is to build an experiential marketplace that brings environmental awareness to Chinese students. The ideas I would like to spread is that picking some nice second-hand items at the beginning of oversea study life is encouraged and dealing with to-good-to-go furnitures can be an enjoyable experience. In the future, the developed platform will be able to provide quality pre-loved and redesigned household items and help the leaving international students dealing with household items in a convenient and environmental friendly way.
-
-This project will shape the oversea chinese student's mindset of environmental awareness and sustainability and reduce the use of new manufactured items that not only consume large amount of natural resources but also produce heavy pollution.
+2) **What motivates and inspires you to carry out this research?What are your ambitions - what do you want the project to do? Why?**
 
 ---
 
@@ -23,9 +13,7 @@ This project will shape the oversea chinese student's mindset of environmental a
 **Projects**
 https://dopper.com/our-mission
 
-**Paper**
-Cebi, Selcuk. "Determining importance degrees of website design parameters based on interactions and types of websites." Decision Support Systems 54.2 (2013): 1030-1043.
-https://www.sciencedirect.com/science/article/pii/S0167923612002916?via%3Dihub#bb0150
+[Paper]
 
 [theory]
 
