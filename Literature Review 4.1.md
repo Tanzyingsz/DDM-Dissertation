@@ -1,8 +1,8 @@
 # Title
 
-How to optimize the user experience in an e-commerce brand with online interactive storytelling
+Why digital storytelling helps optimizing user experience
+The case of RE: source, a sustainable B2C second-hand e-commerce
 
-The case of RE: source, a sustainable B2C second-hand platform
 <br/>
 
 **GLOSSARY**
@@ -117,15 +117,13 @@ A cohesive motion system can improve the user experience by reflecting the brand
 
 As for branding, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm.
 
-In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar or numbers. In some cases, interactive animations even help to break complicated information down. For example, the Apple Card informs users the charges range through the circular animation. Compared to a long paragraph of description, the animation expresses the process more Intuitively. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.
+In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to static image, a sequence of animation increase the content capacity and reduce the effort to understand information. For example, the Apple Card informs users the charges range through the circular animation. Compared to a long paragraph of description, the animation expresses the process more Intuitively. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.
 
 [Figure: Video Screenshot from Apple Card App]
 
-_Effects on emotion_
+**immersive environment**
 
 Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas. Just like salt: overuse them will ruin the flavour; leave them out will leave recipe tastes bland.
-
-_How to embed motion in RE:source_
 
 > Goyeneche, E., 2020. Why Is Motion Design So Important To User Experience?. [online] Medium. Available at: <https://medium.com/@elimagoy/why-is-motion-design-so-important-to-user-experience-50110ba4b5e1> [Accessed 31 May 2020].
 
@@ -136,6 +134,8 @@ _How to embed motion in RE:source_
 ## 2.2.1 Storytelling Overview
 
 A story contains a series of information that makes up narrative. A commonly seen story generally works like this: a character encounters some problem before he can reach his goal. At the moment of despair, a guide appears with a thorough plan, encourage him to take action, and finally help him get through multiple failures and achieved success(Miller, 2017).
+
+Some insist the length of story should be limited to one message per story.
 
 The voice of the public support the importance of storytelling. In a 2017 report, storytelling was rated the most effective marketing tactics among 62% of B2B marketers. The number of B2C storytelling supporter was even higher (The Science of Storytelling (Infographic), 2017). It is said that people are 22 times more likely to memorize a fact when they are presented in the form of a story (Ochs and Capps, 2009). Science backup the crucial role of storytelling - the human brain is hardwired for stories. Zak's research (2013) discovered story will increase the release of neurochemical oxytocin, the so-called "love hormone". As a result, the listener to the story will perform a higher level of empathy and connection to a brand.
 
@@ -149,9 +149,9 @@ The voice of the public support the importance of storytelling. In a 2017 report
 
 ## 2.2.2 Storytelling In Brand
 
-In the modern world, the information explosion feeds people with way too much noise. Storytelling is a powerful approach to create music out of noise (Miller, 2017). A well-choreographed music piece act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to waste extra calories of their overloaded mind and can make a connection with a brand easily.
+In the modern world, the information explosion feeds people with way too much noise (Miller, 2017). Luckily,storytelling is a powerful approach to create music out of noise. A well-choreographed music piece act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to waste extra calories of their overloaded mind and can make a connection with a brand easily.
 
-Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about the customer makes the customer care more (Miller, 2017). While Bragging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definitely is.
+Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about the customer makes the customer care more (Miller, 2017). While Bragging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definitely is. The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton (2012), the world-famous film director once said in his TED: "Don't give them (the audience) 4, give them 2+2."
 
 Some framework helps to structure a story that provides the better user experience, the previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010), the Hero’s Journey story framework (Campbell, 2008), story brand 7-Part framework (SB7 framework) (Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. Therefore this project plan to adapt Miller's work into practice. The SB7 framework proposes a 7-plot-points genuine story formula:
 
@@ -163,23 +163,7 @@ Some framework helps to structure a story that provides the better user experien
 (6) _A vision of tragic ending_ that warns the customer what might happen if they do not follow the lead of this brand.
 (7) _The glorious success_ illustrates the bright future of trusting this brand.
 
-When put into practice, the RE: source project adopted the mentioned framework like this:
-The guide is acted by the Re: source brand.
-
-_Hero1: Donator:_
-Donator refers to that Chinese student who is about to leave the UK in a hurry.
-
-"Help the environmentalists to donate within 3 minutes. Save your time for something else you enjoy (subtitle)." This slogan pointed out the character of a donator: environmentalist.
-
-The external problem of donator is to deal with a large amount of second-hand households within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalist or being a careless person who dumps the load in a landfill. Therefore the conversation on this page explained the idea "we hate taking heavy furniture downstairs and dump them as much as you do." In the end, there will be an image showing the character leaving without burden because they had already got rid of them through RE: source.
-
-<br/>
-
-_Hero2: Buyer:_
-In general, the buyer is mainly made up of first year student who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.
-
-"Best bargain on the reliable used furniture in town. Your friend will be jealous."
-Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.
+RE:source project largely built the storyline based on SB7 framework, with two user cases considered, the buyer and the donator.
 
 > Miller, D., 2017. Building a StoryBrand: Clarify your message so customers will listen. HarperCollins Leadership.
 
@@ -191,19 +175,37 @@ Buyer face the external problem of paying a fortune for furniture that cannot be
 
 <br/>
 
-## 2.2.3 Interactive Storytelling (Digital storytelling)
+## 2.2.3 interactive Storytelling
 
-Storytelling itself is interactive by definition - in the words of National Storytelling Network (2020): "...storytelling emerges from the interaction and cooperative, coordinated efforts of teller and audience." Therefore storytelling is always a bidirectional communication.
+_需要改进_
 
 Telling story online can pose more impact on users. Through the multiple media, ranging from visuals, animations and clickable interactive components that embedded in a website, multiple regions of the brain are activated.
 
 _linear vs non-linear content (Checked http://www.uh.cu/static/documents/RDA/Web%202.0%20Storytelling%20c.pdf but need to do a bit more research before I can write a summary down)_
 
-The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton (2012), the world-famous film director once said in his TED: "Don't give them (the audience) 4, give them 2+2."
+Storytelling itself is interactive by definition - in the words of National Storytelling Network (2020): "...storytelling emerges from the interaction and cooperative, coordinated efforts of teller and audience." Therefore storytelling is always a bidirectional communication. When it comes to the digital realm, the interactivity of storytelling becomes even more powerful. Interactivity affects how the pre-set information is interpreted and processed by users. Firstly, interactivity partly decides the amount of content on-page, for example, comment on products and discussion board threads. Secondly, interactivity brings a more customized feature to life, like the personal feed on a shopping website (Jensen et al., 2014). Thirdly, interactivity helps to pass the message of a brand. In several studies (Lee, 2005; Sundar, Kalyanaraman and Brown, 2003)the researchers emphasized that the higher level of interactivity the website have, the higher trust the brand earns.
 
+Although many evidence touted the interactivity as a beneficial component, some researchers argue that under certain circumstances, rich interactivity might not be preferable. For example, rich interactivity brings more benefits on an entertainment website rather than an information-focus website (Liu and Shrum, 2002) and people prefer a less interactive website when facing time limit (Amichai-Hamburger, Fine and Goldstein, 2004). In conclusion, the setting of interactivity should be decided according to the own background of a brand.
+
+> Jensen, M.L., et al, 2014. Organizational balancing of website interactivity and control: An examination of ideological groups and the duality of goals. Computers in Human Behavior, 38, pp.43-54.
+
+> Sundar, S.S., Kalyanaraman, S. and Brown, J., 2003. Explicating web site interactivity: Impression formation effects in political campaign sites. Communication research, 30(1), pp.30-59.
+
+> Lee, T., 2005. The impact of perceptions of interactivity on customer trust and transaction intentions in mobile commerce. Journal of Electronic Commerce Research, 6(3), p.165.
+
+> Rafaeli, S., et al., 2007. Assessing interactivity in computer-mediated. In Oxford handbook of Internet psychology (pp. 71-88). Oxford University Press.
+
+> Liu, Y. and Shrum, L.J., 2002. What is interactivity and is it always such a good thing? Implications of definition, person, and situation for the influence of interactivity on advertising effectiveness. Journal of advertising, 31(4), pp.53-64.
+
+> Amichai-Hamburger, Y., Fine, A. and Goldstein, A., 2004. The impact of Internet interactivity and need for closure on consumer preference. Computers in Human Behavior, 20(1), pp.103-117.
+
+## 2.2.4 Design elements in digital storytelling
+
+_Data_
 By Combining data and stories together, a brand will be able to touch its audience emotionally. Research has proved that emotionally connected customers are 52% more valuable than its highly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products. Data in the story can help in setting up the environment. For example, in a campaign that persuades people the importance of sustainability, the hard-hitting stats of how severe the environment has been damaged can give the audience an overview of the situation.
 
-_describe more needed elements for interactive storytelling here_
+_Parallax Scrolling_
+Parallax scrolling is an engaging techique that creates an illusion of depth in website pages. It attracts users to read more content. According to Frederick et al. (2015), when used in hedonic context, parallax scrolling have positive impact on user experience through increasing the usability. The downside of this strategy might be the increase loading time. To solve the problem, a website should balance the amount of parallax effect and other required resources.
 
 > National Storytelling Network. (2020). What Is Storytelling? [online] Available at: https://storynet.org/what-is-storytelling/ [Accessed 22 Jun. 2020].
 
@@ -211,7 +213,11 @@ _describe more needed elements for interactive storytelling here_
 
 > Harvard Business Review. (2015). The New Science of Customer Emotions. [online] Available at: https://hbr.org/2015/11/the-new-science-of-customer-emotions [Accessed 21 Jun. 2020].
 
+> Frederick, D., Mohler, J., Vorvoreanu, M., & Glotzbach, R. (2015). The Effects of Parallax Scrolling on User Experience in Web Design. Journal of Usability Studies, 10(2).
+
 <br/>
+
+## 2.3.4 E-commerce story-telling website case studies
 
 ## 2.3. Sustainbility and second-hand market
 
@@ -242,7 +248,7 @@ The UK Chinese student secondhand market might have a brighter future. The numbe
 
 **THE OFFERING**
 
-According to the brief questionnaire among 75 Chinese second-hand buyers, WeChat, the largest social media in China, turns out to be the No.1 channel Chinese students use for idle goods transaction. As a messaging app, WeChat provides a clunky, unorganised, and an uninformative shopping experience that requires users to tediously scroll through the group’s chat history, not knowing whether they will ﬁnd their desired item or whether the item is available. eBay and Gumtree are also mentioned as commonly used second-hand web applications. According to online feedbacks, These two platforms got many complaints about "the low quality of products, being scammed and the lake of customer service" (https://uk.trustpilot.com/). To find out more pain points, another research target at previous eBay and Gumtree users were carried out. _Research result goes here_
+According to the brief questionnaire among 75 Chinese second-hand buyers, WeChat, the largest social media in China, turns out to be the No.1 channel Chinese students use for idle goods transaction. As a messaging app, WeChat provides a clunky, unorganised, and an uninformative shopping experience that requires users to tediously scroll through the group’s chat history, not knowing whether they will ﬁnd their desired item or whether the item is available. eBay and Gumtree are also mentioned as commonly used second-hand web applications. According to online feedbacks, These two platforms got many complaints about "the low quality of products, being scammed and the lake of customer service" (https://uk.trustpilot.com/).
 
 As a business-to-consumer(B2C) second-hand e-commerce platform, RE: source will provide an optimized second-hand donating and shopping experience through storytelling.
 First of all, the brand story will be told to persuade the donator and buyer to agree with our value. Then the website will try to provide a highly usable platform where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized. In order to solve the most commonly seen trust and scam problem on second-hand platform, timely advisory service through live chatting box and the traditional email communication are both available on the page.
@@ -267,6 +273,32 @@ First of all, the project helps to save natural resource and prevent unnecessary
 > CBNData (2019). 2018 National "Light Life" Report [online] CBNData. Available at: https://www.cbndata.com/report/1306/detail?isReading=report [Accessed 27 Jun. 2020].
 
 # 4. Design Methodology
+
+## RE: source storyline based on SB7 framework
+
+RE:source deal with two major kind of users: donator and buyer. Since all the selling products are recycled from donation, the narrative of storyline begins from donator, and then switch to buyer.
+
+After analysising the user problems, RE:source adapt the SB7 framework as followed:
+
+The guide in both user cases acted by the Re: source brand.
+
+**Hero story 1: Donator**
+Donator refers to that Chinese student who is about to leave the UK in a hurry.
+
+"Help the environmentalists to donate within 3 minutes. Save your time for something else you enjoy (subtitle)." This slogan pointed out the character of a donator: environmentalist.
+
+The external problem of donator is to deal with a large amount of second-hand households within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalist or being a careless person who dumps the load in a landfill.
+
+Therefore the story on related page explained the idea "we hate taking bulky items downstairs and dump them as much as you do." The solution provided by RE:source is free donation collecting service. Step-by-step guide and carefully-desigend form process will simplify the donation register process. As a result, there might be a higher possibility the user take part in donation. As for the reward, Miller(2017) stressed offering a status in return. Thus, donator will get an certification with his memership as a RE: source support and all the detailed contribution he made to the environment. A certification brings up the feeling of rewarded and being affirmed. At the end of the story, the sucess should be depicted with an image shows the character leaving UK without burden.
+
+<br/>
+
+**Hero story 2: Buyer**
+In general, the buyer is mainly made up of first year students who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.
+
+"Best bargain, reliable prodcuts. Your friend will be jealous." The slogan pointed out the price and quality advantage of RE:source products.
+
+Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. Through closely cooperate with removal company, the reliability of service is guaranteed. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.
 
 # User Experience design in RE: source
 
