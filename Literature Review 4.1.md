@@ -264,6 +264,8 @@ RE: source is a second-hand, sustainability-driven online marketplace serving se
 
 The sustainable component is adopted as a supporting marketing strategy. The previous case shows the "sustainable" movement potentially brings benefits. In 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).
 
+The overall style of RE:source will be simple and graphic, but staying functional.
+
 ## 3.2 Target Users
 
 The UK Chinese student secondhand market might have a brighter future. The number of Chinese international student rank first in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of a circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.
