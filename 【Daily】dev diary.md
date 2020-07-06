@@ -1,7 +1,7 @@
 Overview of everyday progress.
 
 **3 JULY**
-Feedback from friend on prototype. Add more illustration into the page, optimize layout.
+Feedback from friend on prototype. Add more illustration into the page, optimize layout.Scrolling text effect.
 
 **2 JULY**
 Feedback from Andrew. Tweak the section of dissertation. Starting to use shimo.io for tranforming .md markdown document to .doc.
