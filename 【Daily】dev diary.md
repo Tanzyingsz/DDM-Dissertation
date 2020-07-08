@@ -1,4 +1,10 @@
 Overview of everyday progress.
+**8 JULY**
+Morning checking course score, build up the database structure for products. Rest of the day began to launch settled design in webflow. Start from product detail page.
+
+**7 JULY**
+Night off sending flatmate back China.
+
 **6 JULY**
 Midterm with Jules. Rearrange the story squence and logic in my-mission page with live feedback from friend.
 
