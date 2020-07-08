@@ -1,7 +1,15 @@
 Overview of everyday progress.
+**6 JULY**
+Midterm with Jules. Rearrange the story squence and logic in my-mission page with live feedback from friend.
+
+**5 JULY**
+Prepare prototype for midterm.
+
+**4 JULY**
+Create page with lighter colour scheme.
 
 **3 JULY**
-Feedback from friend on prototype. Add more illustration into the page, optimize layout.Scrolling text effect.
+Feedback from friend Ziding on prototype. Add more illustration into the page, optimize layout, font. scrolling text effect.
 
 **2 JULY**
 Feedback from Andrew. Tweak the section of dissertation. Starting to use shimo.io for tranforming .md markdown document to .doc.
