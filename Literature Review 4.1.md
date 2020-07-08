@@ -113,9 +113,14 @@ However, It is worth mentioning that the effects of colour have an individual di
 <br/>
 
 _Motion Design_
+
+(Jules keyword)
+\*principles of animation
+\*Designing Interface Animation: Improving the User Experience Through Animation
+
 A cohesive motion system can improve the user experience by reflecting the brand personality, providing clearer feedbacks and producing an immersive environment. (Goyeneche, 2020)
 
-As for branding, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm.
+The animation in motion design can express the tone and voice of a brand. For example, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm.
 
 In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to static image, a sequence of animation increase the content capacity and reduce the effort to understand information. For example, the Apple Card informs users the charges range through the circular animation. Compared to a long paragraph of description, the animation expresses the process more Intuitively. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.
 
