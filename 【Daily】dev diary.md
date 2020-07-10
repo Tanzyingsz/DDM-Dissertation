@@ -1,4 +1,10 @@
 Overview of everyday progress.
+**10 JULY**
+Move the design system from figma to webflow. FAQ page and payment page.
+
+**9 JULY**
+Product template page.
+
 **8 JULY**
 Morning checking course score, build up the database structure for products. Rest of the day began to launch settled design in webflow. Start from product detail page.
 
