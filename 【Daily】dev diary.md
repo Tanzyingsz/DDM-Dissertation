@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**11 JULY**
+Text on scroll effect done.FAQ page add interaction. Customize the responsive footer and header.
+
 **10 JULY**
 Move the design system from figma to webflow. FAQ page and payment page.
 
