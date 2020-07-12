@@ -12,7 +12,6 @@
 ### For written work:
 
 - keyword: "storytelling website marketing"
-- want the bullet point for storytelling.
 - **Goal:** Use the design to persuade this is the right way to do ecommerce. Show the impact of this design work. --> **How:** Do some _case study_ on Spock, freecycle, gumtree, musimacpie. Show the difference of my work, and the advantage of B2C.
 - Next stage focus on the narrative of this project.
 - Answer the questions for WEEK5
@@ -21,11 +20,9 @@
 
 Go to discussion board for help.
 
-[done]The method of storytelling that you used (7 steps storytelling)
+[done]The method and bullet point of storytelling that you used (7 steps storytelling)
 
 # Richard
-
-- do not think
 
 - Why UK chinese student? How did you do the research to show that they need this service?
 - Make it clear this website is for second-hand goods, and it is a B2C platform.
