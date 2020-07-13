@@ -6,7 +6,7 @@
 ### Need
 
 - [?] add a character to express the narrative
-- serach function
+- Search function
 - Storytelling needs to take more space, like the onboarding, how to complete the form.
 
 ### For written work:
@@ -22,14 +22,16 @@ Go to discussion board for help.
 
 [done]The method and bullet point of storytelling that you used (7 steps storytelling)
 
+---
+
 # Richard
 
 - Why UK chinese student? How did you do the research to show that they need this service?
 - Make it clear this website is for second-hand goods, and it is a B2C platform.
 - Make an illustration / flow chart / network to tells the user how this work(where will the donation goes). System, supply chain, deliver.
 
-Written
+### For written work:
 
 - hybrid the business proposition/plan(try to persuade somebody to invest in the project, get funding) and storytelling.
 - The flow chart can be in dissertation as well.
-- Describe the story chiense student have to abandon their things when leaving, and selling the things in online marketplace(wechat).
+- Describe the story Chinese student have to abandon their things when leaving, and selling the things in the online marketplace(WeChat).
