@@ -135,6 +135,8 @@ In other words, for the basic level, no matter how aesthetically perfect an appl
 
 ### 2.1.3 User Interface and Usability
 
+When it comes to the UI design of a website, some certain elements are crucial to adapt within pages, namely typography, colour and motion design. They all brings a certain level of effect to usability, both positive and negative. Hence this chapter discuss the theory and practical advice on how to use these elements properly.
+
 **Typography**
 Typography act as a core building block for a brand. After all, whenever a brand tries to convey a message or interface with customers through textual form, they have to rely on the support of typographic design. A proper text treatment will measurably affect user productivity and increase satisfaction in user experience.
 
@@ -221,6 +223,7 @@ The segment of online shopping, in particular, online second-hand shopping had b
 ## 3.1 Second-hand Market Case Studies
 
 【竞品分析】
+Ebay used analogous colour extended from its brand colour.
 
 ## 3.2 Project Brief
 
