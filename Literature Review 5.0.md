@@ -65,9 +65,6 @@ RE:source project largely built the storyline based on SB7 framework, with two u
 **Data**
 By Combining data and stories together, a brand will be able to touch its audience emotionally. Research has proved that emotionally connected customers are 52% more valuable than its highly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products. Data in the story can help in setting up the environment. For example, in a campaign that persuades people the importance of sustainability, the hard-hitting stats of how severe the environment has been damaged can give the audience an overview of the situation.
 
-**Parallax Scrolling**
-Parallax scrolling is an engaging techique that creates an illusion of depth in website pages. It attracts users to read more content. Research proved that parallax scrolling have positive impact on user experience through increasing the usability(Frederick et al,2015) and interactivity(Wang and Sundar, 2018). The downside of this strategy might be the increase loading time. To solve the problem, RE:souce will balance the amount of parallax effect and other required resources.
-
 **Emoji**
 Emoji or emoticons are the digital images that carry the meaning of a certain emotion or depict an object. By March 2020, 3304 emojis already exists in the Unicode Standard (Emojipedia, 2020). The effect of these tiny images is enormous since 92% netizens reported they have the habits of using emoji in communication(Grabowski, 2016). The reason why emoji went viral is that they express the meaning more than it present. In the word of folklorist Lee-Ellen Marvin (1995) "The paralanguage of the internet, the winks which signal the playfulness of a statement over the seriousness it might denote." Hence digtial storytelling could use emoji to express more complex meaning and carry a familiar sense to customers. Extra bonus is that emoji in e-commerce environment has a positive effect on customers' purchase intention (Das et al, 2019) due to emotional contagion (Lohmann,2017).
 
@@ -76,10 +73,6 @@ Emoji or emoticons are the digital images that carry the meaning of a certain em
 > Stanton, A. (2012). The clues to a great story. [online] Ted.com. Available at: https://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story?language=en [Accessed 24 Jun. 2020].
 
 > Harvard Business Review. (2015). The New Science of Customer Emotions. [online] Available at: https://hbr.org/2015/11/the-new-science-of-customer-emotions [Accessed 21 Jun. 2020].
-
-> Frederick, D., Mohler, J., Vorvoreanu, M., & Glotzbach, R. (2015). The Effects of Parallax Scrolling on User Experience in Web Design. Journal of Usability Studies, 10(2).
-
-> Wang, R. and Sundar, S.S., 2018. How does parallax scrolling influence user experience? A test of TIME (Theory of Interactive Media Effects). International Journal of Human–Computer Interaction, 34(6), pp.533-543.
 
 > Emojipedia (2020). Emojipedia FAQ. [online] Emojipedia.org. Available at: https://emojipedia.org/faq/ [Accessed 3 Jul. 2020].
 
@@ -192,9 +185,15 @@ In the scenarios where the user has to wait for feedback when submitting forms o
 
 <br/>[Figure: Video Screenshot from Apple Card App]
 
+In practical work, parallax scrolling is a commonly used engaging techique that creates an illusion of depth in website pages. It attracts users to read more content. Research proved that parallax scrolling have positive impact on user experience through increasing the usability(Frederick et al,2015) and interactivity(Wang and Sundar, 2018). The downside of this strategy might be the increase loading time. To solve the problem, RE:souce will balance the amount of parallax effect and other required resources.
+
 Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas. Just like salt: overuse them will ruin the flavour; leave them out will leave recipe tastes bland.<br/>
 
 > Goyeneche, E., 2020. Why Is Motion Design So Important To User Experience?. [online] Medium. Available at: <https://medium.com/@elimagoy/why-is-motion-design-so-important-to-user-experience-50110ba4b5e1> [Accessed 31 May 2020].
+
+> Frederick, D., Mohler, J., Vorvoreanu, M., & Glotzbach, R. (2015). The Effects of Parallax Scrolling on User Experience in Web Design. Journal of Usability Studies, 10(2).
+
+> Wang, R. and Sundar, S.S., 2018. How does parallax scrolling influence user experience? A test of TIME (Theory of Interactive Media Effects). International Journal of Human–Computer Interaction, 34(6), pp.533-543.
 
 > Laubheimer, P., 2020. The Role Of Animation And Motion In UX. [online] Nielsen Norman Group. Available at: <https://www.nngroup.com/articles/animation-purpose-ux/> [Accessed 31 May 2020].
 
@@ -202,7 +201,7 @@ Of course, even though moving elements are a powerful tool to attract user atten
 
 <br/>
 
-## 2.3 Limited Chinese second-hand market and the potential in its UK counterpart
+## 2.3 Background: Chinese and UK Second-hand Markets
 
 The secondhand market in China is at its nascent but growing dramatically. <br/>
 
@@ -328,6 +327,7 @@ Re:source adopted two typefaces: Merriweather and Merriweather Sans as its type 
 **(3)Motion Design**
 The main motions used in Re:source are the status change of button, the horizontal transformation of paragraph and some animation that connects the storyline. The animations are either triggered on hover, scrolling or mouse movement.
 
+In the long page with rich content, like the "Our-Mission" page and "Donation-Guide" page, parallax effect and some easing motion will be used to reduce user fatigue.
 [More content here after development]
 
 > Google Fonts. (2020). Google Fonts. [online] Available at: https://fonts.google.com/specimen/Merriweather#about [Accessed 28 Jun. 2020].
