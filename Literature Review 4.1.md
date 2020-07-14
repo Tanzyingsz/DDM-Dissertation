@@ -265,7 +265,7 @@ The segment of online shopping, in particular, online second-hand shopping had b
 
 ## 3.1 Project Brief
 
-RE: source is a second-hand, sustainability-driven online marketplace serving sellers, outbound Chinese students and buyers, inbound Chinese students who are starting their education in the UK.
+RE: source is a second-hand, sustainability-driven online marketplace serving sellers, outbound Chinese students and buyers, inbound Chinese students who are starting their education in the UK. The ultimate goal of RE:source is actively shape the perspectives mindset of environmental awareness and sustainability of the future China young thought leaders in the UK.
 
 The sustainable component is adopted as a supporting marketing strategy. The previous case shows the "sustainable" movement potentially brings benefits. In 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).
 
