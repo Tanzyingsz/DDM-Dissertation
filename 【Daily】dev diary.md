@@ -1,5 +1,14 @@
 Overview of everyday progress.
 
+**14 JULY**
+Fill in more content to dissertation written work. Tried to build the illustration for the after donation process.
+
+**13 JULY**
+Adjust the design system, link domain name with website. Experiment on hover effect.
+
+**12 JULY**
+Day off.
+
 **11 JULY**
 Text on scroll effect done.FAQ page add interaction. Customize the responsive footer and header.
 
