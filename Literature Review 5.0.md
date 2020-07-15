@@ -10,7 +10,7 @@ _content_
 
 # 1. Introduction
 
-This project explore the realtionship between digital storytelling and user experience in the concept of e-commerce. Storytelling had always been a userful tool to express feeling. However, in the internet era, especially in the web2.0 environment, storytelling had exceeded the form of pure oral speaking and printed material and evolved to a more interactive form embedded with multi-media, interaction, micro-content and social media.
+This project explore the realtionship between digital storytelling and user experience in the concept of e-commerce. Storytelling had always been a userful tool to express feeling. However, in the internet era, storytelling had exceeded the form of pure oral speaking and printed material and evolved to a more interactive form embedded with multi-media and interaction
 
 【简介】
 
@@ -24,11 +24,9 @@ The concept of digital storytelling first came up in the 1990s when the Center f
 
 A story contains a series of information that makes up narrative. In history, various defination are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desier of searching for emotions(Fournier, 1998). Another commonly seen story structure generally works like this: a character encounters some problem before he can reach his goal. At the moment of despair, a guide appears with a thorough plan, encourage him to take action, and finally help him get through multiple failures and achieved success(Miller, 2017) The latter further develop into a storytelling system called the SB7 (story brand 7-Part) framework(Miller, 2017).
 
-Digital storytelling covers a wider range of technique and format. The multimedia in digital storytelling includes but not limited to text, video, audio and sound effect etc. In practical environemnt, ground-breaking works like interactive TV series, virtual reality, immersive game and web-based narratives greatly expand the border of digital storytelling form. The digital storytelling website nowadays are larly based on Web2.0, a more social-networking webiste(Blanka and Reisdorf, 2012) with two essential features: microcontent and social media.
+Digital storytelling covers a wider range of technique and format. The multimedia in digital storytelling includes but not limited to text, video, audio and sound effect etc. In practical environemnt, ground-breaking works like interactive TV series, virtual reality, immersive game and web-based narratives greatly expand the border of digital storytelling form.
 
-The greatest difference between classic storytelling and digital storytelling lies in interactivity(Handler Miller,2008).
-
-Web2.0
+The greatest difference between classic storytelling and digital storytelling lies in interactivity(Handler Miller,2008). It directly change the user identity from an "audience" to a "participant." The old form of narrative follows a fixed linear manner while the storyline digital storytelling could be affected by the interaction between audience and materials provided.
 
 > StoryCenter. 2020. [online] Available at: <http://www.storycenter.org/resources.html> [Accessed 14 July 2020].
 
@@ -44,11 +42,25 @@ Web2.0
 
 ## 2.1.2 Why digital Storytelling is Important to User Experience?
 
+The voice of the public support the importance of storytelling. In a 2017 report, storytelling was rated the most effective marketing tactics among 62% of B2B marketers. The number of B2C storytelling supporter was even higher (The Science of Storytelling (Infographic), 2017). It is said that people are 22 times more likely to memorize a fact when they are presented in the form of a story (Ochs and Capps, 2009). <br/>
+
+Science backup the crucial role of storytelling - the human brain is hardwired for stories. Zak's research (2013) discovered story will increase the release of neurochemical oxytocin, the so-called "love hormone" and dopamine which contribute a long-lasting and more accurate memory. Besides, human tend to mirror their experience to the speaker's. Hence, after listenting to the story, the customer will perform a higher level of empathy and connection to a brand.
+
 **Digital Storytelling and Mental Simulation**
 
 **Digital Storytelling and Emotive Response**
 
 **Digital Storytelling and Transportation**
+
+> Shankar, A., Elliott, R., & Goulding, C., 2001. Understanding consumption: Contributions from a narrative perspective. Journal of marketing Management, 17(3-4), pp. 429-453.
+
+> Fournier, S., 1998. Consumers and their brands: Developing relationship theory in consumer research. Journal of consumer research, 24(4), 343-373.
+
+> OneSpot. 2016. The Science Of Storytelling (Infographic). [online] Available at: <https://www.onespot.com/resources/the-science-of-storytelling-infographic/> [Accessed 21 June 2020].
+
+> Ochs, E. and Capps, L., 2009. Living narrative: Creating lives in everyday storytelling. Harvard University Press.
+
+> Zak, P., 2013. How stories change the brain. Greater Good: The Science of a Meaningful Life, 17, pp.1-4.
 
 > Van Laer, T., De Ruyter, K., Visconti, L.M. and Wetzels, M., 2014. The extended transportation-imagery model: A meta-analysis of the antecedents and consequences of consumers' narrative transportation. Journal of Consumer research, 40(5), pp.797-817.
 
@@ -68,7 +80,7 @@ Some framework helps to structure a story that provides the better user experien
 (6) _A vision of tragic ending_ that warns the customer what might happen if they do not follow the lead of this brand.
 (7) _The glorious success_ illustrates the bright future of trusting this brand.
 
-RE:source project largely built the storyline based on SB7 framework, with two user cases considered, the buyer and the donator.
+RE:source project largely built the storyline based on SB7 framework, with two user cases considered, the buyer and the donor.
 
 > Miller, D., 2017. Building a StoryBrand: Clarify your message so customers will listen. HarperCollins Leadership.
 
@@ -82,7 +94,8 @@ RE:source project largely built the storyline based on SB7 framework, with two u
 
 ### 2.1.4 Design elements in digital storytelling
 
-【一句话】
+Apart from the multimedia format, there are two new elements that potentionally benefits the user experience: data and emoji.
+
 **Data**
 By Combining data and stories together, a brand will be able to touch its audience emotionally. Research has proved that emotionally connected customers are 52% more valuable than its highly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products. Data in the story can help in setting up the environment. For example, in a campaign that persuades people the importance of sustainability, the hard-hitting stats of how severe the environment has been damaged can give the audience an overview of the situation.
 
@@ -240,10 +253,29 @@ In conclusion, a higher quality of product and the avoidance of scammer leads to
 
 The segment of online shopping, in particular, online second-hand shopping had been grown the fastest worldwide in recent years (Fernando et al, 2016).It is also said that online second-hand markets had already become a crucial part of the circular economy (Hamari et al, 2016). The reason for setting up this sustainable project is to experiment with the effects of digital storytelling on user experience in an e-commerce brand.
 
-## 3.1 Second-hand Market Case Studies
+## 3.1 Second-hand Brand Case Studies
 
-【竞品分析】
-Ebay used analogous colour extended from its brand colour.
+The case studies divide the target brand into two types: C2C(Consumor to Consumor) and B2C(Business to Consumor). While RE:source belongs to the latter category, it is crucial to learn from other competitors.
+
+**C2C Platofrms: eBay, Etsy, Shpock**
+The shopping experience on these three websites are equally straight foward. They all have a large variety in items, detailed categories and filter. Ebay and Etsy provide customized feed.
+
+**Business Mode**
+The selling-point of these three platforms are different. While eBay facing the global market, Etsy promotes hand-made and vintage products and Shpock focus on the items in the surrounding areas. An interesting fact is that eBay is such a influencial market that other second-hand brand like Musicmagpie and British Heart Foundation even open their shop on eBay.
+
+These three websites has their own approach to making money. eBay and Etsy charge seller fee, provide memembership to shop owner and Shpock survive on advertisement. Shpock is the only among the three where user can set the price of item to free and give them away.
+
+**Storytelling**
+There is a huge difference of storytelling in these websites.
+Etsy tells the story about its brand in first person.
+
+**Design**
+eBay used analogous colour extended from its brand colour. Each categories choose a series of analogous colour to maintain consistency, so does the single pages within the "about us" section. However, the abundency of colour actually makes the pages visually complicated, the user have to jump inbetween colours and try to find the connection between the product and colour.
+
+Sometimes other second-hand brand also use Ebay as their online shop. For example, collect second-hand items and re-sell them on eBay(http://www.ebaystores.co.uk/British-Heart-Foundation-Shop) and use the profit to support charity. Although the main pages does not use story to guide the customers, it does embed some news, blogs and group acitivities to attract participant. Many step by step guides help the user to fetch the information needed easily.
+
+**B2C Platforms: Re-Fashion(re-fashion.co.uk)\*\***
+Re-Fashion is a website that "helps charities that can't open a shop raise money from donated clothes." The business mode of this website is extremely similar to RE:source: it serves both donor and buyer.
 
 ## 3.2 Project Brief
 
@@ -257,7 +289,7 @@ The overall style of RE:source will be simple and graphic, but staying functiona
 
 The UK Chinese student secondhand market might have a brighter future. The number of Chinese international student rank first in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of a circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.<br/>
 
-The target user is divided into two types, donator and buyer. While donator, the Chinese student who tries to get rid of second-hand burdens, the next round of student buyer had not yet arrived. Especially due to the 2020 pandemic, the beginning of the on-site semester postponed and some of the students swtich to online learning. In general, there is a time gap between the two bodies of the student. RE:source link them together and pass down the re-usable items from the seniors to the juniors.<br/><br/>
+The target user is divided into two types, donor and buyer. While donor, the Chinese student who tries to get rid of second-hand burdens, the next round of student buyer had not yet arrived. Especially due to the 2020 pandemic, the beginning of the on-site semester postponed and some of the students swtich to online learning. In general, there is a time gap between the two bodies of the student. RE:source link them together and pass down the re-usable items from the seniors to the juniors.<br/><br/>
 
 ## 3.4 The Offering
 
@@ -267,13 +299,13 @@ As a business-to-consumer(B2C) second-hand e-commerce platform, RE:source will n
 
 In order to deal with the most commonly seen trust and scam issue on second-hand platform, RE:source solve the root of the problem through choosing the path of B2C instead of P2P (Peer to peer) e-commerce. Since RE:source act as the seller who takes care of the quality of used products, the user no longer have to worry about the reliability of the product provider. Furthermore, timely customer service is provided through email.<br/>
 
-As for the storytelling part, the brand story will firstly persuade the donator and buyer to agree with our value. Then the website will try to provide the highly usable functions where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized.<br/><br/>
+As for the storytelling part, the brand story will firstly persuade the donor and buyer to agree with our value. Then the website will try to provide the highly usable functions where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized.<br/><br/>
 
 ## 3.5 Project Value
 
 On one hand, the project helps to save natural resource and prevent unnecessary pollution by selling second-hand goods to those in need. Throwing re-usable items away leads to extra landfill, water pollution and waste on recyclable materials. However, manufacturing products potentially cause more impact on the environment. Apart from the same effects mentioned above, the manufacture also consumes a huge amount of materials, water, energy and produce carbon footprint on delivery. Reusing second-hand items is reducing newly manufactured ones. Thus RE:source brings positive impact to the environment.<br/>
 
-On the other hand, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who can upcycle the second-hand goods through in the future. This movement maximize the value of used items and avoid the manufacture of the products that serve a similar function. Also, the brand deliver sustainable ideas to a larger audience through a workshop which invites the public to participate in the redesign process.<br/><br/>
+On the other hand, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who can upcycle the second-hand goods through in the future. This movement maximizes the value of used items and avoids the manufacture of the products that serve a similar function. Also, the brand delivers sustainable ideas to a larger audience through a workshop which invites the public to participate in the redesign process.<br/><br/>
 
 > Rudenko, A., 2013. How IKEA Norway Has Driven Sales, While Helped Old Furniture To Find New Homes. [online] POPSOP. Available at: <https://popsop.com/2013/10/ikea-norway-helped-old-furniture-buy-new-homes/> [Accessed 21 June 2020].
 
@@ -297,27 +329,27 @@ On the other hand, as for the usage of fundings, apart from supporting the compu
 
 ## 4.1 The Storytelling in RE:source - based on SB7 framework
 
-The implement of RE:source storytelling is based on SB7 framework. The project mainly deal with two kind of users: donator and buyer. Since all the selling products are recycled from donation, the narrative of storyline begins from donator, and then switch to buyer. The presentation of donor story goes to the donation guide page, while our-mission page targets at the painpoints of buyers.<br/>
+The implement of RE:source storytelling is based on SB7 framework. The project mainly deals with two kinds of users: donor and buyer. Since all the selling products are recycled from the donation, the narrative of storyline begins from donor, and then switch to the buyer. The presentation of donor story goes to the donation guide page, while our-mission page targets at the pain points of buyers.<br/>
 
-After analysising the user problems, RE:source adapt the SB7 framework as followed:<br/>
+After analysing the user problems, RE:source adapt the SB7 framework as followed:<br/>
 
 The guide in both user cases acted by the Re: source brand.<br/>
 
-**Hero story 1: Donator**
-Donator refers to that Chinese student who is about to leave the UK in a hurry.<br/>
+**Hero story 1: donor**
+donor refers to that Chinese student who is about to leave the UK in a hurry.<br/>
 
-"Help the environmentalists to donate within 10 minutes. Save your time for something else you enjoy (subtitle)." This slogan pointed out the character of a donator: environmentalist.<br/>
+"Help the environmentalists to donate within 10 minutes. Save your time for something else you enjoy (subtitle)." This slogan pointed out the character of a donor: environmentalist.<br/>
 
-The external problem of donator is to deal with a large amount of second-hand households within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalist or being a careless person who dumps the load in a landfill.<br/>
+The external problem of donor is to deal with a large amount of second-hand households within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalist or being a careless person who dumps the load in a landfill.<br/>
 
-Therefore the story on related page explained the idea "we hate taking bulky items downstairs and dump them as much as you do." The solution provided by RE:source is free donation collecting service. Step-by-step guide and carefully-desigend form process will simplify the donation register process. As a result, there might be a higher possibility the user take part in donation. As for the reward, Miller(2017) stressed offering a status in return. Thus, donator will get an certification with his memership as a RE: source support and all the detailed contribution he made to the environment. A certification brings up the feeling of rewarded and being affirmed. At the end of the story, the sucess should be depicted with an image shows the character leaving UK without burden.<br/><br/>
+Therefore the story on related page explained the idea "we hate taking bulky items downstairs and dump them as much as you do." The solution provided by RE:source is a free donation collecting service. Step-by-step guide and carefully-designed form process will simplify the donation register process. As a result, there might be a higher possibility the user take part in a donation. As for the reward, Miller(2017) stressed offering a status in return. Thus, the donor will get a certification with his membership as a RE: source support and all the detailed contribution he made to the environment. A certification brings up the feeling of rewarded and being affirmed. At the end of the story, the success should be depicted with an image that shows the character leaving the UK without burden.<br/><br/>
 
 **Hero story 2: Buyer**
-In general, the buyer is mainly made up of first year students who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.<br/>
+In general, the buyer is mainly made up of first-year students who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.<br/>
 
-"Best bargain, reliable prodcuts." The slogan pointed out the price and quality advantage of RE:source products.<br/>
+"Best bargain, reliable products." The slogan pointed out the price and quality advantage of RE:source products.<br/>
 
-Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. Through closely cooperate with removal company, the reliability of service is guaranteed. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.<br/>
+Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. Through closely cooperate with the removal company, the reliability of service is guaranteed. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.<br/><br/>
 
 ## 4.2 RE:source User Experience design
 
@@ -325,7 +357,7 @@ Buyer face the external problem of paying a fortune for furniture that cannot be
 
 RE: source is designed to achieve delight and satisfaction. The ideal performance requires to meet Aaron's user needs(2.1.2).<br/>
 
-(1) Functional: RE: source help donators to fill in the form as quick and easy as possible and provides the buyer with the list and filter for second-hand products.<br/>
+(1) Functional: RE: source help donors to fill in the form as quick and easy as possible and provides the buyer with the list and filter for second-hand products.<br/>
 
 (3) Reliable: RE: source responds consistently and is effective in finding the desired stuff and helping user finish the tasks.<br/>
 
@@ -335,18 +367,18 @@ RE: source is designed to achieve delight and satisfaction. The ideal performanc
 
 ### 4.2.2 Usability of RE:source
 
-In order to keep consistency throughout the user experience, RE:source developed a design system that stores all the necessary elements that will be reused multiple times. Applying the design elements metioned in the previous section(2.1.3), RE:source planned to carry out the typography, colour scheme and motion design as follwed:
+In order to keep consistency throughout the user experience, RE:source developed a design system that stores all the necessary elements that will be reused multiple times. Applying the design elements metioned in the previous section(2.1.3), RE:source planned to carry out the typography, colour scheme and motion design as follwed:<br/>
 
 **(1)Colour**
-In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.
+In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.<br/>
 
-Considering accessibility, content are not only distinguished through colour, but also explanation text or various patterns.
+Considering accessibility, content are not only distinguished through colour, but also explanation text or various patterns.<br/><br/>
 
 **(2)Typography**
-Re:source adopted two typefaces: Merriweather and Merriweather Sans as its type scale. These two fonts belongs to the same font family yet distinct from each other. Merriweather is a serif font which is designed to be "pleasant to read on screens"(Google Fonts, 2020). Besides the slight offset of numbers in font produce a cheerful mood. Therefore RE: source use it as a body and price tag typeface. Compared to its relatives, the semi-condensed sans-serif Merriweather Sans has a more modern shapes and feelings. It contains more power when used in larger font. Therefore, the most copy within RE:source website is set to Merriweather Sans. Together, these two fonts form a harmonious combination.
+Re:source adopted two typefaces: Merriweather and Merriweather Sans as its type scale. These two fonts belongs to the same font family yet distinct from each other. Merriweather is a serif font which is designed to be "pleasant to read on screens"(Google Fonts, 2020). Besides the slight offset of numbers in font produce a cheerful mood. Therefore RE: source use it as a body and price tag typeface. Compared to its relatives, the semi-condensed sans-serif Merriweather Sans has a more modern shapes and feelings. It contains more power when used in larger font. Therefore, the most copy within RE:source website is set to Merriweather Sans. Together, these two fonts form a harmonious combination.<br/><br/>
 
 **(3)Motion Design**
-The main motions used in Re:source are the status change of button, the horizontal transformation of paragraph and some animation that connects the storyline. The animations are either triggered on hover, scrolling or mouse movement.
+The main motions used in Re:source are the status change of button, the horizontal transformation of paragraph and some animation that connects the storyline. The animations are either triggered on hover, scrolling or mouse movement.<br/>
 
 In the long page with rich content, like the "Our-Mission" page and "Donation-Guide" page, parallax effect and some easing motion will be used to reduce user fatigue.
 [More content here after development]
@@ -355,7 +387,7 @@ In the long page with rich content, like the "Our-Mission" page and "Donation-Gu
 
 ## 4.3 User Experience Evaluation
 
-In order to find out the the effect of storytelling on the e-commerce brand, the research built a version of website without storytelling and a version with storytelling. The user experience on both versions are tested and analysised with user experience questionnaire (UEQ). UEQ includes 26 items that are grouped into six scales: Attractiveness, perspicuity, efficiency, dependability, stimulation and novelty.(Schrepp et al, 2017) UEQ provide a efficient way to evaluate how suffcient a website is in terms of user experience((Schrepp et al, 2014). <br/><br/>
+In order to find out the effect of storytelling on the e-commerce brand, the research built a version of the website without storytelling and a version with storytelling. The user experience on both versions are tested and analysed with user experience questionnaire (UEQ). UEQ includes 26 items that are grouped into six scales: Attractiveness, perspicuity, efficiency, dependability, stimulation and novelty. (Schrepp et al, 2017) UEQ provide an efficient way to evaluate how sufficient a website is in terms of user experience((Schrepp et al, 2014).<br/><br/>
 
 https://d3i71xaburhd42.cloudfront.net/ca4c350fec54f11862488e85e376c94fea7bf9d1/2-Figure1-1.png
 [Figure: English version of UEQ]
