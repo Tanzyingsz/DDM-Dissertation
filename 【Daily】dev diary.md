@@ -1,5 +1,11 @@
 Overview of everyday progress.
 
+**16 JULY**
+Had writting workshop with Agnese in the morning. Built the laptop version of donation-guidance. Began to build the donation form. Settled the content within lucky dip page.
+
+**15 JULY**
+Feedback seesion with Andrew in the morning. Tried parallax effect in donation-guidance page. Hade some issue with embedded pictures.
+
 **14 JULY**
 Fill in more content to dissertation written work. Tried to build the illustration for the after donation process.
 
