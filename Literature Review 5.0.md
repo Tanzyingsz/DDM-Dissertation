@@ -66,11 +66,11 @@ Science backup the crucial role of storytelling - the human brain is hardwired f
 
 ### 2.1.3 Storytelling In Brand
 
-Storytelling benifts a brand in many ways. To begin with, storytelling remove the barrier of conneting to a brand. In the modern world, the information explosion feeds people with way too much noise (Miller, 2017). Luckily,storytelling is a powerful approach to create music out of noise. A well-choreographed music piece act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to waste extra calories of their overloaded mind and can make a connection with a brand easily. Then storytelling convey the personality of a brand.
+Storytelling benifts a brand in many ways. To begin with, storytelling remove the barrier of conneting to a brand. In the modern world, the information explosion feeds people with way too much noise (Miller, 2017). Luckily,storytelling is a powerful approach to create music out of noise. A well-choreographed music piece act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to waste extra calories of their overloaded mind and can make a connection with a brand easily. Then storytelling convey the personality of a brand.<br/>
 
-Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about the customer makes the customer care more (Miller, 2017). While Bragging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definitely is. The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton (2012), the world-famous film director once said in his TED: "Don't give them (the audience) 4, give them 2+2."
+Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about the customer makes the customer care more (Miller, 2017). While Bragging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definitely is. The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton (2012), the world-famous film director once said in his TED: "Don't give them (the audience) 4, give them 2+2."<br/>
 
-Some framework helps to structure a story that provides the better user experience, the previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010), the Hero’s Journey story framework (Campbell, 2008), story brand 7-Part framework (SB7 framework) (Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. Therefore this project plan to adapt Miller's work into practice. The SB7 framework proposes a 7-plot-points genuine story formula:
+Some framework helps to structure a story that provides the better user experience, the previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010), the Hero’s Journey story framework (Campbell, 2008), story brand 7-Part framework (SB7 framework) (Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. Therefore this project plan to adapt Miller's work into practice. The SB7 framework proposes a 7-plot-points genuine story formula:<br/><br/>
 
 (1) _A character_, specially refers to a hero acted by the customer
 (2) _A problem to solve_. If the character stays in forever peace, the story cannot move on. Therefore a villain usually exists to push forward the plot. In order to find out the villain of the story, two levels of problems, namely external and internal problems are all considered.
@@ -80,7 +80,7 @@ Some framework helps to structure a story that provides the better user experien
 (6) _A vision of tragic ending_ that warns the customer what might happen if they do not follow the lead of this brand.
 (7) _The glorious success_ illustrates the bright future of trusting this brand.
 
-RE:source project largely built the storyline based on SB7 framework, with two user cases considered, the buyer and the donor.
+<br/>RE:source project largely built the storyline based on SB7 framework, with two user cases considered, the buyer and the donor.
 
 > Miller, D., 2017. Building a StoryBrand: Clarify your message so customers will listen. HarperCollins Leadership.
 
@@ -94,13 +94,13 @@ RE:source project largely built the storyline based on SB7 framework, with two u
 
 ### 2.1.4 Design elements in digital storytelling
 
-Apart from the multimedia format, there are two new elements that potentionally benefits the user experience: data and emoji.
+Apart from the multimedia format, there are two new elements that potentially benefits the user experience: data and emoji.
 
 **Data**
 By Combining data and stories together, a brand will be able to touch its audience emotionally. Research has proved that emotionally connected customers are 52% more valuable than its highly satisfied counterparts, on average (Harvard Business Review,2015). The emotionally bond customers are less sensitive to price but more willing to revisit a brand and buy products. Data in the story can help in setting up the environment. For example, in a campaign that persuades people the importance of sustainability, the hard-hitting stats of how severe the environment has been damaged can give the audience an overview of the situation.
 
 **Emoji**
-Emoji or emoticons are the digital images that carry the meaning of a certain emotion or depict an object. By March 2020, 3304 emojis already exists in the Unicode Standard (Emojipedia, 2020). The effect of these tiny images is enormous since 92% netizens reported they have the habits of using emoji in communication(Grabowski, 2016). The reason why emoji went viral is that they express the meaning more than it present. In the word of folklorist Lee-Ellen Marvin (1995) "The paralanguage of the internet, the winks which signal the playfulness of a statement over the seriousness it might denote." Hence digtial storytelling could use emoji to express more complex meaning and carry a familiar sense to customers. Extra bonus is that emoji in e-commerce environment has a positive effect on customers' purchase intention (Das et al, 2019) due to emotional contagion (Lohmann,2017).
+Emoji or emoticons are the digital images that carry the meaning of a certain emotion or depict an object. By March 2020, 3304 emojis already exist in the Unicode Standard (Emojipedia, 2020). The effect of these tiny images is enormous since 92% netizens reported they have the habits of using emoji in communication(Grabowski, 2016). The reason why emoji went viral is that they express the meaning more than it present. In the word of folklorist Lee-Ellen Marvin (1995) "The paralanguage of the internet, the winks which signal the playfulness of a statement over the seriousness it might denote." Hence digital storytelling could use emoji to express more complex meaning and carry a familiar sense to customers. An extra bonus is that emoji in e-commerce environment has a positive effect on customers' purchase intention (Das et al, 2019) due to emotional contagion (Lohmann,2017).
 
 > National Storytelling Network. (2020). What Is Storytelling? [online] Available at: https://storynet.org/what-is-storytelling/ [Accessed 22 Jun. 2020].
 
@@ -124,7 +124,7 @@ Emoji or emoticons are the digital images that carry the meaning of a certain em
 
 【storytelling case study】
 
-Serveral online storytelling website inspire the design and development of RE:source.
+Several online storytelling websites inspire the design and development of RE:source.
 
 ## 2.2 User Experience
 
@@ -175,23 +175,23 @@ Moreover, considering the different interpretation of font size on a different s
 
 **Color**
 
-Overall, colour contributes to the user interface in three dimensions: pass information through visual hierarchy, arouse emotional responses from users and shape the brand image.
+Overall, colour contributes to the user interface in three dimensions: pass information through the visual hierarchy, arouse emotional responses from users and shape the brand image.<br/>
 
-Firstly, as the basic component of the physical world, colour provides humankind with an incredible amount of information. Studies shows that when interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). To communicate the information clearly, one can use colour to build an visual hierarchy. Visual hierarchy can show help the user to understand website structure eaiser and guide user attention. Once user get to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy development is not aesthetic but functional. Salience, the description of how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally perform more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.
+Firstly, as the basic component of the physical world, colour provides humankind with an incredible amount of information. Studies show that when interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). To communicate the information clearly, one can use colour to build a visual hierarchy. Visual hierarchy can show help the user to understand website structure easier and guide user attention. Once the user gets to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy development is not aesthetic but functional. Salience, the description of how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of a different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally performs more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.<br/>
 
 https://www.alterspark.com/wp-content/uploads/visual-salience.png
 (Figure: Visual salience of colors)
 
-Secondly, many studies have proved that colour has an effect on emotions states(Singh,2016; Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim & Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public.
+Secondly, many studies have proved that colour has an effect on emotions states(Singh,2016; Kumar, 2017), both positive and negative. If the website is full of eye glaring colours, or colour without enough contrast, the user might generate feelings of irritation(Lim & Ting, 2012). Vice versa, a harmonious colour scheme that fits genetic psychology will please the public.<br/>
 
 ttps://www.alterspark.com/wp-content/uploads/emotion-hue-wavelength.png
 (Figure: Hue in wavelength)
 
-The visual colour map indicate that pleasue and control emotions peek in the blue zone. Blue is also said to be associated with key word safety and comfort.(Brian, 2019)
+The visual colour map indicates that pleasure and control emotions peek in the blue zone. Blue is also said to be associated with keyword safety and comfort. (Brian, 2019)<br/>
 
-Thirdly, colour helps to communicate brand image since it represents the personality of a brand(Kumar, 2017).For instances, when people see a rectangle yellow border, they will immediately recognize it as the "frame" sign for National Geographic. Therefore, carefully pick the colour and make it fits the genre of the brand is necessary.As Seo (2010) pointed out, the colour green in a sustainable brand gets more positive responsive on environmental messages, RE:source used green as the brand logo colour.
+Thirdly, colour helps to communicate brand image since it represents the personality of a brand(Kumar, 2017). For instances, when people see a rectangle yellow border, they will immediately recognize it as the "frame" sign for National Geographic. Therefore, carefully pick the colour and make it fits the genre of the brand is necessary. As Seo (2010) pointed out, the colour green in a sustainable brand gets a more positive response to environmental messages, RE:source used green as the brand logo colour.<br/>
 
-However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.
+However, It is worth mentioning that the effects of colour have an individual difference. Accordingly, website design has to take accessibility into consideration for the user with colour deficiency or other visual impairment (Lányi, 2017). One of the most efficient solutions is to avoid colour-only information. Use other elements like word description or pattern to enforce the message as well.<br/>
 
 > Singh, S.,2006,"Impact of color on marketing", Management Decision, Vol. 44 No. 6, pp. 783-789.
 
@@ -207,19 +207,17 @@ However, It is worth mentioning that the effects of colour have an individual di
 
 > Lányi, C.S., 2017. Choosing effective colours for websites. In Colour Design (pp. 619-640). Woodhead Publishing.
 
-<br/>
-
 **Motion Design**
 
 A cohesive motion system can improve the user experience by reflecting the brand personality and providing clearer feedbacks(Goyeneche, 2020).<br/>
 
-The animation in motion design can express the tone and voice of a brand. For example, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm. However, the designer should be really careful when it comes to a larger project - animations should be consistent throughout the user experience. For instances, if hover on the buttons with same function triggers various animation, user will confuse about the meaning of these movement - are they just a fancy decoration or actually points to different status? According to the "12 Principles of Animation" (Thomas et al., 1995), the volumn, staging and lighting and the transition from frame to frame should all considered in a well-developed motion system.<br/>
+The animation in motion design can express the tone and voice of a brand. For example, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm. However, the designer should be really careful when it comes to a larger project - animations should be consistent throughout the user experience. For instances, if hover on the buttons with the same function triggers various animation, the user will confuse about the meaning of this movement - are they just a fancy decoration or actually points to different status? According to the "12 Principles of Animation" (Thomas et al., 1995), the volume, staging and lighting and the transition from frame to frame should all considered in a well-developed motion system.<br/>
 
-In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to static image, a sequence of animation increase the content capacity and reduce the effort to understand information. Here, the Apple Card informs users the charges range through the circular animation. The animation expresses the process more Intuitively than a long paragraph. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.<br/>
+In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to a static image, a sequence of animation increase the content capacity and reduce the effort to understand information. Here, the Apple Card informs users the charges range through the circular animation. The animation expresses the process more Intuitively than a long paragraph. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.<br/>
 
 <br/>[Figure: Video Screenshot from Apple Card App]
 
-In practical work, parallax scrolling is a commonly used engaging techique that creates an illusion of depth in website pages. It attracts users to read more content. Research proved that parallax scrolling have positive impact on user experience through increasing the usability(Frederick et al,2015) and interactivity(Wang and Sundar, 2018). The downside of this strategy might be the increase loading time. To solve the problem, RE:souce will balance the amount of parallax effect and other required resources.
+In practical work, parallax scrolling is a commonly used engaging technique that creates an illusion of depth in website pages. It attracts users to read more content. Research proved that parallax scrolling has a positive impact on the user experience through increasing the usability(Frederick et al,2015) and interactivity(Wang and Sundar, 2018). The downside of this strategy might be the increase in loading time. To solve the problem, RE:souce will balance the amount of parallax effect and other required resources.
 
 Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas. Just like salt: overuse them will ruin the flavour; leave them out will leave recipe tastes bland.<br/>
 
@@ -245,7 +243,7 @@ There are several reasons why Chinese secondhand market is limited.<br/>
 
 The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remains unknown. For example, a car could be resold because it had gone through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. From a cognitive aspect, most charity shops are run by the government who seldom promote these charity services. The shortage of systematic marketing plan also causes trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products is close to the market price, which is hardly attractive to the public. The most bizarre situation is that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. From an infrastructure perspective, the broken service chain has to take responsibility for the recycling dilemma. Recently there are more recycle box installed within the community. However, when the box is filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.<br/>
 
-As for the online second-hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the questionable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible to the images shown online (CBNData, 2019). <br/>
+As for the online second-hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the questionable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible with the images shown online (CBNData, 2019). <br/>
 
 In conclusion, a higher quality of product and the avoidance of scammer leads to a better online second-hand shopping experience.<br/><br/>
 
@@ -255,27 +253,29 @@ The segment of online shopping, in particular, online second-hand shopping had b
 
 ## 3.1 Second-hand Brand Case Studies
 
-The case studies divide the target brand into two types: C2C(Consumor to Consumor) and B2C(Business to Consumor). While RE:source belongs to the latter category, it is crucial to learn from other competitors.
+The case studies divide the target brand into two types: C2C(Consumer To Consumer) and B2C(Business To Consumer). While RE:source belongs to the latter category, it is crucial to learn from other competitors.
 
-**C2C Platofrms: eBay, Etsy, Shpock**
-The shopping experience on these three websites are equally straight foward. They all have a large variety in items, detailed categories and filter. Ebay and Etsy provide customized feed.
+**C2C Platforms: eBay, Etsy, Shpock**
+The shopping experience on these three websites is equally straight forward. They all have a large variety in items, detailed categories and filter. eBay and Etsy provide customized feed.
 
-**Business Mode**
-The selling-point of these three platforms are different. While eBay facing the global market, Etsy promotes hand-made and vintage products and Shpock focus on the items in the surrounding areas. An interesting fact is that eBay is such a influencial market that other second-hand brand like Musicmagpie and British Heart Foundation even open their shop on eBay.
+**(1)Business Mode**
+The selling point of these three platforms is different. While eBay facing the global market, Etsy promotes hand-made and vintage products and Shpock focus on the items in the surrounding areas. An interesting fact is that eBay is such an influential market that other second-hand brand like Musicmagpie and British Heart Foundation even open their shop on eBay.
 
-These three websites has their own approach to making money. eBay and Etsy charge seller fee, provide memembership to shop owner and Shpock survive on advertisement. Shpock is the only among the three where user can set the price of item to free and give them away.
+These three websites have their own approach to making money. eBay and Etsy charge seller fee, provide membership to shop owner and Shpock survive on the advertisement. Shpock is the only among the three where user can set the price of the item to free and give them away.
 
-**Storytelling**
-There is a huge difference of storytelling in these websites.
-Etsy tells the story about its brand in first person.
+**(2)Storytelling**
+There is a huge difference in storytelling on these websites.
+eBay pointed out its success and present its story in a formal way. The "stories" in its "about us" page mainly talk about report and business. All are expressed in a formal way.
 
-**Design**
-eBay used analogous colour extended from its brand colour. Each categories choose a series of analogous colour to maintain consistency, so does the single pages within the "about us" section. However, the abundency of colour actually makes the pages visually complicated, the user have to jump inbetween colours and try to find the connection between the product and colour.
+Etsy tells the story about its brand in a more intimate tone like an old friend. The animated illustration brings more characteristic to the brand.
 
-Sometimes other second-hand brand also use Ebay as their online shop. For example, collect second-hand items and re-sell them on eBay(http://www.ebaystores.co.uk/British-Heart-Foundation-Shop) and use the profit to support charity. Although the main pages does not use story to guide the customers, it does embed some news, blogs and group acitivities to attract participant. Many step by step guides help the user to fetch the information needed easily.
+**(3)Design**
+eBay used analogous colour extended from its brand colour. Each category chooses a series of analogous colour to maintain consistency, so does the single pages within the "about us" section. However, the abundance of colour actually makes the pages visually complicated since the user has to jump in between colours and try to find the connection between the product and colour. By adding colour to product image with a transparent background, save the consistency back slightly. The
 
-**B2C Platforms: Re-Fashion(re-fashion.co.uk)\*\***
-Re-Fashion is a website that "helps charities that can't open a shop raise money from donated clothes." The business mode of this website is extremely similar to RE:source: it serves both donor and buyer.
+**B2C Platform: Re-Fashion(re-fashion.co.uk)**
+Re-Fashion is a website that "helps charities that can't open a shop to raise money from donated clothes." The business model of this website is extremely similar to RE:source: it serves both donor and buyer. The profit it gains goes to the charity chosen by the user.
+
+The website is cleanly designed with one single brand colour, stylish font and clear visual hierarchy. Its style blog tells the story of their cooperation
 
 ## 3.2 Project Brief
 
