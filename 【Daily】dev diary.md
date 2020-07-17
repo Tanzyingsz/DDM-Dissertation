@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**17 JULY**
+Day off.
+
 **16 JULY**
 Had writting workshop with Agnese in the morning. Built the laptop version of donation-guidance. Began to build the donation form. Settled the content within lucky dip page.
 
