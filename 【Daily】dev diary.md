@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**18 JULY**
+Landing page 2.0, optimized our-mission page. Produce copy for lucky dips.
+
 **17 JULY**
 Day off.
 
