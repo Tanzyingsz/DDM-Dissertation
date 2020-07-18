@@ -1,3 +1,21 @@
+# Lucky Dip
+
+二手市场价 原价 现价
+
+[wellness kit]
+£53 £24.99 £19.99(20% off) 节约
+For £19.99 you will receive at least £50 worth of most commonly used wellness items.Your lucky dip could contain some unseen products, like mystery stationary and handtool tools.
+
+[gym rat]
+£42 £24.99 £19.99(20% off)
+
+- Images shown for example only. You'll get fun things wrapped individually,
+
+Heads up! Everyone has a chance of getting one or more items whose own value is might beyond the total price of all items included in one bag! The mega item is highlighted in each luackdip page.
+
+Notes:
+When you purchase more than lucky dip, for the 4 items we will try our best to make sure you don't get the same item twice
+
 ## Ins Mockup
 
 Re-Touch
