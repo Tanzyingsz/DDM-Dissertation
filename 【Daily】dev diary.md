@@ -1,4 +1,6 @@
 Overview of everyday progress.
+**20 JULY**
+Getting feedback on prototype. Lucky dip product page established. Dealing with flexbox layout and gird layout.
 
 **19 JULY**
 First 2 lucky dip illustration, collecting feedback on font and our-mission page. Learned how to make checkbox work in webflow.
