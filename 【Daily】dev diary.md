@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**19 JULY**
+First 2 lucky dip illustration, collecting feedback on font and our-mission page. Learned how to make checkbox work in webflow.
+
 **18 JULY**
 Landing page 2.0, optimized our-mission page. Produce copy for lucky dips.
 
