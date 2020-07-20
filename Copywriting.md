@@ -4,9 +4,9 @@
 
 **[wellness kit]**
 £53 £24.99 £19.99(60% off) 节约
-Buy the limited edition Wellness Kit today and enjoy a easy start in new country whilst not letting great items go to waste.For £19.99 you will receive at least £50 RRP value of MOST COMMONLY USED wellness items(20% off!). Who doesn't like a little flutter on what might turn out to be a winner?
+Buy the limited edition Wellness Kit today and enjoy an easy start in the new country whilst not letting great items go to waste. For £19.99 you will receive at least £50 RRP value of MOST COMMONLY USED wellness items(20% off!). Who doesn't like a little flutter on what might turn out to be a winner?
 
-Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag you will get 4 out of 7 listed items.
+Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag, you will get 4 out of 7 listed items.
 
 **[gym rat kit]**
 £42 £24.99 £19.99(20% off)
