@@ -2,19 +2,78 @@
 
 二手市场价 原价 现价
 
-[wellness kit]
-£53 £24.99 £19.99(20% off) 节约
-For £19.99 you will receive at least £50 worth of most commonly used wellness items.Your lucky dip could contain some unseen products, like mystery stationary and handtool tools.
+**[wellness kit]**
+£53 £24.99 £19.99(60% off) 节约
+Buy the limited edition Wellness Kit today and enjoy a easy start in new country whilst not letting great items go to waste.For £19.99 you will receive at least £50 RRP value of MOST COMMONLY USED wellness items(20% off!). Who doesn't like a little flutter on what might turn out to be a winner?
 
-[gym rat]
+Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag you will get 4 out of 7 listed items.
+
+**[gym rat kit]**
 £42 £24.99 £19.99(20% off)
+Buy the limited edition Gym Rat Kit today and ready to start a health rountine whilst not letting great items go to waste. For £19.99 you will receive at least £40 RRP value of gym-related items that every gym rat cannot resist(50% off!).
 
-- Images shown for example only. You'll get fun things wrapped individually,
+Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag you will get 4 out of 7 listed items.
 
-Heads up! Everyone has a chance of getting one or more items whose own value is might beyond the total price of all items included in one bag! The mega item is highlighted in each luackdip page.
+滤水壶（3）
+烧水壶（3）
+瑜伽垫（2）
+榨汁机（3）
+弹力带（10）
+大落地镜（1）
+
+---
+
+[looking fantastic]
+£90 £36 £19.99(45% off)
+
+---
+
+- Images shown for example only. You'll get fun things wrapped individually.
+- Surprise! Your lucky dip could contain some unseen products, like mystery stationary and handy tools.
+- Heads up! Everyone has a chance of getting one or more items whose own value is might beyond the total price of all items included in one bag! The mega item is highlighted in each luackdip page.
+- We're using the proceeds of Lucky Dips to support second-hand items re-design and workshop to public that aims to pass the idea of sustainbility.
 
 Notes:
-When you purchase more than lucky dip, for the 4 items we will try our best to make sure you don't get the same item twice
+
+- When you purchase more than one lucky dip, for the 4 items we will try our best to make sure you don't get the same item twice
+- Feel free to comment on checkout the things you desire most and we can try to find the one that suits. But we can't make any promises because it's a luckydip afterall but we'll do our best to make you happy :)
+- Contents of lucky dips are not available for refund or exchange unless deemed faulty.
+
+DELIVERY INFO
+**please see our COVID-19 shipping page for up to date delivery information**
+
+Delivery options and costs will be calculated at checkout by entering your delivery destination. We offer the following delivery options:
+
+FREE UK DELIVERY
+approx 7-10 working days
+
+UK PRIORITY - £3.50
+3-5 days, signature required
+
+UK EXPRESS - £5.50 1-3 days, signature required
+
+INTERNATIONAL STANDARD from £5.50
+approx. 10-14 working days after dispatch, no tracking
+
+INTERNATIONAL FAST TRACK from £10.50
+from 5 working days after dispatch, tracking provided
+
+---
+
+UK Standard Delivery
+
+UK free standard delivery is made via Royal Mail 2nd class, and takes 1-3 working days after dispatch. Dispatch usually takes 3 - 5 days. This does not include tracking.
+If your order has not reached you after 8 working days of placement, please get in touch via the contact form and we'll look into it further.
+
+UK Priority
+
+UK Priority delivery is skipped to the front of our order queue, and delivered via Royal Mail 2nd class signed for. A signature will be required on delivery.
+
+If your order has not reached you after 5 days, please get in touch via the contact form below.
+
+UK Express
+
+All orders placed via fast track delivery are pushed to the front of our order queue, and sent via Royal Mail Special Delivery so you are guaranteed to receive them the next working day after dispatch. Place your order by 10am for dispatch that same day. A tracking number will be emailed to you on dispatch.
 
 ## Ins Mockup
 
