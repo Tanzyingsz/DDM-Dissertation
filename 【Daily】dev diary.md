@@ -1,6 +1,9 @@
 Overview of everyday progress.
+**21 JULY**
+Hack the plus and minus button in Webflow form. Try out new logos.
+
 **20 JULY**
-Getting feedback on prototype. Lucky dip product page established. Dealing with flexbox layout and gird layout.
+Individual session with Agnese in the morning. Getting feedback on prototype at night. Lucky dip product page established. Dealing with flexbox layout and gird layout.
 
 **19 JULY**
 First 2 lucky dip illustration, collecting feedback on font and our-mission page. Learned how to make checkbox work in webflow.
