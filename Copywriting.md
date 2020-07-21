@@ -23,8 +23,70 @@ Pre-loved items with scratches or slightly damaged are featured within the dip, 
 
 ---
 
-[looking fantastic]
+[Beauty package]
 £90 £36 £19.99(45% off)
+电子秤（2）
+化妆镜（3）
+化妆品收纳盒（10）
+吹风机（3）
+直板夹（3）
+包包（5）
+
+- Digital Bathroom scale
+-
+
+[Homebody's favourite]]
+烧水壶（2）
+吹风机（2）
+
+## 电饭煲（2）
+
+台灯（3）
+大收纳盒 （6）
+锅铲（7）
+炒锅（3）
+蒸煮锅（3）
+
+Lamp
+
+Spatulas & Spoons
+
+- Hair dryer
+
+[Chic packet]
+
+晾衣架（7）
+配饰（5）
+脏衣篓（5）
+
+dressing mirror
+storage box
+fashionable bag
+Steam Iron
+Umberalla
+Duty Cloth rail
+
+[Lifestyle essentials]
+cuddly blanket
+hair straightener
+rice cooker
+lamp
+power strip
+storage box
+umbrella
+nightlight
+
+[literati's choice]
+
+# printer
+
+hardback book
+sketchbook
+bestseller
+art supplies
+stapler
+A4 paper
+calculator
 
 ---
 
