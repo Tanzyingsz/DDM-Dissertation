@@ -1,6 +1,9 @@
 Overview of everyday progress.
+**22 JULY**
+Finish the illustrations for lucky dip. Responsive landing page.
+
 **21 JULY**
-Hack the plus and minus button in Webflow form. Try out new logos.
+Hack the plus and minus button in Webflow form. Try out new logos. Translate the lucky dip packages.
 
 **20 JULY**
 Individual session with Agnese in the morning. Getting feedback on prototype at night. Lucky dip product page established. Dealing with flexbox layout and gird layout.
