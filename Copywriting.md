@@ -2,84 +2,72 @@
 
 二手市场价 原价 现价
 
-**[wellness kit]**
+**1[wellness kit]**
 £53 £24.99 £19.99(60% off) 节约
 Buy the limited edition Wellness Kit today and enjoy an easy start in the new country whilst not letting great items go to waste. For £19.99 you will receive at least £50 RRP value of MOST COMMONLY USED wellness items(20% off!). Who doesn't like a little flutter on what might turn out to be a winner?
 
 Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag, you will get 4 out of 7 listed items.
 
-**[gym rat kit]**
+**2[gym rat kit]**
 £42 £24.99 £19.99(20% off)
 Buy the limited edition Gym Rat Kit today and ready to start a health rountine whilst not letting great items go to waste. For £19.99 you will receive at least £40 RRP value of gym-related items that every gym rat cannot resist(50% off!).
 
 Pre-loved items with scratches or slightly damaged are featured within the dip, but they have all been cleaned, packed and in good condition! In each bag you will get 4 out of 7 listed items.
 
-滤水壶（3）
-烧水壶（3）
-瑜伽垫（2）
-榨汁机（3）
-弹力带（10）
-大落地镜（1）
+- Juicer
+- Yoga Mat
+
+* Electric Kettle
+* Resistance Band
+* Water Filter Jug
+* Full-length Mirror
 
 ---
 
-[Beauty package]
+3 [Beauty set]
 £90 £36 £19.99(45% off)
-电子秤（2）
-化妆镜（3）
-化妆品收纳盒（10）
-吹风机（3）
-直板夹（3）
-包包（5）
 
-- Digital Bathroom scale
--
-
-[Homebody's favourite]]
-烧水壶（2）
-吹风机（2）
-
-## 电饭煲（2）
-
-台灯（3）
-大收纳盒 （6）
-锅铲（7）
-炒锅（3）
-蒸煮锅（3）
-
-Lamp
-
-Spatulas & Spoons
-
+- Digital Bathroom Scale
+- Makeup Mirror
+- Makeup Organizer
 - Hair dryer
+- Hair Straightener
+- Handbag
 
-[Chic packet]
+4[Homebody's favourite]
 
-晾衣架（7）
-配饰（5）
-脏衣篓（5）
+- Lamp
+- Hairdryer
+- Rice Cooker
+- Food Steamer
+- Spatulas & Spoons
+- Frying Pan
+- Storage Box
+- Electric Kettle
 
-dressing mirror
-storage box
-fashionable bag
+5[Chic packet]
+Full-length Mirror
+Storage box
+Handbag
 Steam Iron
 Umberalla
 Duty Cloth rail
+Fashion Accessory
+Laundry Basket
 
-[Lifestyle essentials]
-cuddly blanket
-hair straightener
-rice cooker
-lamp
-power strip
-storage box
-umbrella
-nightlight
+6[Lifestyle essentials]
 
-[literati's choice]
+- cuddly blanket
+- Hair Straightener
+  rice cooker
+  lamp
+  power strip
+  storage box
+  umbrella
+  nightlight
 
-# printer
-
+7[literati's choice]
+printer
 hardback book
 sketchbook
 bestseller
