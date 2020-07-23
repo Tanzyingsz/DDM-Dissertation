@@ -1,4 +1,8 @@
 Overview of everyday progress.
+
+**23 JULY**
+Donation form page finish. Function to be added.
+
 **22 JULY**
 Finish the illustrations for lucky dip. Responsive landing page.
 
