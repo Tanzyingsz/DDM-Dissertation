@@ -71,3 +71,16 @@ RewriteRule ^/(.\*) https://www.epiclightsource.com/$1 [R,L]
 sudo /opt/bitnami/ctlscript.sh restart apache
 
 当前状态：还原 rewrite，还原.php
+
+## 数据
+
+https://businessadvice.co.uk/business-development/sales-marketing/uk-consumers-stockpiling-17-7-billion-unwanted-goods/
+
+42% of people in the UK sold unwanted or unused items in the last year, making an average of £378 each.
+
+UK are increasingly seeking out second-hand products – spending an average of £1,298 on used items in the past year, equating to £57.4bn nationwide.
+
+//废弃数据
+The secondhand market in China is at its nascent but growing dramatically. <br/>Statistics shows the Chinese recommerce market had reached \$71.1 billion in 2017, made up around 0.6% of the total GDP in 2017 and is predicted to double by 2020(Wang, 2019).However, compared to the large secondhand market in the UK, the Chinese market still have loads of room for improvement. In 2019, the sales in the UK second-hand charity shops alone had already reached 732 million British pounds, which is over 900 million dollars.
+
+Meanwhile, the second-hand economy in Great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018).<br/>
