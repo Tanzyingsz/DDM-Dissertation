@@ -20,9 +20,9 @@ This project explore the realtionship between digital storytelling and user expe
 
 ### 2.1.1 What is Digital Storytelling?
 
-The concept of digital storytelling first came up in the 1990s when the Center for Digital Storytelling began to held workshop that engage the audience who are willing to share their story.(StoryCenter, 2020) Later on, as the internet developed, many had tried to define digital storytelling. Nevertheless, they all end up consider digitral storytelling as a way to explain traditional storytelling through a mutlimedia way. Therefore, to understand digital storytelling, one should first figure out what storytelling is.
+The concept of digital storytelling first came up in the 1990s when the Center for Digital Storytelling began to held workshop that engage the audience who are willing to share their story.(StoryCenter, 2020) Later on, as the internet developed, many had tried to define digital storytelling. Nevertheless, they all end up consider digitral storytelling as a way to explain traditional storytelling through a mutlimedia way. Therefore, to understand digital storytelling, one should first define what storytelling is.
 
-A story contains a series of information that makes up narrative. In history, various defination are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desier of searching for emotions(Fournier, 1998). Another commonly seen story structure generally works like this: a character encounters some problem before he can reach his goal. At the moment of despair, a guide appears with a thorough plan, encourage him to take action, and finally help him get through multiple failures and achieved success(Miller, 2017) The latter further develop into a storytelling system called the SB7 (story brand 7-Part) framework(Miller, 2017).
+A story contains a series of information that makes up narrative. In history, various defination are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desier of searching for emotions(Fournier, 1998). Another commonly seen story structure generally works like this: a character encounters some problem before they can reach his goal. At the moment of despair, a guide appears with a thorough plan, encourage him to take action, and finally help him get through multiple failures and achieved success(Miller, 2017) The latter further develop into a storytelling system called the story brand 7-Part framework (SB7 framework)(Miller, 2017).
 
 Digital storytelling covers a wider range of technique and format. The multimedia in digital storytelling includes but not limited to text, video, audio and sound effect etc. In practical environemnt, ground-breaking works like interactive TV series, virtual reality, immersive game and web-based narratives greatly expand the border of digital storytelling form.
 
@@ -44,7 +44,7 @@ The greatest difference between classic storytelling and digital storytelling li
 
 The voice of the public support the importance of storytelling. In a 2017 report, storytelling was rated the most effective marketing tactics among 62% of B2B marketers. The number of B2C storytelling supporter was even higher (The Science of Storytelling (Infographic), 2017). It is said that people are 22 times more likely to memorize a fact when they are presented in the form of a story (Ochs and Capps, 2009). <br/>
 
-Science backup the crucial role of storytelling - the human brain is hardwired for stories. Zak's research (2013) discovered story will increase the release of neurochemical oxytocin, the so-called "love hormone" and dopamine which contribute a long-lasting and more accurate memory. Besides, human tend to mirror their experience to the speaker's. Hence, after listenting to the story, the customer will perform a higher level of empathy and connection to a brand.
+Science backup the crucial role of storytelling - the human brain is hardwired for stories. Neuroeconomist Zak discovered story will increase the release of neurochemical oxytocin, the so-called "love hormone" and dopamine which contribute a long-lasting and more accurate memory(Zak, 2013). Besides, human tend to mirror their experience to the speaker's. Hence, after listenting to the story, the customer will perform a higher level of empathy and connection to a brand.
 
 **Digital Storytelling and Mental Simulation**
 
@@ -66,10 +66,11 @@ Science backup the crucial role of storytelling - the human brain is hardwired f
 
 ### 2.1.3 Storytelling In Brand
 
-Storytelling benifts a brand in many ways. To begin with, storytelling remove the barrier of conneting to a brand. In the modern world, the information explosion feeds people with way too much noise (Miller, 2017). Luckily,storytelling is a powerful approach to create music out of noise. A well-choreographed music piece act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to waste extra calories of their overloaded mind and can make a connection with a brand easily. Then storytelling convey the personality of a brand.<br/>
+Storytelling benefits a brand in many ways. To begin with, storytelling remove the barrier of connecting to a brand. In the modern world, the information explosion feeds people with way too much noise (Miller, 2017). Luckily, storytelling is a powerful approach to create music out of noise, since it emphasize the main ideas and weaken irrelevant information. Well-choreographed story act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to overload their mental capacity and can make a connection with a brand easily. Then storytelling convey the personality of a brand.<br/>
 
 Not any random story will work as a persuasive brand story. Instead of talking merely about the brand itself, tell the story about the customer makes the customer care more (Miller, 2017). While Bragging about the quality of product or service is not the goal of a brand story, Establishing a stronger relationship between the brand and customer definitely is. The trick in storytelling is instead of showing the whole picture at the beginning, let the reader figure out the story on their own. As Andrew Stanton (2012), the world-famous film director once said in his TED: "Don't give them (the audience) 4, give them 2+2."<br/>
 
+【为什么最终选了 SB7】
 Some framework helps to structure a story that provides the better user experience, the previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010), the Hero’s Journey story framework (Campbell, 2008), story brand 7-Part framework (SB7 framework) (Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. Therefore this project plan to adapt Miller's work into practice. The SB7 framework proposes a 7-plot-points genuine story formula:<br/><br/>
 
 (1) _A character_, specially refers to a hero acted by the customer
@@ -128,25 +129,25 @@ Several online storytelling websites inspire the design and development of RE:so
 
 ## 2.2 User Experience
 
-### 2.1.1 User Experience Design
+### 2.2.1 User Experience Design
 
 【user experience design】
 The core of user experience is the user need. The second important criteria are the product or service has to bring joy and delight to the user (Norman and Nielsen, 2020).
 
-Under the heading of user experience design, the main goal of a system is to improve its usefulness. (Norman and Nielsen, 2020). Usefulness is made up of two parts: usability, how easy it is to interact with the user interface, and utility, whether the system is functional enough with all the feature user need. The two sides supplement each other. A wonderful user interface with none of the needed function will be abandoned while a functional website with a poor interface that confuses user will disappoint its users.
+Under the heading of user experience design, the main goal of a system is to improve its usefulness. (Norman and Nielsen, 2020). Usefulness is made up of two parts: usability, how easy it is to interact with the user interface, and utility, whether the system is functional enough with all the feature user need. The two sides supplement each other. A well-designed user interface with none of the needed function will be abandoned while a functional website with a limited interface that confuses user will disappoint its users.
 
 > Norman, D. and Nielsen, J. (2020). The Definition of User Experience (UX). [online] Nielsen Norman Group. Available at: https://www.nngroup.com/articles/definition-user-experience/ [Accessed 23 Jun. 2020].
 
 <br/>
 
-### 2.1.2 Aarron Walter's Hierarchy of User Needs
+### 2.2.2 Aarron Walter's Hierarchy of User Needs
 
 Based on the Abraham Maslow's theory (Maslow and Lewis, 1987) which indicates a unidirectional linear relationship between the basic human needs and a higher level of motivation, Aarron Walter proposed a mirror hierarchy of user needs focus in the area of the interface. In this version of user needs pyramid, after the fulfilment of fundamental needs including functionality, reliability and usability comes the most superior needs, pleasure.
 
 https://media.nngroup.com/media/editor/2017/02/07/aarron-walter-user-needs.png
 [Figure: Aarron Walter’s Hierarchy of User Needs]
 
-In other words, for the basic level, no matter how aesthetically perfect an application is, it will not be appreciated by users because of its lack in function. The reason why functionality matters is that, according to negativity bias, the user affected by the bad more than the good. (Ito et al, 1998) That is to say, a single function flaw will ruin the impression formed by many positive features. On the next level, if a fully functional interface acts unreliable, for example, breaking down all the time or does not provide trustworthy safety protection, it can hardly satisfy the target user. Moving upwards, an interface have to be easy to understand and navigate to be usable. Finally, the delightful interface features can be pursued. Specifically, animations, proper interactivity, well-presented microcontent like short and powerful titles, summaries, hints and tips that embed the characteristics of a brand(Loranger and Nielsen,2017), all contribute to delight.
+In other words, for the basic level, no matter how aesthetically perfect an application is, it will not be appreciated by users because of its lack in function. The reason why functionality matters is that, when it comes to evaluating an experience, the users are more sensitive to negative information than positive ones (Ito et al, 1998). That is to say, a single function flaw will ruin the impression formed by many positive features. On the next level, if a fully functional interface acts unreliable, for example, breaking down all the time or does not provide trustworthy safety protection, it can hardly satisfy the target user. Moving upwards, an interface have to be easy to understand and navigate to be usable. Finally, the delightful interface features can be pursued. Specifically, animations, proper interactivity, well-presented microcontent like short and powerful titles, summaries, hints and tips that embed the characteristics of a brand(Loranger and Nielsen,2017), all contribute to delight.
 
 > Maslow, A. and Lewis, K.J., 1987. Maslow's hierarchy of needs. Salenger Incorporated, 14, p.987.
 
@@ -160,9 +161,9 @@ In other words, for the basic level, no matter how aesthetically perfect an appl
 
 <br/>
 
-### 2.1.3 User Interface and Usability
+### 2.2.3 User Interface and Usability
 
-When it comes to the UI design of a website, some certain elements are crucial to adapt within pages, namely typography, colour and motion design. They all brings a certain level of effect to usability, both positive and negative. Hence this chapter discuss the theory and practical advice on how to use these elements properly.
+When it comes to the UI design of a website, some certain elements are crucial to adapt within pages, namely typography, colour and motion design. They all brings a certain level of effect to usability, both positive and negative. Hence this chapter discuss the theory and practical advice on how to use these elements to ensure a good user experience.
 
 **Typography**
 Typography act as a core building block for a brand. After all, whenever a brand tries to convey a message or interface with customers through textual form, they have to rely on the support of typographic design. A proper text treatment will measurably affect user productivity and increase satisfaction in user experience.
@@ -177,7 +178,7 @@ Moreover, considering the different interpretation of font size on a different s
 
 Overall, colour contributes to the user interface in three dimensions: pass information through the visual hierarchy, arouse emotional responses from users and shape the brand image.<br/>
 
-Firstly, as the basic component of the physical world, colour provides humankind with an incredible amount of information. Studies show that when interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). To communicate the information clearly, one can use colour to build a visual hierarchy. Visual hierarchy can show help the user to understand website structure easier and guide user attention. Once the user gets to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy development is not aesthetic but functional. Salience, the description of how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of a different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally performs more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.<br/>
+Firstly, as the basic component of the physical world, colour provides an incredible amount of information. Studies show that when interacting with a brand, people carry out approximately 62‐90 per cent of their snap assessment based on colours alone(Singh,2016). To communicate the information clearly, one can use colour to build a visual hierarchy. Visual hierarchy can help the user to understand website structure easier and guide user attention. Once the user gets to focus the main message sent by a brand, they are one step closer to build a short-term memory on the experience, then end up in a higher comprehension towards the brand. The core of visual hierarchy development is not aesthetic but functional. Salience, the description of how noticeable something is, act as a key in visual hierarchy(Brian, 2019). By experimenting with saturation, shade and tint of a different hue, the priority of elements can be adjusted accordingly. Nevertheless, some colour naturally performs more salient than their counterparts(Camgöz, 2000). According to the following figure, blue-green undoubtedly dominates others.<br/>
 
 https://www.alterspark.com/wp-content/uploads/visual-salience.png
 (Figure: Visual salience of colors)
@@ -213,13 +214,13 @@ A cohesive motion system can improve the user experience by reflecting the brand
 
 The animation in motion design can express the tone and voice of a brand. For example, the transition between different pages and state-change can be either playful or subtle. They represent two different kinds of brand personalities - cheerful or calm. However, the designer should be really careful when it comes to a larger project - animations should be consistent throughout the user experience. For instances, if hover on the buttons with the same function triggers various animation, the user will confuse about the meaning of this movement - are they just a fancy decoration or actually points to different status? According to the "12 Principles of Animation" (Thomas et al., 1995), the volume, staging and lighting and the transition from frame to frame should all considered in a well-developed motion system.<br/>
 
-In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to a static image, a sequence of animation increase the content capacity and reduce the effort to understand information. Here, the Apple Card informs users the charges range through the circular animation. The animation expresses the process more Intuitively than a long paragraph. These meaningful details are like the tiny hopes within websites. They tell the user “something is going to happen”, ease the user anxiety, help them to avoid common mistakes and keep them from leaving.<br/>
+In the scenarios where the user has to wait for feedback when submitting forms or waiting for loading, animations could provide the status of the system through visualized bar, numbers or focus area. In some cases, interactive animations even help to break complicated information down. Compared to a static image, a sequence of animation increase the content capacity and reduce the effort to understand information. Here, the Apple Card informs users the charges range through the circular animation. The animation expresses the process more Intuitively than a long paragraph. These meaningful details are like the bread crums within websites. They hint the clues and tell the user “something is going to happen”, ease the user anxiety and keep them from leaving.<br/>
 
 <br/>[Figure: Video Screenshot from Apple Card App]
 
 In practical work, parallax scrolling is a commonly used engaging technique that creates an illusion of depth in website pages. It attracts users to read more content. Research proved that parallax scrolling has a positive impact on the user experience through increasing the usability(Frederick et al,2015) and interactivity(Wang and Sundar, 2018). The downside of this strategy might be the increase in loading time. To solve the problem, RE:souce will balance the amount of parallax effect and other required resources.
 
-Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas. Just like salt: overuse them will ruin the flavour; leave them out will leave recipe tastes bland.<br/>
+Of course, even though moving elements are a powerful tool to attract user attention, they must be “unobtrusive, brief, and subtle” (Laubheimer, 2020). The usage of motions should be restricted only to the necessary areas or they will be annoying and distracting. <br/>
 
 > Goyeneche, E., 2020. Why Is Motion Design So Important To User Experience?. [online] Medium. Available at: <https://medium.com/@elimagoy/why-is-motion-design-so-important-to-user-experience-50110ba4b5e1> [Accessed 31 May 2020].
 
@@ -233,15 +234,17 @@ Of course, even though moving elements are a powerful tool to attract user atten
 
 <br/>
 
-## 2.3 Background: Chinese and UK Second-hand Markets
+## 2.3 Background: Chinese Second-hand Market
 
-The secondhand market in China is at its nascent but growing dramatically. <br/>
-
-Research stated the recommerce market had reached \$71.1 billion in 2017 and is predicted to double the size by 2020. However, compared to the large secondhand market in the western world which can count up to 10% of its total GDP (Gross Domestic Product), Chinese secondhand market only made up around 0.6% of the total GDP in 2017 (Wang, 2019). Meanwhile, the second-hand economy in great Britain is the second-hand economy is thriving, with 42% of citizens selling pre-loved items in 2017 (Johnson, 2018).<br/>
+The secondhand market in China is at its nascent but growing dramatically. <br/>Statistics shows the Chinese recommerce market had reached \$71.1 billion in 2017, made up around 0.6% of the total GDP in 2017 and is predicted to double by 2020(Wang, 2019).However, compared to the large scale secondhand market in some western country, the Chinese market still have loads of room for improvement. For example, the total value of listed goods on Blocket, the largest Sweden online second-hand platform, corresponded to 11% of Swedish GDP (CASI, 2020).
 
 There are several reasons why Chinese secondhand market is limited.<br/>
 
-The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remains unknown. For example, a car could be resold because it had gone through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. From a cognitive aspect, most charity shops are run by the government who seldom promote these charity services. The shortage of systematic marketing plan also causes trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products is close to the market price, which is hardly attractive to the public. The most bizarre situation is that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. From an infrastructure perspective, the broken service chain has to take responsibility for the recycling dilemma. Recently there are more recycle box installed within the community. However, when the box is filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.<br/>
+The traditional offline recycle bear the brunt first. From a cultural perspective, the older generation believed that second-hand items are not "lucky" since the reason they get abandoned remains unknown. For example, a car could be resold because it had gone through accidents. The new owner might have to deal with the bad luck brought by this car. Plus, some think it is beneath their dignity to use unwanted items. <br/>
+
+From a cognitive aspect, most charity shops are run by the government who seldom promote these charity services. The shortage of systematic marketing plan also causes trouble to the donate-selling business. Most importantly, the items in these shops are not included in the tax exemption policy. Therefore the price of the second-hand products is close to the market price, which is hardly attractive to the public. It is reported that that the price in some charity shop is even higher than the normal price - the extra fee is explained as the donation to charity. <br/>
+
+From an infrastructure perspective, the broken service chain has to take responsibility for the recycling dilemma. Recently there are more recycle box installed within the community. However, when the box is filled, nobody bothers to deliver them to the company in charge. Items packed in the box get rotten and smelly. In this case, people would rather directly dump their used stuff.<br/>
 
 As for the online second-hand platforms, the concern mentioned most from the Chinese secondhand buyer is the reliability of the seller, followed by the questionable hygiene of second-hand products. Sometimes costumers receive the product that is not compatible with the images shown online (CBNData, 2019). <br/>
 
@@ -270,42 +273,48 @@ eBay pointed out its success and present its story in a formal way. The "stories
 Etsy tells the story about its brand in a more intimate tone like an old friend. The animated illustration brings more characteristic to the brand.
 
 **(3)Design**
-eBay used analogous colour extended from its brand colour. Each category chooses a series of analogous colour to maintain consistency, so does the single pages within the "about us" section. However, the abundance of colour actually makes the pages visually complicated since the user has to jump in between colours and try to find the connection between the product and colour. By adding colour to product image with a transparent background, save the consistency back slightly. The
+eBay used analogous colour extended from its brand colour. Each category chooses a series of analogous colour to maintain consistency, so does the single pages within the "about us" section. However, the abundance of colour actually makes the pages visually complicated since the user has to jump in between colours and try to find the connection between the product and colour. By adding colour to product image with a transparent background, save the consistency back slightly.
 
 **B2C Platform: Re-Fashion(re-fashion.co.uk)**
-Re-Fashion is a website that "helps charities that can't open a shop to raise money from donated clothes." The business model of this website is extremely similar to RE:source: it serves both donor and buyer. The profit it gains goes to the charity chosen by the user.
+Re-Fashion is a website that "helps charities that can't open a shop to raise money from donated clothes."(RE-fashion, 2020) The business model of this website is extremely similar to RE:source: it serves both donor and buyer. The profit it gains goes to the charity chosen by the user.
 
 The website is cleanly designed with one single brand colour, stylish font and clear visual hierarchy. Its style blog tells the story of their cooperation
 
 ## 3.2 Project Brief
 
-RE: source is a second-hand, sustainability-driven online marketplace serving sellers, outbound Chinese students and buyers, inbound Chinese students who are starting their education in the UK. The ultimate goal of RE:source is actively shape the perspectives mindset of environmental awareness and sustainability of the future China young thought leaders in the UK.<br/>
+【添加一个板块描述整个 business 怎么运行，怎么解决用户的问题，最后怎么给奖励。 网站的结构】
+RE: source is a business-to-consumer(B2C) second-hand, sustainability-driven online marketplace serving sellers, outbound Chinese students and buyers, inbound Chinese students who are starting their education in the UK. RE:source collect second-hand items from donor and resell them to the buyers. The ultimate goal of RE:source is actively shape the perspectives mindset of environmental awareness and sustainability of the Chinese studying in the UK.<br/>
 
-The sustainable component is adopted as a supporting marketing strategy. The previous case shows the "sustainable" movement potentially brings benefits. In 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).<br/>
+The sustainable component is adopted as a supporting marketing strategy. Some previous case shows the "sustainable" movement potentially brings benefits.For instance, in 2013, IKEA Norway held a temporary online flea market collecting and reselling the used IKEA items. At the end of the 8-week-long campaign, IKEA announced the increase in furniture sale(Rudenko, 2013). In conclusion, the sustainable tag can actually have a positive effect on a brand. It also passes the message of being responsible and caring for the environment. "Protect the environment" is also listed in the top 10 motivators that significantly affect customer value(Harvard Business Review,2015).<br/>
 
 The overall style of RE:source will be simple and graphic, but staying functional.<br/><br/>
 
 ## 3.3 Target Users
 
-The UK Chinese student secondhand market might have a brighter future. The number of Chinese international student rank first in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of a circular economy (CBNData, 2019).Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.<br/>
+The UK Chinese student secondhand market might have a bright future. The number of Chinese international student rank first in the 2017-2018 UK higher education(UKCISA, 2019). Almost 70% of the student enrolling in the UK education age under 25, which happens to be the most open age group to the idea of a circular economy (CBNData, 2019). Therefore, the RE: source platform target at Chinese UK student who has a huge potential to embrace the sustainable lifestyle.<br/>
 
-The target user is divided into two types, donor and buyer. While donor, the Chinese student who tries to get rid of second-hand burdens, the next round of student buyer had not yet arrived. Especially due to the 2020 pandemic, the beginning of the on-site semester postponed and some of the students swtich to online learning. In general, there is a time gap between the two bodies of the student. RE:source link them together and pass down the re-usable items from the seniors to the juniors.<br/><br/>
+The target user is divided into two types, donor and buyer. Donor refers to the student who tries to relieve second-hand burdens as soon as possible before leaving the UK. Buyers are the student who are about to begin their study in the UK or had just arrived for new semester. It is a common approach for the about-to-leave student to find new-coming students to take over pre-loved belongings. However due to the 2020 pandemic, many students are forced to leave the UK earlier. The start of the new semester is also delayed which means less student will arrive in the UK soon. In this case, there is a high possiblity the second-hand goods will go to the trash if nobody takes care of them.
+
+RE:source act as the role to fill the time gap between the two bodies of the student. It temporarily store the second-hand goods and pass down the re-usable items from the seniors to the juniors.<br/><br/>
+
+【针对英国的原因：二手市场历史悠久；资源只能够支持英国境内发展，之后再扩张】
+【指出 pain points】
 
 ## 3.4 The Offering
 
-According to the brief questionnaire among 75 Chinese second-hand buyers, WeChat, the largest social media in China, turns out to be the No.1 channel Chinese students use for idle goods transaction. As a messaging app, WeChat provides a clunky, unorganised, and an uninformative shopping experience that requires users to tediously scroll through the group’s chat history, not knowing whether they will ﬁnd their desired item or whether the item is available. eBay and Gumtree are also mentioned as commonly used second-hand web applications. According to online feedbacks, These two platforms got many complaints about "the low quality of products, being scammed and the lake of customer service" (https://uk.trustpilot.com/).<br/>
+【questionnaire 添加到 appendix】
+According to the brief questionnaire among 75 Chinese second-hand buyers, WeChat, the largest social media in China, turns out to be the No.1 channel Chinese students use for idle goods transaction. As a messaging app, WeChat provides a clunky, unorganised, and an uninformative shopping experience that requires users to tediously scroll through the group’s chat history, not knowing whether they will ﬁnd their desired item or whether the item is available. eBay and Gumtree are also mentioned as commonly used second-hand web applications. According to online reviews, these two platforms got many complaints about "the low quality of products, being scammed and the lake of customer service" (trustpilot, 2020).<br/>
 
-As a business-to-consumer(B2C) second-hand e-commerce platform, RE:source will not only provide the service that deals with the problem mentioned above but also optimizes the user experience through storytelling.<br/>
-
-In order to deal with the most commonly seen trust and scam issue on second-hand platform, RE:source solve the root of the problem through choosing the path of B2C instead of P2P (Peer to peer) e-commerce. Since RE:source act as the seller who takes care of the quality of used products, the user no longer have to worry about the reliability of the product provider. Furthermore, timely customer service is provided through email.<br/>
-
-As for the storytelling part, the brand story will firstly persuade the donor and buyer to agree with our value. Then the website will try to provide the highly usable functions where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized.<br/><br/>
+RE:source aims to provide reliable service and optimizes the user experience through storytelling.<br/>In order to deal with the trust and scam issue on second-hand platform, RE:source solve the root of the problem through choosing the path of B2C instead of P2P (Peer to peer) e-commerce. Since RE:source take responsibility of checking the quality and usability of uesd items and provide genuine information on its website, the user no longer have to worry about the reliability of products. Furthermore, timely customer service is provided through email. Customer can always get the support they need.<br/>As for the storytelling part, the brand story on website will firstly persuade the donor and buyer to agree with our value. Then the shop section on the website try to provide the highly usable functions where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized.<br/><br/>
 
 ## 3.5 Project Value
 
 On one hand, the project helps to save natural resource and prevent unnecessary pollution by selling second-hand goods to those in need. Throwing re-usable items away leads to extra landfill, water pollution and waste on recyclable materials. However, manufacturing products potentially cause more impact on the environment. Apart from the same effects mentioned above, the manufacture also consumes a huge amount of materials, water, energy and produce carbon footprint on delivery. Reusing second-hand items is reducing newly manufactured ones. Thus RE:source brings positive impact to the environment.<br/>
+【加入数据支持】
 
-On the other hand, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who can upcycle the second-hand goods through in the future. This movement maximizes the value of used items and avoids the manufacture of the products that serve a similar function. Also, the brand delivers sustainable ideas to a larger audience through a workshop which invites the public to participate in the redesign process.<br/><br/>
+On the other hand, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who can upcycle the second-hand goods through in the future. This movement maximizes the value of used items and avoids the manufacture of the products that serve a similar function. For example, the cushion made by abandoned fabric can work equally well as the new. Also, the brand delivers sustainable ideas to a larger audience through a workshop which invites the public to participate in the redesign process.<br/><br/>
+
+> Re-Fashion. (2020). Re-Fashion | Making Fashion Sustainable. For Good. [online] Available at: https://re-fashion.co.uk/ [Accessed 25 Jul. 2020].
 
 > Rudenko, A., 2013. How IKEA Norway Has Driven Sales, While Helped Old Furniture To Find New Homes. [online] POPSOP. Available at: <https://popsop.com/2013/10/ikea-norway-helped-old-furniture-buy-new-homes/> [Accessed 21 June 2020].
 
@@ -317,11 +326,17 @@ On the other hand, as for the usage of fundings, apart from supporting the compu
 
 > Wang Xueqiao (2019). Second-hand market comes in from the cold in China. [online] @FinancialTimes. Available at: https://www.ft.com/content/a5701798-ad1f-11e9-8030-530adfa879c2 [Accessed 24 Jun. 2020].
 
+> CASI. (2020). Blocket - an online second-hand market, the largest retail market in Sweden | CASI project. [online] Available at: http://www.futuresdiamond.com/casi2020/casipedia/cases/blocket-an-online-second-hand-market-the-largest-retail-market-in-sweden/ [Accessed 25 Jul. 2020].
+
 > Johnson, J. (2018). Business Advice. [online] Business Advice. Available at: https://businessadvice.co.uk/business-development/sales-marketing/uk-consumers-stockpiling-17-7-billion-unwanted-goods/ [Accessed 24 Jun. 2020].
 
 > UKCISA (2019). International student advice and guidance - International student statistics: UK higher education. [online] Ukcisa.org.uk. Available at: https://www.ukcisa.org.uk/Research--Policy/Statistics/International-student-statistics-UK-higher-education [Accessed 27 Jun. 2020].
 
 > CBNData (2019). 2018 National "Light Life" Report [online] CBNData. Available at: https://www.cbndata.com/report/1306/detail?isReading=report [Accessed 27 Jun. 2020].
+
+> Trustpilot.com. (2020). Trustpilot Reviews: Experience the power of customer reviews. [online] Available at: https://uk.trustpilot.com/ [Accessed 25 Jul. 2020].
+
+‌
 
 ---
 
@@ -329,7 +344,7 @@ On the other hand, as for the usage of fundings, apart from supporting the compu
 
 ## 4.1 The Storytelling in RE:source - based on SB7 framework
 
-The implement of RE:source storytelling is based on SB7 framework. The project mainly deals with two kinds of users: donor and buyer. Since all the selling products are recycled from the donation, the narrative of storyline begins from donor, and then switch to the buyer. The presentation of donor story goes to the donation guide page, while our-mission page targets at the pain points of buyers.<br/>
+The implement of RE:source storytelling is based on SB7 framework. The project mainly deals with two kinds of users: donor and buyer. Since all the selling products are recycled from the donation, the storyline in "our-mission" page begins from donor, and then switch to the buyer. 【根据现有的故事线改动】The presentation of donor story goes to the donation guide page, while our-mission page targets at the pain points of buyers.<br/>
 
 After analysing the user problems, RE:source adapt the SB7 framework as followed:<br/>
 
@@ -342,35 +357,35 @@ donor refers to that Chinese student who is about to leave the UK in a hurry.<br
 
 The external problem of donor is to deal with a large amount of second-hand households within a limited time. The internal problem is the reluctance to resolve procrastination when facing hard-work with no rewards as well as the conflict of being a caring environmentalist or being a careless person who dumps the load in a landfill.<br/>
 
-Therefore the story on related page explained the idea "we hate taking bulky items downstairs and dump them as much as you do." The solution provided by RE:source is a free donation collecting service. Step-by-step guide and carefully-designed form process will simplify the donation register process. As a result, there might be a higher possibility the user take part in a donation. As for the reward, Miller(2017) stressed offering a status in return. Thus, the donor will get a certification with his membership as a RE: source support and all the detailed contribution he made to the environment. A certification brings up the feeling of rewarded and being affirmed. At the end of the story, the success should be depicted with an image that shows the character leaving the UK without burden.<br/><br/>
+Therefore the story on related page explained the idea "we hate taking bulky items downstairs and dump them as much as you do." The solution provided by RE:source is a free donation collecting service. Step-by-step guide and carefully-designed form process will simplify the donation register process. As a result, there might be a higher possibility the user take part in a donation. As for the reward, Miller(2017), the author of "Building a storybrand", stressed offering a status in return. Thus, the donor will get a certification with his membership as a RE: source support and all the detailed contribution he made to the environment. A certification brings up the feeling of rewarded and being affirmed. At the end of the story, the success should be depicted with an image that shows the character leaving the UK without burden.<br/><br/>
 
 **Hero story 2: Buyer**
 In general, the buyer is mainly made up of first-year students who just arrived in the UK and are still struggling to get used to the new environment and looking for a way to decorate their new life.<br/>
 
 "Best bargain, reliable products." The slogan pointed out the price and quality advantage of RE:source products.<br/>
 
-Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. Through closely cooperate with the removal company, the reliability of service is guaranteed. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.<br/><br/>
+Buyer face the external problem of paying a fortune for furniture that cannot be taken away and being scare to be scammed. In this case, to ease buyer's doubt, RE: source establish 7-day return policy, guarantee on-time delivery and quality of goods. Through closely cooperate with the removal company, the reliability of service is guaranteed. As for the internal problem, the buyer is looking for a brand that they could rely on. Re: source is set to be considerate like a senior to the new students. "We know a bus trip to IKEA with tons of household items back is a hassle. Why not enjoy the bargain online? All stuff here is still good as new and directly delivered to your doorstep. " Accordingly, the website will lead the buyer through the purchasing process through caring micro-content.【截图】<br/><br/>
 
 ## 4.2 RE:source User Experience design
 
 ### 4.2.1 User Needs of RE:source
 
-RE: source is designed to achieve delight and satisfaction. The ideal performance requires to meet Aaron's user needs(2.1.2).<br/>
+RE: source is designed to achieve delight and satisfaction. 【改掉第一句，很难衡量】The ideal performance requires to meet Aaron's user needs(2.1.2).<br/>
 
 (1) Functional: RE: source help donors to fill in the form as quick and easy as possible and provides the buyer with the list and filter for second-hand products.<br/>
 
 (3) Reliable: RE: source responds consistently and is effective in finding the desired stuff and helping user finish the tasks.<br/>
 
-(2) Usable: The web app contains enough brief status information of products and clear instructions. Advanced information only is shown when needed to reduce distractions. The pages work seamlessly.<br/>
+(2) Usable: The web app contains enough brief status information of products and clear instructions. Advanced information only is shown when needed to reduce distractions. The pages work seamlessly.【截图说明】<br/>
 
-(4) Pleasurable: RE: source embed clean and aesthetic illustrations, subtle animations, an adequate amount of tiny gamified elements and gives timely encouraging feedback to reassure user knows what is going on.<br/><br/>
+(4) Pleasurable: RE: source embed clean and aesthetic illustrations, subtle animations, an adequate amount of tiny gamified elements and gives timely encouraging feedback to reassure user knows what is going on.<br/><br/> 【进一步解释】
 
 ### 4.2.2 Usability of RE:source
 
 In order to keep consistency throughout the user experience, RE:source developed a design system that stores all the necessary elements that will be reused multiple times. Applying the design elements metioned in the previous section(2.1.3), RE:source planned to carry out the typography, colour scheme and motion design as follwed:<br/>
 
 **(1)Colour**
-In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above, green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.<br/>
+In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above(2.2.3), green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.<br/>
 
 Considering accessibility, content are not only distinguished through colour, but also explanation text or various patterns.<br/><br/>
 
