@@ -1,5 +1,14 @@
 Overview of everyday progress.
 
+**26 JULY**
+Create illustration for shop hero section and our-mission page. Established individual product page and add price tag, make the header responsive, re-formate and establish the bulky items section. Retouched one of the lucky dip images. Get in touch with the student that would love to take interview.
+
+**25 JULY**
+Code the slider in our-mission page. Test on scoll animation, failed.
+
+**24 JULY**
+Managed to make lottie animation works. Added the call to action section to our-mission page.
+
 **23 JULY**
 Donation form page finish. Function to be added.
 
