@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**27 JULY**
+Our-mission page 5.0 prototype. Construst the category database and made category template. One interview with a target user.
+
 **26 JULY**
 Create illustration for shop hero section and our-mission page. Established individual product page and add price tag, make the header responsive, re-formate and establish the bulky items section. Retouched one of the lucky dip images. Get in touch with the student that would love to take interview.
 
