@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**28 JULY**
+Built part of the our-mission page.Interview with 2 target users. Add a introduction section to landing page prototype. Optimze the icon in our-mission page. Make the countup function work.
+
 **27 JULY**
 Our-mission page 5.0 prototype. Construst the category database and made category template. One interview with a target user. Number count up function works but not trigger on scroll.
 
