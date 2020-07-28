@@ -42,10 +42,10 @@ var co2_floorlamp = 114,
   co2_tablelamp = 12;
 
 var h2o_floorlamp = 1437,
-  h2o_drawer = 1512;
+  h2o_tablelamp = 1512;
 
 var landfill_floorlamp = 9.5,
-  landfill_drawer = 1;
+  landfill_tablelamp = 1;
 
 //Chair
 var co2_chair = 35,
