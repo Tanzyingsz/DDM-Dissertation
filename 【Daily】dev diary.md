@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**29 JULY**
+Finish the first edition of website. Some details to improve. Worked on the our-mission page. Feedback from Andrew in the afternoon. Night off.
+
 **28 JULY**
 Built part of the our-mission page.Interview with 2 target users. Add a introduction section to landing page prototype. Optimze the icon in our-mission page. Make the countup function work.
 
