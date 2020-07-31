@@ -72,6 +72,7 @@
 - 加 responsive
 - 奖励制度？linked In 进度条？
 - 提到 gamification
+- hidden section (搜 secrect/副本 in storytelling)
 
 【核心问题：没有表达清楚故事是怎么 convey user 的】
 
