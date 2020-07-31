@@ -1,5 +1,8 @@
 Overview of everyday progress.
 
+**30 JULY**
+Tried to update prototypes to pinterest and post but wordpress crashed because of Elementor. Tested out mouse hover in several divs. Created 3 animaitons for the web page.
+
 **29 JULY**
 Finish the first edition of website. Some details to improve. Worked on the our-mission page. Feedback from Andrew in the afternoon. Night off.
 
