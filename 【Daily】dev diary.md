@@ -1,4 +1,9 @@
 Overview of everyday progress.
+**1 AUGUST**
+Find the tool to transcribe the interview into text.
+
+**31 JULY**
+Optimize the website based the feedbacks from Andrew (footer, some slogan in page, all logos in page updated, typos). Prepared Interview question. Had an English interview with target user and recorded.
 
 **30 JULY**
 Tried to update prototypes to pinterest and post but wordpress crashed because of Elementor. Tested out mouse hover in several divs. Created 3 animaitons for the web page.
