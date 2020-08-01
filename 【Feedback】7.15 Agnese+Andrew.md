@@ -42,6 +42,29 @@
 
 # Agnese
 
+Main point(Focus) not clear
+Superficial, main point not clear
+link
+
+- 每一个 part 后面加 conclusion，所有的 UI 点要联系到 storytelling
+
+INTRODCUTION
+clarify storytelling 的 context,说清楚是在网站上的
+
+LR
+（简单讲 storytelling，大篇幅讲 digital storytelling on website，然后再 case studies，在这里融入 UI）
+Storytelling, story and narratives difference(narratives are performative)
+enviromental storytelling, movement - colour & shapes
+把 etsy 和 dopper 的 case study 放到这里
+
+一定要把 UI 部分跟 storytelling 联系起来
+
+【etsy】截图，怎么通过 typeface layout 来 storytelling，达到 friendly 的目的，怎么 convey its value，用了什么元素。How does it make you feel, and why does it make you fell this way
+
+Culture 部分有意思可以多讲讲
+
+Interview 里面可以提到对用户的 effect，他们对 sustainbility 的看法的改变
+
 - 1. express feeling 加引用，interaction 具体解释
 
 - 2.1.1 many 加引用
