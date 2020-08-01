@@ -1,4 +1,4 @@
-# Why and how digital storytelling optimize user experience of a e-commerce brand
+# Why and how digital storytelling optimize user experience of an e-commerce brand
 
 #### -The case of RE:source, a sustainable B2C second-hand website
 
