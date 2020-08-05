@@ -18,25 +18,25 @@
 
 - 2.1.4 删除 emoji 部分， 添加论述 images help break up your text and make it more readable.
 
-- 2.1.5 case studies 只挑重要的
+- [x] 2.1.5 case studies 只挑重要的
 
 - 2.2.1 Specifically, animations, proper interactivity, well-presented microcontent like short and powerful titles, summaries, hints and tips that embed the characteristics of a brand 解释为什么跟 storytelling 有关
 
-- 2.2.3 解释 UI UX 跟 storytelling 的关系
+- [x] 2.2.3 解释 UI UX 跟 storytelling 的关系
 
 - 2.2.3 colour 第三点提前（并且拉大篇幅），删减其他不必要部分
 
-- 2.2.3 删除 parallax
+- [x] 2.2.3 删除 parallax
 
 - 2.3 跟 2.2 对调，并且加入 RE:source 介绍
 
-- 3.1 两个 C2C platforms，不要 eBay，只要 etsy
+- [x] 3.1 两个 C2C platforms，不要 eBay，只要 etsy
 
 - 3.4 解释为什么 donor 也算 B2C
 
 - 3.5 upcycle 弱化
 
-- 4.3 直接改成 interview
+- [x] 4.3 直接改成 interview
 
 ---
 
@@ -59,7 +59,7 @@ enviromental storytelling, movement - colour & shapes
 
 一定要把 UI 部分跟 storytelling 联系起来
 
-【etsy】截图，怎么通过 typeface layout 来 storytelling，达到 friendly 的目的，怎么 convey its value，用了什么元素。How does it make you feel, and why does it make you fell this way
+[x]【etsy】截图，怎么通过 typeface layout 来 storytelling，达到 friendly 的目的，怎么 convey its value，用了什么元素。How does it make you feel, and why does it make you fell this way
 
 Culture 部分有意思可以多讲讲
 
@@ -84,8 +84,8 @@ Interview 里面可以提到对用户的 effect，他们对 sustainbility 的看
 - 2.4 lucky 需要 evidence， tax exemption policy 需要 evidence. 溢价需要 evidence.
 - 3.1 learn from other competitors 具体解释。 straight forward 具体解释
 - 3.1 storytelling 列清楚有什么点
-- 3.1 截图 etsy，解释它如何 engage with this brand and demonstrate more clearly how it connects with users.
-- 3.3 circular economy 定义
+- [x] 3.1 截图 etsy，解释它如何 engage with this brand and demonstrate more clearly how it connects with users.
+- [x]3.3 circular economy 定义
 
 - 在文章前半部分提出 solutions i.e. how could strong brand identity, storytelling, user interface could help to change people’s behavior, attitudes etc.
 
