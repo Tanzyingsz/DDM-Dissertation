@@ -1,4 +1,16 @@
 Overview of everyday progress.
+**5 AUGUST**
+Getting feedback from Andrew in the morning. Send email to John and Andrew to prove the amount of design work I have done with Webflow and Figma. Updated the copywriting of website.
+
+**4 AUGUST**
+Retouched photo, Update the lucky dip items in the system. Fix the bug of shrink card. Made a third interview in the morning. Keep writing the dissertation. Reached 5000words.
+
+**3 AUGUST**
+Use div to take the place of static image in our-mission page for usability. Adjust the animation of coin scrolling effect. Add "outfit packet card". Reconstruct the dissertation from sketch and fill the content of cases study, part of the storytelling elements.
+
+**2 AUGUST**
+Finish recording a second interview. Solved the flipping lucky dip bug and added more interactive effects to lucky dip.
+
 **1 AUGUST**
 Find the tool to transcribe the interview into text.
 
