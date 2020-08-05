@@ -16,7 +16,7 @@ The project is currently host under the domain https://re-source.live.
 
 ## 2.1 Storytelling
 
-### 2.1.1 Start From the Origin: What Is Storytelling?
+### 2.1.1 Start From The Origin: What Is Storytelling?
 
 To understand digital storytelling, we should first start from the very basic - story. A story contains a series of information that makes up narrative. In history, various definations are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desire of searching for emotions(Fournier, 1998). "Human memory is story-based"(Schank, 1999) Human tend to store and retrieve information as stories. Therefore, people react to the information that is already a story faster and easier, and even experience pleasure in the process(Holt, 2013).
 
@@ -41,7 +41,7 @@ To illustrate how this story framework works, Let's take the first _Hunger Game_
 
 ## 2.2 Ditial Storytelling
 
-### 2.2.1 What is digital storytelling
+### 2.2.2 What is digital storytelling
 
 The concept of digital storytelling first came up in the 1990s when the Center for Digital Storytelling began to held workshop that engage the audience who are willing to share their story.(StoryCenter, 2020) Later on, as the internet developed, many【添加引用】 have made an attempt to define digital storytelling. Nevertheless, they all end up consider digitral storytelling as a way to explain traditional storytelling through a mutlimedia way.
 
