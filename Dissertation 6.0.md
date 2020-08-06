@@ -18,14 +18,14 @@ The project is currently host under the domain https://re-source.live.
 
 ### 2.1.1 Start From The Origin: What Is Storytelling?
 
-To understand digital storytelling, we should first start from the very basic - story. A story contains a series of information that makes up narrative. In history, various definations are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desire of searching for emotions(Fournier, 1998). "Human memory is story-based"(Schank, 1999) Human tend to store and retrieve information as stories. Therefore, people react to the information that is already a story faster and easier, and even experience pleasure in the process(Holt, 2013).
+To learn about digital storytelling, we should first start from the very basic - story. A story contains a series of information that makes up narrative. In history, various definations are set for story. "Narratives are stories", through storytelling, one can understand his own life better(Shankar et al,2001). Stories create the experience that fulfill the listener's desire of searching for emotions(Fournier, 1998). "Human memory is story-based"(Schank, 1999) Human tend to store and retrieve information as stories. Therefore, people react to the information that is already a story faster and easier, and even experience pleasure in the process(Holt, 2013).
 
 The approach to bring story to life is storytelling. Storytelling has been widely used becasue of it affects how people think and act. On one hand, science backup the crucial role of storytelling - the human brain is hardwired for stories. Neuroeconomist Zak discovered story will increase the release of neurochemical oxytocin, the so-called "love hormone" and dopamine which contribute a long-lasting and more accurate memory(Zak, 2013). Besides, human tend to mirror their experience to the speaker's. Hence, after listenting to the story, the customer will perform a higher level of empathy. On the other hand, the voice of the public support the importance of storytelling. In the 2017 report, storytelling was rated the most effective marketing tactics among 62% of B2B marketers. The number of B2C storytelling supporter was even higher (The Science of Storytelling (Infographic), 2017). It is said that people are 22 times more likely to memorize a fact when they are presented in the form of a story (Ochs and Capps, 2009). <br/>
 
 > Schank, R. C., 1999. Dynamic memory revisited. Cambridge University Press.
 > Holt, D. B., 2003. What Becomes an Icon Most? Harvard Business Review, 81 (3), pp. 43-49.
 
-### 2.1.3 Storytelling Structure
+### 2.1.2 Storytelling Structure
 
 Framework helps to structure a story for a better user experience. The previous study proposed frameworks like the persona-based model (Herskovitz, and Crystal,2010), the Hero’s Journey story framework (Campbell, 2008), story brand 7-Part framework (SB7 framework) (Miller, 2017) etc. Among which Miller's framework is the most comprehensive and easy to process for customers. It emphasizes the influence of user instead of bragging about the importance of the storyteller - usually the brand who runs the website - itself. Therefore this project plan to adapt Miller's work into practice. The SB7 framework proposes a 7-plot-points genuine story formula:<br/><br/>
 
@@ -41,7 +41,7 @@ To illustrate how this story framework works, Let's take the first _Hunger Game_
 
 ## 2.2 Ditial Storytelling
 
-### 2.2.2 What is digital storytelling
+### 2.2.1 What is digital storytelling
 
 The concept of digital storytelling first came up in the 1990s when the Center for Digital Storytelling began to held workshop that engage the audience who are willing to share their story.(StoryCenter, 2020) Later on, as the internet developed, many【添加引用】 have made an attempt to define digital storytelling. Nevertheless, they all end up consider digitral storytelling as a way to explain traditional storytelling through a mutlimedia way.
 
@@ -51,9 +51,16 @@ _Digital storytelling is web-based._ Usually, the forms of digital covers a wide
 
 _Digital storytelling is interactive._ The interactivity is actually the greatest difference between classic storytelling and digital storytelling(Handler Miller,2008). Since digital storyteling is web-based, human-computer interaction is included. In this case, the interactive nature of digital storytelling directly switch the user identity from an "audience" to a "participant." Unlike traditional media, such as books and movies, where information act as a one-way flow, user's activity will influence the content on digital storytelling medium. For example, when interacting with a digital storytelling website, users are expecting the system to provide feedback as soon as they input or change the parameters on page.
 
-[ *Figure: interactive range slider*]
+[Figure: Interactive range slider]
 
-【one more defination(not necessarily contains a visible character)】
+_Digital storytelling has various types_
+Digital storytelling could be applied to various gengres. Robin(2005) dedicated 3 main categories for digital storytelling: 1) personal narratives - a series of important incidents of one's personal life 2) historical documentaries – narratives about the historical events that helps to form a deeper understanding of the past and 3) stories for informing or instucting user about certain concept.
+
+[Figure: Types of digital storytelling(Signes,2010)]
+
+> Robin, B. (2006, March). The educational uses of digital storytelling. In Society for Information Technology & Teacher Education International Conference (pp. 709-716). Association for the Advancement of Computing in Education (AACE).
+
+> Signes, C. G. (2010). Practical uses of digital storytelling. Universitat de Valencia, 10.
 
 ### 2.2.2 Why Digital Storytelling Affects User Experience?
 
@@ -61,7 +68,11 @@ _Digital storytelling is interactive._ The interactivity is actually the greates
 
 In the modern websites, the information explosion feeds people with way too much noise (Miller, 2017). Luckily, storytelling is a powerful approach to create music out of noise, since it emphasize the main ideas and weaken irrelevant information. Well-choreographed story act like a map that leads the customer all the way through the product and services provided. In this case, the customer does not have to overload their mental capacity and guide them towards the desired actions.<br/>
 
-####
+#### Digital storytelling increase comprehension
+
+#### Digital storytelling enhances engagement
+
+> Burmark, L. (2004). Visual Presentations That Prompt, Flash & Transform Here are some great ways to have more visually interesting class sessions. Media and methods, 40, 4-5.
 
 ### 2.2.3 How Digital Storytelling On A Website Works? The Secret Formula
 
@@ -119,7 +130,7 @@ Researchers have considered gamification as a critical role in increasing the en
 interaction and narrative
 responsiveness
 
-## 2.3 Case Studies: Digital Storytelling On E-commerce Websites
+## 2.3 UI/UX Case Studies: Digital Storytelling On E-commerce Websites
 
 ### 2.3.1 Etsy - The vibrant global marketplace
 
@@ -157,7 +168,7 @@ Furthermore, Dopper emphasizes its mission and impact by listing its actions and
 
 Finally, the button to the shopping section floats up, waiting for the user activity. "Our oceans will thank you." and "contribute to these cool things" increase the user proud and esteem even more. By this point, there is a high possibility the user might pursue to discover more in the shop. The whole cycle of digital storytelling ends thoroughly.
 
-### 2.3.3 Analysis on case studies
+### 2.3.3 Analysis on UI/UX case studies
 
 Comparing the two digtial storytelling cases, they both create a straightforward user experience and pass the information about their value and mission in a clean and artistic way. But the Dopper story is even more playful and persuasive.
 
@@ -228,25 +239,43 @@ RE:source act as the role to fill the time gap between the two bodies of the stu
 【资源只能够支持英国境内发展，之后再扩张】
 【pain points】
 
-## The Offering
+#### The Offering
 
 RE:source aims to provide reliable service and optimizes the user experience through storytelling.<br/>In order to deal with the trust and scam issue on second-hand platform, RE:source solve the root of the problem through choosing the path of B2C instead of P2P (Peer to peer) e-commerce. Since RE:source take responsibility of checking the quality and usability of uesd items and provide genuine information on its website, the user no longer have to worry about the reliability of products. Furthermore, timely customer service is provided through email. Customer can always get the support they need.<br/>As for the storytelling part, the brand story on website will firstly persuade the donor and buyer to agree with our value. Then the shop section on the website try to provide the highly usable functions where the process of reserving doorstep donation collection service and searching for desired items are all simplified and optimized.<br/><br/>
 
-## 3.5 Project Value
+#### Project Value
 
 On one hand, the project helps to save natural resource and prevent unnecessary pollution by selling second-hand goods to those in need. Throwing re-usable items away leads to extra landfill, water pollution and waste on recyclable materials. However, manufacturing products potentially cause more impact on the environment. Apart from the same effects mentioned above, the manufacture also consumes a huge amount of materials, water, energy and produce carbon footprint on delivery. Reusing second-hand items is reducing newly manufactured ones. Thus RE:source brings positive impact to the environment.<br/>
 【加入数据支持】
 
 On the other hand, as for the usage of fundings, apart from supporting the compulsory delivery and storage service, RE: source plan to use the profit to fund the artist who are able to redesign the second-hand goods in the near future. This movement maximizes the value of used items and avoids the manufacture of the products that serve a similar function. For example, the cushion made by abandoned fabric can work equally well as the new. Also, RE:source delivers sustainable ideas to a larger audience through the workshop which invites the public to participate in the redesign process.<br/><br/>
 
-### 3.1.3 Develop - Prototype Iteration
+### 3.1.3 Develop - Figma Prototype Iterations
 
 This stage marks the actual start to finding the solutions. It requires prototype and continuous upgrading on the design.
 [Figure: RE:source site map]
 
+[Figure: RE:source wireframe]
+
 [Figure: Logo Design process]
 
-**Gamification: flipping cards**
+### 3.1.4 Deliver - Development on Webflow
+
+The last stage is to launch and test the final product.
+
+Given the dissertation time constraint, RE:source chose Webflow as its development tool. Webflow's e-commerece system takes care of the backend data transmission and payment APIs. Thus the designer could focus on the story content, visual design and interactions. Even though Webflow is famous for "build website without coding", it still reqires the designer to have a deep understanding of HTML/CSS. Because the development starts from blank page, all the HTML structure and CSS adjustment on the webiste has to be set manually. So does the structure of database. In the
+
+Apart from the landing page, there are 3 main sections in Re:source: our-mission, donation and shop. "Our-mission" is the main digital storytelling part.Besides, the sub-section "donation guide" in "donation" is also considered as a digital storytelling experience.
+
+**Landing Page**
+Motion graphics:Lottie animation
+
+**Our-mission**
+
+**Donation**
+
+**Shop**
+Gamification: flipping cards
 Instead of illustrating the lucky dip in a box-like or bag-like stereotype, the card-like design is inspired by tarot card. As the tool to tell fortune, tarot card is usually linked to the keyword "mysterious". The flipping card process is full of uncertainty, just like the nature of lucky dip. Conseqently, this gamification brings user excitement of finding out the hidden list on the back of card.
 
 To improve the usability of these cards, the design had went through several changes. In the early stage, the pure card form without any description text raise confusion on users "I don't know they are clickabe" said a UI designer. Besides the flipping motion is laggy in this stage.Then through adding price tag below the cards, lukcy dips are easier to be recognized as a product to buy, but it is still not clear the cards link to other pages. In the end, the extra white background that stretch on hover provide enough feedback to users. The slow interaction is also solved through some tweaks on the div structure.
@@ -254,12 +283,6 @@ To improve the usability of these cards, the design had went through several cha
 [Figure: Flipping card versions]
 
 Here "the rule of odds" is proved to be right. At first there were 8 cards in the page. Users stop scrolling and lose the chance to see the following section. Because they saw the last two cards and "think the page ends here." After making to card number to 9, users no longer stop before the true ending comes.
-
-### 3.1.4 Deliver - Development on Webflow
-
-The last stage is to launch and test the final product.
-
-Given the dissertation time constraint, RE:source chose Webflow as its development tool. Since Webflow's e-commerece system takes care of the backend data transmission, the author could purely focus on the story content, visual design and interactions.
 
 > Council, D. (2005). The ‘double diamond’design process model. Design Council.
 
