@@ -1,4 +1,10 @@
 Overview of everyday progress.
+**7 AUGUST**
+Adjust dissertation and send urgent email to Andrew. Mianly adjust the storytelling literature review part. Make new icon for FAQ page.
+
+**6 AUGUST**
+Afternoon off. Work on dissertation.
+
 **5 AUGUST**
 Getting feedback from Andrew in the morning. Send email to John and Andrew to prove the amount of design work I have done with Webflow and Figma. Updated the copywriting of website.
 
