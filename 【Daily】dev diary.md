@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**8 AUGUST**
+Add product "table" into category. Change the color scheme of table card. Make the category sliding direct to verical. Add conetent to dissertation(section3). Night off.
+
 **7 AUGUST**
 Adjust dissertation and send urgent email to Andrew. Mianly adjust the storytelling literature review part. Make new icon for FAQ page.
 
