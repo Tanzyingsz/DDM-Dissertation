@@ -81,7 +81,7 @@ Interview 里面可以提到对用户的 effect，他们对 sustainbility 的看
 - 2.2.3 Blue is also said to be associated with keyword safety and comfort 加例子
 - typography 加图
 - 2.3 中国群众关于 sustainbility 的态度
-- 2.4 lucky 需要 evidence， tax exemption policy 需要 evidence. 溢价需要 evidence.
+- 2.4 [x]lucky 需要 evidence， [x]tax exemption policy 需要 evidence. [x]溢价需要 evidence.
 - 3.1 learn from other competitors 具体解释。 straight forward 具体解释
 - 3.1 storytelling 列清楚有什么点
 - [x] 3.1 截图 etsy，解释它如何 engage with this brand and demonstrate more clearly how it connects with users.
