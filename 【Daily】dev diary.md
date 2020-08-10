@@ -1,4 +1,10 @@
 Overview of everyday progress.
+**10 AUGUST**
+Add more content to chapter3. Making change according to Andrew feedback. Make youtube cover for the interviews.
+
+**9 AUGUST**
+Finish the part before 3.3. Figure out a way to make page static - adding tag and filter to duplicated products.
+
 **8 AUGUST**
 Add product "table" into category. Change the color scheme of table card. Make the category sliding direct to verical. Add conetent to dissertation(section3). Night off.
 
