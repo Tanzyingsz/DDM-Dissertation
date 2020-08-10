@@ -383,7 +383,7 @@ RE: source is designed to achieve delight and satisfaction. 【改掉第一句�
 ### 4.2.2 Usability of RE:source
 
 In order to keep consistency throughout the user experience, RE:source developed a design system that stores all the necessary elements that will be reused multiple times. Applying the design elements metioned in the previous section(2.1.3), RE:source planned to carry out the typography, colour scheme and motion design as follwed:<br/>
-
+merri
 **(1)Colour**
 In order to show the various status of information and express a clear hierarchy, RE:source picked the colour theme with one primary colour, blue, and five additional colours. Inspired by the visual salience chart above(2.2.3), green and orange are used as the secondary and third level of colour in priority. The overall elaborate colour theme helps RE:source to present readable and understandable content, pass the brand value of safe and reliable.<br/>
 
