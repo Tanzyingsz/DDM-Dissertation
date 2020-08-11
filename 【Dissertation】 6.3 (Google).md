@@ -684,3 +684,10 @@ Based on the feedback from interviews, the future version of RE:source might nee
 #### **Appendix 2 - Interview Consent Form**
 
 #### **Appendix 3 - The Most Commonly Used Second-hand Platform Among Chinese Student In the UK Questionnaire**
+
+备用：
+
+2.  The higher trust between acquaintance means a lower possibility of being deceived;
+
+Etsy
+Use the space and clour on the page wisely. Form a clear visual hierarchy and create some space for the viewer to “breathe.”
