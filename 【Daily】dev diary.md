@@ -1,4 +1,13 @@
 Overview of everyday progress.
+**13 AUGUST**
+Gained feedback on the written material from Andrew in the morning. Afternoon off. Wrote the Abstract and corrected some mistakes within the dissertation draft.
+
+**12 AUGUST**
+Update website: add static address path, duplicated the current products and add tags, made a 404 page, add background transition, nav bar disappear when slide down, appear when slide up. Collected some inspiration on page transition and loading animation.
+
+**11 AUGUST**
+Finish the writing except for the chapter 4,5
+
 **10 AUGUST**
 Add more content to chapter3. Making change according to Andrew feedback. Make youtube cover for the interviews.
 
