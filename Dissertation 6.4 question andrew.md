@@ -1,3 +1,5 @@
+Do I need to have a Declaration section?
+
 All reference will be moved to bibliography in the final version. The form will be unified to APA style (right now is a mixture of Harvard and APA)
 
 The static website will be developed during Wednesday, ideally able to be presented during the Thurday session. New link will be updated then.
