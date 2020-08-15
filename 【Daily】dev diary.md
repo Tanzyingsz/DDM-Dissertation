@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**15 AUGUST**
+Add a scorll down percentage indicator. Nav bar scroll down and up with page scrolling.
+
 **14 AUGUST**
 Optimize the 3D hover effect. Add figure to dissertation.
 
