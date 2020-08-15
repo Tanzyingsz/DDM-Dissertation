@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**14 AUGUST**
+Optimize the 3D hover effect. Add figure to dissertation.
+
 **13 AUGUST**
 Gained feedback on the written material from Andrew in the morning. Afternoon off. Wrote the Abstract and corrected some mistakes within the dissertation draft.
 
