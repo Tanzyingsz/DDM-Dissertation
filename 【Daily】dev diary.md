@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**17 AUGUST**
+Finish the 8100 words dissertation.Edited 2 interview videos, figured out how to user Adobe Media Encoder to speed up the render in PR so that I can cut video with ease.
+
 **16 AUGUST**
 Made the loading animation for website, although not yet successfully make it work. Add hover bubble to call-to-action buttons.
 
