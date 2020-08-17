@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**16 AUGUST**
+Made the loading animation for website, although not yet successfully make it work. Add hover bubble to call-to-action buttons.
+
 **15 AUGUST**
 Add a scorll down percentage indicator. Nav bar scroll down and up with page scrolling.
 
