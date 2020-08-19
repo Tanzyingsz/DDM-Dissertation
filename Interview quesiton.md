@@ -35,7 +35,7 @@ It is clearly about donating the unwanted things and pass on to the others. Save
 [Is it confusing that the cards are clickable.]
 I don't find it confusing. I find them rather different compared to what I normally see and I actually find it quite cool as well. They are like the magical cards. It is actually something quite unique. It is easy to get used to and find out the detailed information as well.
 
-For a story, you require step and require introduction as well.
+For a story, you require steps and require introduction as well.
 
 [What the story is trying to persuade you?]
 Enivronment is impacted by the wasted we've been producing. Through passing the unwanted things to others, we can do some pretty serious good to earth and environment.
