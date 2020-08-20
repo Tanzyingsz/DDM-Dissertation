@@ -1,6 +1,12 @@
 Overview of everyday progress.
+**19 AUGUST**
+Upload videos. Make the website responsive. Remove loading animatiom, make all pages static. Prepare music and templates for video editing.
+
+**18 AUGUST**
+Finish all interview video editing. Final feedback from Andrew in the morning. Afternoon off. Added cookie to website.
+
 **17 AUGUST**
-Finish the 8100 words dissertation.Edited 2 interview videos, figured out how to user Adobe Media Encoder to speed up the render in PR so that I can cut video with ease.
+Finish the 8100 words dissertation. Edited 2 interview videos, figured out how to user Adobe Media Encoder to speed up the render in PR so that I can cut video with ease.
 
 **16 AUGUST**
 Made the loading animation for website, although not yet successfully make it work. Add hover bubble to call-to-action buttons.
