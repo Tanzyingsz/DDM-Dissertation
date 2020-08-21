@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**20 AUGUST**
+Record walkthrough video, edit the word count down. Make promo images for summer project 2020.
+
 **19 AUGUST**
 Upload videos. Make the website responsive. Remove loading animatiom, make all pages static. Prepare music and templates for video editing.
 
