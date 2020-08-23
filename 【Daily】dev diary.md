@@ -1,4 +1,7 @@
 Overview of everyday progress.
+**21 AUGUST**
+Final check on written work. Hand in the files! HAPPY ENDING!
+
 **20 AUGUST**
 Record walkthrough video, edit the word count down. Make promo images for summer project 2020.
 
